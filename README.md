@@ -50,3 +50,17 @@ Lokal muss der Key entweder ebenfalls über den Proxy laufen (Standard) oder du 
 
 Geschrieben wird nur bei Änderungen, ältere Stände stecken zusätzlich in der Git-Historie.
 Der Kriegslog und laufende Kriege sind nur abrufbar, wenn der Kriegslog des Clans öffentlich ist.
+
+## Spieldaten
+
+Die API liefert nur das höchste Level im ganzen Spiel. Rathaus-Maximum, Kosten, Bauzeiten und deutsche Namen kommen
+aus `scripts/gamedata.json`. Die Datei wird aus den Spieldaten der Bibliothek
+[coc.py](https://github.com/mathsman5133/coc.py) (MIT) erzeugt und ist so aktuell wie deren letzter Stand.
+Ist ein Level im Spiel höher als in den Daten, gilt es als erreicht. Einheiten ohne Daten erscheinen ohne
+Rathaus-Maximum. Auffrischen, sobald coc.py neue Daten veröffentlicht:
+
+```sh
+pip download coc.py --no-deps -d /tmp/cocpy && unzip -o /tmp/cocpy/*.whl 'coc/static/*' -d /tmp/cocpy
+python3 scripts/update_gamedata.py /tmp/cocpy/coc/static/static_data.json /tmp/cocpy/coc/static/translations.json <stand>
+```
+

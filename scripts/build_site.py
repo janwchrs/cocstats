@@ -7,12 +7,19 @@ from datetime import datetime, timezone
 
 from coc import DATA, ROOT, coc_time, read_json, read_jsonl, tag_dir
 from fetch import categories
+from progress import GAMEDATA, plan
 
 OUT = ROOT / "site" / "data"
 MAX_WARS = 60
 MAX_RAIDS = 26
 ACTIVITY_DAYS = 400
 MAX_UPGRADES = 300
+
+
+def names():
+    """Englisch -> Deutsch für Einheiten, Erfolge und Ligen."""
+    units = {key.split(":", 1)[1]: u["de"] for key, u in GAMEDATA["units"].items() if u.get("de")}
+    return {**units, **GAMEDATA["names"]}
 
 
 def write_out(path, obj):
@@ -52,8 +59,10 @@ def build_player(path):
     p = read_json(path / "player.json")
     if not p:
         return None
+    pl = plan(p)
     write_out(OUT / "p" / f"{tag_dir(p['tag'])}.json", {
         "player": p,
+        "plan": pl,
         "units": units(categories(p)),
         "history": read_jsonl(path / "history.jsonl"),
         "activity": activity(path),
@@ -62,9 +71,12 @@ def build_player(path):
     })
     league = p.get("leagueTier") or p.get("league") or {}
     clan = p.get("clan") or {}
+    heroes = [[u["n"], u["l"], u["cap"]] for u in pl["units"] if u["c"] == "heroes"]
     return {"tag": p["tag"], "name": p["name"], "th": p.get("townHallLevel"), "xp": p.get("expLevel"),
-            "trophies": p.get("trophies"), "league": league.get("name"), "clanTag": clan.get("tag"),
-            "clanName": clan.get("name")}
+            "trophies": p.get("trophies"), "bestTrophies": p.get("bestTrophies"), "warStars": p.get("warStars"),
+            "league": league.get("name"), "leagueIcon": (league.get("iconUrls") or {}).get("small"),
+            "clanTag": clan.get("tag"), "clanName": clan.get("name"), "role": p.get("role"),
+            "progress": pl["overall"], "rush": pl["rush"], "queues": pl["queues"], "heroes": heroes}
 
 
 def war_summary(war, our_tag, kind):
@@ -181,6 +193,7 @@ def main():
                                     "configured": {"players": meta.get("players", []), "clans": meta.get("clans", [])},
                                     "repo": os.environ.get("GITHUB_REPOSITORY"),
                                     "errors": meta.get("errors", []),
+                                    "names": names(),
                                     "goldpass": read_json(DATA / "goldpass.json")})
     print(f"Dashboard-Daten: {len(players)} Spieler, {len(clans)} Clans -> {OUT.relative_to(ROOT)}")
 
