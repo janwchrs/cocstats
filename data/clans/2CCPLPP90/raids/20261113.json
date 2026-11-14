@@ -1,0 +1,94 @@
+{
+ "state": "ongoing",
+ "startTime": "20261113T070000.000Z",
+ "endTime": "20261116T070000.000Z",
+ "capitalTotalLoot": 2888,
+ "raidsCompleted": 0,
+ "totalAttacks": 3,
+ "enemyDistrictsDestroyed": 1,
+ "offensiveReward": 0,
+ "defensiveReward": 0,
+ "members": [
+  {
+   "tag": "#PLYYQ00YL",
+   "name": "odin",
+   "attacks": 3,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 2888
+  }
+ ],
+ "attackLog": [
+  {
+   "defender": {
+    "tag": "#2LCVVYPQG",
+    "name": "Pride",
+    "level": 4,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png"
+    }
+   },
+   "attackCount": 3,
+   "districtCount": 3,
+   "districtsDestroyed": 1,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2888,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 84,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 52,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    }
+   ]
+  }
+ ],
+ "defenseLog": []
+}

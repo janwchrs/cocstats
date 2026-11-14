@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 39500,
- "clanBuilderBasePoints": 24922,
+ "clanBuilderBasePoints": 24895,
  "clanCapitalPoints": 355,
  "capitalLeague": {
   "id": 85000001,
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 114,
+   "trophies": 484,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -270,8 +270,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 155,
-   "builderBaseTrophies": 3335,
+   "trophies": 213,
+   "builderBaseTrophies": 3296,
    "clanRank": 5,
    "previousClanRank": 5,
    "donations": 159,
@@ -323,8 +323,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 183,
-   "builderBaseTrophies": 3419,
+   "trophies": 209,
+   "builderBaseTrophies": 3402,
    "clanRank": 6,
    "previousClanRank": 6,
    "donations": 51,
@@ -380,7 +380,7 @@
    "builderBaseTrophies": 2030,
    "clanRank": 7,
    "previousClanRank": 7,
-   "donations": 84,
+   "donations": 99,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 334,
+   "trophies": 365,
    "builderBaseTrophies": 2787,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -593,7 +593,7 @@
    "clanRank": 11,
    "previousClanRank": 11,
    "donations": 0,
-   "donationsReceived": 60,
+   "donationsReceived": 75,
    "playerHouse": {
     "elements": [
      {
@@ -942,7 +942,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 6,
-   "expLevel": 16,
+   "expLevel": 17,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1048,7 +1048,7 @@
    "name": "jockersss",
    "role": "member",
    "townHallLevel": 4,
-   "expLevel": 8,
+   "expLevel": 10,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1166,7 +1166,7 @@
    "tag": "#RYCJ9QCC9",
    "name": "DonJaw",
    "role": "member",
-   "townHallLevel": 4,
+   "townHallLevel": 5,
    "expLevel": 11,
    "league": {
     "id": 29000000,

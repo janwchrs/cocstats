@@ -1,7 +1,7 @@
 {
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
- "townHallLevel": 4,
+ "townHallLevel": 5,
  "expLevel": 11,
  "trophies": 0,
  "bestTrophies": 0,
@@ -57,20 +57,20 @@
   },
   {
    "name": "Bigger & Better",
-   "stars": 1,
-   "value": 4,
-   "target": 5,
-   "info": "Upgrade Town Hall to level 5",
-   "completionInfo": "Current Town Hall level: 4",
+   "stars": 2,
+   "value": 5,
+   "target": 8,
+   "info": "Upgrade Town Hall to level 8",
+   "completionInfo": "Current Town Hall level: 5",
    "village": "home"
   },
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 50,
+   "value": 51,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 50",
+   "completionInfo": "Total obstacles removed: 51",
    "village": "home"
   },
   {
@@ -355,10 +355,10 @@
   {
    "name": "Well Seasoned",
    "stars": 0,
-   "value": 2100,
+   "value": 2175,
    "target": 5000,
    "info": "Earn 5000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 2100",
+   "completionInfo": "Total Season Challenges points: 2175",
    "village": "home"
   },
   {
