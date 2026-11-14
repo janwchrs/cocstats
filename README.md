@@ -34,6 +34,8 @@ Lokal muss der Key entweder ebenfalls über den Proxy laufen (Standard) oder du 
 |---|---|
 | `data/players/<TAG>/player.json` | vollständiges aktuelles Profil |
 | `data/players/<TAG>/history.jsonl` | Verlauf der Kennzahlen (eine Zeile pro Änderung) |
+| `data/players/<TAG>/levels.jsonl` | Level aller Einheiten; erste Zeile Ausgangsstand, danach nur Upgrades |
+| `data/players/<TAG>/achievements.jsonl` | täglicher Stand aller Erfolgszähler (Beute, Spenden, Clanspiele …) |
 | `data/clans/<TAG>/clan.json` | Clan inkl. Mitgliederliste |
 | `data/clans/<TAG>/history.jsonl` | Verlauf der Clan-Kennzahlen |
 | `data/clans/<TAG>/members.jsonl` | ein Mitglieder-Schnappschuss pro Tag |
@@ -41,6 +43,7 @@ Lokal muss der Key entweder ebenfalls über den Proxy laufen (Standard) oder du 
 | `data/clans/<TAG>/wars/*.json` | jeder Krieg vollständig mit allen Angriffen |
 | `data/clans/<TAG>/cwl/<Saison>/` | CWL-Gruppe und alle Kriege der Saison |
 | `data/clans/<TAG>/raids/*.json` | Raid-Wochenenden inkl. Angriffs- und Verteidigungslog |
+| `data/rankings.jsonl` | tägliche Platzierungen in den Top-200-Ranglisten (weltweit und im Land des Clans) |
 | `data/goldpass.json` | aktuelle Gold-Pass-Saison |
 
 Geschrieben wird nur bei Änderungen, ältere Stände stecken zusätzlich in der Git-Historie.

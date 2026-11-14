@@ -8,9 +8,10 @@ from coc import DATA, ROOT, coc_time, read_json, read_jsonl, tag_dir
 from fetch import categories
 
 OUT = ROOT / "site" / "data"
-MEMBER_DAYS = 400
 MAX_WARS = 60
 MAX_RAIDS = 26
+ACTIVITY_DAYS = 400
+MAX_UPGRADES = 300
 
 
 def write_out(path, obj):
@@ -22,6 +23,30 @@ def units(cats):
     return {k: [[u["name"], u["level"], u["maxLevel"]] for u in v] for k, v in cats.items()}
 
 
+def activity(path):
+    """Tägliche Stände aller Erfolgszähler als Reihen: {days: [...], values: {name: [...]}}."""
+    rows = read_jsonl(path / "achievements.jsonl")[-ACTIVITY_DAYS:]
+    names = sorted({k for r in rows for k in r["a"]})
+    return {"days": [r["d"] for r in rows], "values": {n: [r["a"].get(n) for r in rows] for n in names}}
+
+
+def upgrades(path):
+    """Level-Änderungen als Ereignisse. Die erste Zeile ist nur der Ausgangsstand."""
+    rows = read_jsonl(path / "levels.jsonl")
+    current = dict(rows[0]["u"]) if rows else {}
+    events = []
+    for row in rows[1:]:
+        for unit, level in row["u"].items():
+            events.append({"t": row["t"], "unit": unit, "from": current.get(unit), "to": level})
+            current[unit] = level
+    return events[::-1][:MAX_UPGRADES]
+
+
+def rankings_for(tag):
+    rows = read_jsonl(DATA / "rankings.jsonl")
+    return {"d": rows[-1]["d"], **rows[-1]["r"].get(tag, {})} if rows else None
+
+
 def build_player(path):
     p = read_json(path / "player.json")
     if not p:
@@ -30,6 +55,9 @@ def build_player(path):
         "player": p,
         "units": units(categories(p)),
         "history": read_jsonl(path / "history.jsonl"),
+        "activity": activity(path),
+        "upgrades": upgrades(path),
+        "rankings": rankings_for(p["tag"]),
     })
     league = p.get("leagueTier") or p.get("league") or {}
     clan = p.get("clan") or {}
@@ -113,13 +141,23 @@ def build_clan(path):
                                    "limit": m.get("attackLimit", 0) + m.get("bonusAttackLimit", 0),
                                    "loot": m.get("capitalResourcesLooted")} for m in r.get("members", [])]})
 
+    # Beitritte und Austritte aus den täglichen Mitglieder-Schnappschüssen ableiten.
+    snapshots = read_jsonl(path / "members.jsonl")
+    moves = []
+    for prev, cur in zip(snapshots, snapshots[1:]):
+        before = {m[0]: m[1] for m in prev["m"]}
+        after = {m[0]: m[1] for m in cur["m"]}
+        moves += [{"d": cur["d"], "type": "join", "tag": t, "name": n} for t, n in after.items() if t not in before]
+        moves += [{"d": cur["d"], "type": "leave", "tag": t, "name": n} for t, n in before.items() if t not in after]
+
     write_out(OUT / "c" / f"{tag_dir(tag)}.json", {
         "clan": c,
         "history": read_jsonl(path / "history.jsonl"),
-        "members": read_jsonl(path / "members.jsonl")[-MEMBER_DAYS:],
         "wars": wars,
         "warlog": warlog,
         "raids": raids,
+        "moves": moves[::-1][:200],
+        "rankings": rankings_for(tag),
     })
     return {"tag": tag, "name": c["name"], "level": c.get("clanLevel"), "members": c.get("members"),
             "badge": (c.get("badgeUrls") or {}).get("small")}

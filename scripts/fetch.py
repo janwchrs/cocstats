@@ -3,13 +3,14 @@
 
 Es wird nur geschrieben, was sich geändert hat, damit die Git-Historie schlank bleibt.
 """
+import json
 import sys
 import threading
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
-from coc import (DATA, ROOT, ApiError, append_if_changed, enc, get, norm_tag, now_iso, read_json, tag_dir,
-                 upsert_daily, write_json)
+from coc import (DATA, ROOT, ApiError, append_if_changed, enc, get, norm_tag, now_iso, read_json, read_jsonl,
+                 tag_dir, upsert_daily, write_json)
 
 SUPER_TROOPS = {"Sneaky Goblin", "Rocket Balloon", "Inferno Dragon", "Ice Hound"}
 PETS = {"L.A.S.S.I", "Electro Owl", "Mighty Yak", "Unicorn", "Frosty", "Diggy", "Poison Lizard",
@@ -18,6 +19,10 @@ PETS = {"L.A.S.S.I", "Electro Owl", "Mighty Yak", "Unicorn", "Frosty", "Diggy", 
 changed = []
 errors = []
 lock = threading.Lock()
+
+
+def today():
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
 def note(path, did_change):
@@ -71,9 +76,45 @@ def player_metrics(p):
         "bbTrophies": p.get("builderBaseTrophies"),
         "capital": p.get("clanCapitalContributions"),
         "league": (p.get("leagueTier") or p.get("league") or {}).get("name"),
+        "bbLeague": (p.get("builderBaseLeague") or {}).get("name"),
+        "legendTrophies": (p.get("legendStatistics") or {}).get("legendTrophies"),
+        "warPref": p.get("warPreference"),
         "heroes": {h["name"]: h["level"] for h in cats["heroes"]},
         "progress": {k: progress(v) for k, v in cats.items()},
     }
+
+
+def unit_levels(p):
+    """Level aller Einheiten. Builder-Base-Einheiten bekommen ein Präfix, weil Namen doppelt vorkommen."""
+    levels = {}
+    for kind in ("troops", "spells", "heroes", "heroEquipment"):
+        for u in p.get(kind, []):
+            if kind == "troops" and is_super(u):
+                continue
+            levels[("BB " if u.get("village") == "builderBase" else "") + u["name"]] = u["level"]
+    return levels
+
+
+def achievement_values(p):
+    values = {}
+    for a in p.get("achievements", []):
+        key = a["name"] if a["name"] not in values else f"{a['name']} ({a.get('village')})"
+        values[key] = a.get("value")
+    return values
+
+
+def append_level_changes(path, levels):
+    """levels.jsonl enthält nur Änderungen; die erste Zeile ist der Ausgangsstand."""
+    current = {}
+    for row in read_jsonl(path):
+        current.update(row["u"])
+    diff = {k: v for k, v in levels.items() if current.get(k) != v}
+    if not diff:
+        return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps({"t": now_iso(), "u": diff}, ensure_ascii=False, separators=(",", ":")) + "\n")
+    return True
 
 
 def fetch_player(tag):
@@ -85,6 +126,10 @@ def fetch_player(tag):
     base = DATA / "players" / tag_dir(tag)
     note(base / "player.json", write_json(base / "player.json", p))
     note(base / "history.jsonl", append_if_changed(base / "history.jsonl", player_metrics(p)))
+    note(base / "levels.jsonl", append_level_changes(base / "levels.jsonl", unit_levels(p)))
+    # Erfolge sind fortlaufende Zähler (Beute, Spenden, Clanspiele …): einmal pro Tag festhalten.
+    note(base / "achievements.jsonl",
+         upsert_daily(base / "achievements.jsonl", {"d": today(), "a": achievement_values(p)}))
     return p
 
 
@@ -93,7 +138,7 @@ def fetch_clan(tag):
         c = get(f"/clans/{enc(tag)}")
     except ApiError as e:
         fail(f"Clan {tag}", e)
-        return
+        return None
     base = DATA / "clans" / tag_dir(tag)
     note(base / "clan.json", write_json(base / "clan.json", c))
 
@@ -110,6 +155,8 @@ def fetch_clan(tag):
         "warWinStreak": c.get("warWinStreak"),
         "warLeague": (c.get("warLeague") or {}).get("name"),
         "capitalLeague": (c.get("capitalLeague") or {}).get("name"),
+        "capitalHall": (c.get("clanCapital") or {}).get("capitalHallLevel"),
+        "requiredTrophies": c.get("requiredTrophies"),
     }
     note(base / "history.jsonl", append_if_changed(base / "history.jsonl", metrics))
 
@@ -117,14 +164,14 @@ def fetch_clan(tag):
     members = [[m["tag"], m["name"], m.get("role"), m.get("townHallLevel"), m.get("expLevel"), m.get("trophies"),
                 m.get("donations"), m.get("donationsReceived"), m.get("builderBaseTrophies")]
                for m in c.get("memberList", [])]
-    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    note(base / "members.jsonl", upsert_daily(base / "members.jsonl", {"d": day, "m": members}))
+    note(base / "members.jsonl", upsert_daily(base / "members.jsonl", {"d": today(), "m": members}))
 
     if c.get("isWarLogPublic"):
         fetch_warlog(tag, base)
         fetch_current_war(tag, base)
     fetch_cwl(tag, base)
     fetch_raids(tag, base)
+    return c
 
 
 def fetch_warlog(tag, base):
@@ -198,6 +245,40 @@ def fetch_raids(tag, base):
         note(path, write_json(path, season))
 
 
+RANKINGS = ["players", "players-builder-base", "clans", "clans-builder-base", "capitals"]
+
+
+def fetch_rankings(players, clans):
+    """Einmal pro Tag: Platzierungen in den Top-200-Ranglisten (weltweit und im Land der Clans)."""
+    path = DATA / "rankings.jsonl"
+    rows = read_jsonl(path)
+    if rows and rows[-1]["d"] == today():
+        return
+    locations = {"global": "Global"}
+    for c in clans:
+        loc = c.get("location") or {}
+        if loc.get("isCountry"):
+            locations[str(loc["id"])] = loc["name"]
+    ours = set(players) | {c["tag"] for c in clans}
+    jobs = [(loc, kind) for loc in locations for kind in RANKINGS]
+
+    def load(job):
+        loc, kind = job
+        try:
+            items = get(f"/locations/{loc}/rankings/{kind}", {"limit": 200}).get("items", [])
+        except ApiError as e:
+            fail(f"Rangliste {loc}/{kind}", e)
+            return job, None
+        return job, {i["tag"]: i.get("rank") for i in items if i["tag"] in ours}
+
+    found = {}
+    with ThreadPoolExecutor(6) as ex:
+        for (loc, kind), hits in ex.map(load, jobs):
+            for tag, rank in (hits or {}).items():
+                found.setdefault(tag, {}).setdefault(kind, {})[locations[loc]] = rank
+    note(path, upsert_daily(path, {"d": today(), "r": found}))
+
+
 def fetch_goldpass():
     try:
         gp = get("/goldpass/seasons/current")
@@ -222,7 +303,9 @@ def main():
     clans = list(dict.fromkeys(clans))
 
     with ThreadPoolExecutor(8) as ex:
-        list(ex.map(fetch_clan, clans))
+        clan_data = [c for c in ex.map(fetch_clan, clans) if c]
+
+    fetch_rankings(players, clan_data)
 
     if changed:
         meta = {"updated": now_iso(), "players": players, "clans": clans}

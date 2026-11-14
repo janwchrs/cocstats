@@ -17,6 +17,19 @@ const ROLES = { leader: "Anführer", coLeader: "Vize", admin: "Ältester", membe
 const CATEGORIES = { troops: "Truppen", pets: "Haustiere", spells: "Zauber", heroes: "Helden",
   equipment: "Ausrüstung", builder: "Builder Base" };
 const RANGES = [["7 T", 7], ["30 T", 30], ["90 T", 90], ["1 J", 365], ["Alles", 0]];
+const RANK_KINDS = { players: "Spieler", "players-builder-base": "Builder Base", clans: "Clan",
+  "clans-builder-base": "Clan Builder Base", capitals: "Hauptstadt" };
+// Erfolge, die als fortlaufende Zähler etwas über die Aktivität aussagen.
+const ACTIVITY = {
+  "Gold Grab": "Gold geplündert", "Elixir Escapade": "Elixier geplündert", "Heroic Heist": "Dunkles Elixier geplündert",
+  "Conqueror": "Angriffe gewonnen", "Unbreakable": "Verteidigungen gewonnen", "Friend in Need": "Truppen gespendet",
+  "Sharing is caring": "Zauber gespendet", "Siege Sharer": "Belagerungsmaschinen gespendet",
+  "Games Champion": "Clanspiele-Punkte", "Well Seasoned": "Saison-Herausforderungen", "War Hero": "Kriegssterne",
+  "War League Legend": "CWL-Sterne", "Wall Buster": "Mauern zerstört", "Humiliator": "Rathäuser zerstört",
+  "Union Buster": "Bauhütten zerstört", "Aggressive Capitalism": "Hauptstadtgold geplündert",
+  "Most Valuable Clanmate": "Hauptstadtgold beigetragen", "Superb Work": "Supertruppen aktiviert",
+  "Un-Build It": "Builder Base: Bauhütten zerstört", "Champion Builder": "Builder Base: Trophäen-Rekord",
+};
 
 const main = document.getElementById("main");
 const tipEl = document.getElementById("tip");
@@ -299,7 +312,7 @@ function historyCard(title, history, metrics) {
 }
 
 /** Sortierbare Tabelle. cols = [{label, value: r => sortWert, render?: r => Inhalt, num?: bool}] */
-function sortTable(cols, rows, { sortBy = 0, desc = true, rowAttrs } = {}) {
+function sortTable(cols, rows, { sortBy = 0, desc = true, rowAttrs, tall = false } = {}) {
   const thead = h("thead");
   const tbody = h("tbody");
   const render = () => {
@@ -320,10 +333,16 @@ function sortTable(cols, rows, { sortBy = 0, desc = true, rowAttrs } = {}) {
       cols.map((c) => h("td", { class: c.num ? "num" : null }, c.render ? c.render(r) : c.value(r) ?? "–")))));
   };
   render();
-  return h("div", { class: "table-wrap" }, h("table", null, thead, tbody));
+  return h("div", { class: tall ? "table-wrap tall" : "table-wrap" }, h("table", null, thead, tbody));
 }
 
 const stars = (n) => h("span", { class: "stars", "aria-label": `${n} Sterne` }, "★".repeat(n) + "☆".repeat(3 - n));
+
+function rankTiles(rankings) {
+  if (!rankings) return [];
+  return Object.entries(RANK_KINDS).flatMap(([kind, label]) =>
+    Object.entries(rankings[kind] || {}).map(([loc, rank]) => tile(`Rang ${label} · ${loc}`, `#${fmt(rank)}`)));
+}
 
 function warStatus(w) {
   if (w.result === "win") return h("span", { class: "status win" }, "✓ Sieg");
@@ -335,7 +354,8 @@ function warStatus(w) {
 // ---------- Spieler ----------
 
 async function renderPlayer(tag) {
-  const { player: p, units, history } = await load(`data/p/${slug(tag)}.json`);
+  const data = await load(`data/p/${slug(tag)}.json`);
+  const { player: p, units, history } = data;
   const league = p.leagueTier || p.league;
   const ownClan = p.clan && index.clans.some((c) => c.tag === p.clan.tag);
 
@@ -349,7 +369,9 @@ async function renderPlayer(tag) {
         h("span", null, `Level ${p.expLevel}`),
         league && h("span", null, league.name),
         p.clan && (ownClan ? h("a", { href: `#c/${slug(p.clan.tag)}` }, p.clan.name) : h("span", null, p.clan.name)),
-        p.role && h("span", null, ROLES[p.role] || p.role))));
+        p.role && h("span", null, ROLES[p.role] || p.role),
+        p.builderBaseLeague && h("span", null, `Builder: ${p.builderBaseLeague.name}`),
+        p.warPreference && h("span", null, p.warPreference === "in" ? "Krieg: dabei" : "Krieg: nicht dabei"))));
 
   const d = (get) => deltaText(history, get);
   const tiles = h("section", { class: "tiles" },
@@ -359,7 +381,9 @@ async function renderPlayer(tag) {
     tile("Angriffssiege (Saison)", fmt(p.attackWins)),
     tile("Spenden (Saison)", fmt(p.donations), h("span", null, `${fmt(p.donationsReceived)} erhalten`)),
     tile("Builder-Trophäen", fmt(p.builderBaseTrophies), d((r) => r.bbTrophies)),
-    tile("Hauptstadt-Beitrag", fmtC(p.clanCapitalContributions), d((r) => r.capital)));
+    tile("Hauptstadt-Beitrag", fmtC(p.clanCapitalContributions), d((r) => r.capital)),
+    legendTiles(p.legendStatistics),
+    rankTiles(data.rankings));
 
   const history_ = historyCard("Verlauf", history, [
     ["trophies", "Trophäen", (r) => r.trophies],
@@ -406,7 +430,66 @@ async function renderPlayer(tag) {
       { label: "Dorf", value: (a) => (a.village === "home" ? "Heimat" : a.village === "builderBase" ? "Builder" : "Hauptstadt") },
     ], p.achievements, { sortBy: 1, desc: false }));
 
-  main.replaceChildren(hero, tiles, history_, h("div", { class: "grid-2" }, progress, achievements));
+  main.replaceChildren(hero, tiles, history_, activityCard(data.activity),
+    h("div", { class: "grid-2" }, progress, upgradesCard(data.upgrades)), achievements);
+}
+
+function legendTiles(ls) {
+  if (!ls) return [];
+  const season = (s) => s && `${fmt(s.trophies)} Trophäen${s.rank ? ` · Platz ${fmt(s.rank)}` : ""}`;
+  return [
+    ls.legendTrophies != null && tile("Legenden-Trophäen", fmt(ls.legendTrophies)),
+    ls.currentSeason && tile("Legenden: aktuelle Saison", fmt(ls.currentSeason.trophies), ls.currentSeason.rank && `Platz ${fmt(ls.currentSeason.rank)}`),
+    ls.previousSeason && tile(`Legenden: Saison ${ls.previousSeason.id}`, fmt(ls.previousSeason.trophies), season(ls.previousSeason)),
+    ls.bestSeason && tile(`Legenden: beste Saison (${ls.bestSeason.id})`, fmt(ls.bestSeason.trophies), ls.bestSeason.rank && `Platz ${fmt(ls.bestSeason.rank)}`),
+  ];
+}
+
+/** Tageszuwachs der Erfolgszähler (Beute, Spenden, Clanspiele …). */
+function activityCard(act) {
+  const head = (extra) => h("div", { class: "card-head" }, h("h2", null, "Aktivität pro Tag"), extra);
+  if (!act || act.days.length < 2) {
+    return h("section", { class: "card" }, head(),
+      h("p", { class: "chart-empty" }, "Ab dem zweiten Tag der Aufzeichnung siehst du hier, wie viel du pro Tag geplündert, gespendet und erreicht hast."));
+  }
+  const names = Object.keys(act.values);
+  const known = Object.keys(ACTIVITY).filter((n) => names.includes(n));
+  const rest = names.filter((n) => !ACTIVITY[n]).sort((a, b) => a.localeCompare(b));
+  let key = known[0] || names[0], range = 30;
+  const hint = h("span", { class: "hint" });
+  const box = h("div");
+  const render = () => {
+    const vals = act.values[key];
+    const from = range ? Date.now() - range * DAY : -Infinity;
+    const items = [];
+    for (let i = 1; i < act.days.length; i++) {
+      const day = new Date(`${act.days[i]}T00:00:00Z`);
+      if (+day < from || vals[i] == null || vals[i - 1] == null) continue;
+      items.push({ label: DF.format(day), short: DFS.format(day), value: Math.max(0, vals[i] - vals[i - 1]) });
+    }
+    const sum = items.reduce((a, i) => a + i.value, 0);
+    hint.textContent = items.length ? `Summe ${fmt(sum)} · Ø ${fmt(Math.round(sum / items.length))} pro Tag` : "";
+    box.replaceChildren(columnChart(items, { label: ACTIVITY[key] || key }));
+  };
+  const select = h("select", { "aria-label": "Zähler", onchange: (e) => { key = e.target.value; render(); } },
+    h("optgroup", { label: "Aktivität" }, known.map((n) => h("option", { value: n }, ACTIVITY[n]))),
+    rest.length && h("optgroup", { label: "Weitere Erfolge" }, rest.map((n) => h("option", { value: n }, n))));
+  render();
+  return h("section", { class: "card" },
+    head([hint, h("div", { class: "controls" }, select, seg(RANGES.slice(0, 4), range, (v) => { range = v; render(); }))]),
+    box);
+}
+
+function upgradesCard(list) {
+  const unitName = (u) => (u.startsWith("BB ") ? `${u.slice(3)} (Builder)` : u);
+  return h("section", { class: "card" },
+    h("div", { class: "card-head" }, h("h2", null, "Upgrades"),
+      h("span", { class: "hint" }, list.length ? `${list.length} seit Beginn der Aufzeichnung` : "")),
+    list.length ? sortTable([
+      { label: "Datum", value: (u) => u.t, render: (u) => DF.format(parseTime(u.t)) },
+      { label: "Einheit", value: (u) => unitName(u.unit) },
+      { label: "Level", value: (u) => u.to, num: true, render: (u) => (u.from == null ? `neu · ${u.to}` : `${u.from} → ${u.to}`) },
+    ], list, { tall: true }) : h("p", { class: "chart-empty" }, "Noch keine Upgrades seit Beginn der Aufzeichnung."));
 }
 
 // ---------- Clan ----------
@@ -429,7 +512,7 @@ function memberWarStats(wars, count = 10) {
 }
 
 async function renderClan(tag) {
-  const { clan: c, history, wars, warlog, raids } = await load(`data/c/${slug(tag)}.json`);
+  const { clan: c, history, wars, warlog, raids, moves, rankings } = await load(`data/c/${slug(tag)}.json`);
   const mine = new Set(index.players.map((p) => p.tag));
 
   const hero = h("section", { class: "card hero" },
@@ -452,7 +535,9 @@ async function renderClan(tag) {
     tile("Kriegsbilanz", `${fmt(c.warWins)} S · ${fmt(c.warLosses ?? 0)} N`, c.warTies != null && `${fmt(c.warTies)} unentschieden`),
     tile("Siegesserie", fmt(c.warWinStreak)),
     tile("Hauptstadt-Punkte", fmt(c.clanCapitalPoints), d((r) => r.capitalPoints)),
-    c.clanCapital?.capitalHallLevel && tile("Hauptstadt-Halle", `Level ${c.clanCapital.capitalHallLevel}`));
+    c.clanCapital?.capitalHallLevel && tile("Hauptstadt-Halle", `Level ${c.clanCapital.capitalHallLevel}`),
+    c.requiredTrophies != null && tile("Mindest-Trophäen", fmt(c.requiredTrophies)),
+    rankTiles(rankings));
 
   // Mitglieder mit Kriegs- und Raid-Werten
   const warStats = memberWarStats(wars);
@@ -518,7 +603,7 @@ async function renderClan(tag) {
       { label: "Sterne", value: (w) => w.stars[0], num: true, render: (w) => `${w.stars[0]} : ${w.stars[1]}` },
       { label: "Zerstörung", value: (w) => w.destruction[0], num: true, render: (w) => `${NF.format(w.destruction[0])} % : ${NF.format(w.destruction[1])} %` },
       { label: "Ergebnis", value: (w) => w.result ?? "", render: (w) => (w.result ? warStatus(w) : "–") },
-    ], warlog));
+    ], warlog, { tall: true }));
 
   // Clanhauptstadt
   const raidsCard = raids.length > 0 && h("section", { class: "card" },
@@ -542,8 +627,18 @@ async function renderClan(tag) {
     ["level", "Clan-Level", (r) => r.level],
   ]);
 
+  const movesCard = h("section", { class: "card" },
+    h("div", { class: "card-head" }, h("h2", null, "Mitgliederbewegungen"),
+      h("span", { class: "hint" }, "aus dem täglichen Abgleich der Mitgliederliste")),
+    moves.length ? sortTable([
+      { label: "Datum", value: (m) => m.d, render: (m) => DF.format(new Date(`${m.d}T00:00:00Z`)) },
+      { label: "Name", value: (m) => m.name },
+      { label: "", value: (m) => m.type, render: (m) => (m.type === "join"
+        ? h("span", { class: "status win" }, "→ beigetreten") : h("span", { class: "status lose" }, "← verlassen")) },
+    ], moves, { tall: true }) : h("p", { class: "chart-empty" }, "Noch keine Beitritte oder Austritte erfasst."));
+
   main.replaceChildren(hero, tiles, members, warsCard, h("div", { class: "grid-2" }, raidsCard, historyBox),
-    warlogCard || "");
+    h("div", { class: "grid-2" }, warlogCard, movesCard));
 }
 
 // ---------- Navigation ----------
