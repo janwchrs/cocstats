@@ -1,0 +1,771 @@
+{
+ "state": "warEnded",
+ "teamSize": 15,
+ "preparationStartTime": "20261107T202637.000Z",
+ "startTime": "20261108T202429.000Z",
+ "endTime": "20261109T202429.000Z",
+ "clan": {
+  "tag": "#289JQRCPP",
+  "name": "الصداقه",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/UeNiyhMFORhGYbcD50ufxf1NylqUe_AaJnv7aRjXXbQ.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/UeNiyhMFORhGYbcD50ufxf1NylqUe_AaJnv7aRjXXbQ.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/UeNiyhMFORhGYbcD50ufxf1NylqUe_AaJnv7aRjXXbQ.png"
+  },
+  "clanLevel": 28,
+  "attacks": 14,
+  "stars": 33,
+  "destructionPercentage": 83.4,
+  "members": [
+   {
+    "tag": "#P00PLLY02",
+    "name": "Raghad -Khaleel",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#R9QRU99",
+     "defenderTag": "#P00PLLY02",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 16,
+     "duration": 103
+    }
+   },
+   {
+    "tag": "#YV2GRCGUJ",
+    "name": ",.AMMAR.,",
+    "townhallLevel": 16,
+    "mapPosition": 22,
+    "attacks": [
+     {
+      "attackerTag": "#YV2GRCGUJ",
+      "defenderTag": "#R8C2C2G00",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 5,
+      "duration": 61
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#GLLV9PRLL",
+     "defenderTag": "#YV2GRCGUJ",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 25,
+     "duration": 130
+    }
+   },
+   {
+    "tag": "#PLC0UJJUV",
+    "name": "المدمر",
+    "townhallLevel": 18,
+    "mapPosition": 5,
+    "attacks": [
+     {
+      "attackerTag": "#PLC0UJJUV",
+      "defenderTag": "#QY9PCUJ9",
+      "stars": 2,
+      "destructionPercentage": 82,
+      "order": 10,
+      "duration": 118
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YQ982Q8",
+     "defenderTag": "#PLC0UJJUV",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 19,
+     "duration": 97
+    }
+   },
+   {
+    "tag": "#822JQLQG8",
+    "name": "mhmd mlla",
+    "townhallLevel": 18,
+    "mapPosition": 6,
+    "attacks": [
+     {
+      "attackerTag": "#822JQLQG8",
+      "defenderTag": "#R9QRU99",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 6,
+      "duration": 135
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#2Y0C8PYL",
+     "defenderTag": "#822JQLQG8",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 21,
+     "duration": 136
+    }
+   },
+   {
+    "tag": "#GQRCYRY0",
+    "name": "أبو النادر",
+    "townhallLevel": 17,
+    "mapPosition": 25,
+    "attacks": [
+     {
+      "attackerTag": "#GQRCYRY0",
+      "defenderTag": "#GLLV9PRLL",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 1,
+      "duration": 82
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#R8C2C2G00",
+     "defenderTag": "#GQRCYRY0",
+     "stars": 1,
+     "destructionPercentage": 39,
+     "order": 11,
+     "duration": 84
+    }
+   },
+   {
+    "tag": "#PYQ9PVUQR",
+    "name": "RoRo",
+    "townhallLevel": 18,
+    "mapPosition": 7,
+    "attacks": [
+     {
+      "attackerTag": "#PYQ9PVUQR",
+      "defenderTag": "#YVPGJQ2G2",
+      "stars": 2,
+      "destructionPercentage": 89,
+      "order": 14,
+      "duration": 110
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YVPGJQ2G2",
+     "defenderTag": "#PYQ9PVUQR",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 18,
+     "duration": 133
+    }
+   },
+   {
+    "tag": "#8U8J0Y0PP",
+    "name": "meemo",
+    "townhallLevel": 18,
+    "mapPosition": 18,
+    "attacks": [
+     {
+      "attackerTag": "#8U8J0Y0PP",
+      "defenderTag": "#2Y0C8PYL",
+      "stars": 2,
+      "destructionPercentage": 91,
+      "order": 28,
+      "duration": 119
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#G9J992C0",
+     "defenderTag": "#8U8J0Y0PP",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 27,
+     "duration": 170
+    }
+   },
+   {
+    "tag": "#J0R9L89L",
+    "name": "حر فلسطين✌",
+    "townhallLevel": 18,
+    "mapPosition": 14,
+    "attacks": [
+     {
+      "attackerTag": "#J0R9L89L",
+      "defenderTag": "#YVR2Q92L0",
+      "stars": 2,
+      "destructionPercentage": 70,
+      "order": 4,
+      "duration": 98
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#LGLJ2Q8QG",
+     "defenderTag": "#J0R9L89L",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 23,
+     "duration": 122
+    }
+   },
+   {
+    "tag": "#LGPQRJVYR",
+    "name": "أبو غيث",
+    "townhallLevel": 18,
+    "mapPosition": 16,
+    "attacks": [
+     {
+      "attackerTag": "#LGPQRJVYR",
+      "defenderTag": "#Q0QQYVGQU",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 3,
+      "duration": 93
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Q0QQYVGQU",
+     "defenderTag": "#LGPQRJVYR",
+     "stars": 2,
+     "destructionPercentage": 99,
+     "order": 15,
+     "duration": 180
+    }
+   },
+   {
+    "tag": "#YR20PRVV9",
+    "name": "KARAR ALAA",
+    "townhallLevel": 18,
+    "mapPosition": 4,
+    "attacks": [
+     {
+      "attackerTag": "#YR20PRVV9",
+      "defenderTag": "#292UPC0VJ",
+      "stars": 2,
+      "destructionPercentage": 61,
+      "order": 7,
+      "duration": 85
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#2QQ8R2QQC",
+     "defenderTag": "#YR20PRVV9",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 17,
+     "duration": 122
+    }
+   },
+   {
+    "tag": "#QCCUCY8C2",
+    "name": "عبدالله",
+    "townhallLevel": 17,
+    "mapPosition": 17,
+    "attacks": [
+     {
+      "attackerTag": "#QCCUCY8C2",
+      "defenderTag": "#G9J992C0",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 26,
+      "duration": 95
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YVR2Q92L0",
+     "defenderTag": "#QCCUCY8C2",
+     "stars": 2,
+     "destructionPercentage": 61,
+     "order": 22,
+     "duration": 123
+    }
+   },
+   {
+    "tag": "#YYYL0L2G",
+    "name": "أبو العبد",
+    "townhallLevel": 18,
+    "mapPosition": 10,
+    "attacks": [
+     {
+      "attackerTag": "#YYYL0L2G",
+      "defenderTag": "#LGLJ2Q8QG",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 2,
+      "duration": 78
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#JPJQYYJ2",
+     "defenderTag": "#YYYL0L2G",
+     "stars": 2,
+     "destructionPercentage": 87,
+     "order": 29,
+     "duration": 180
+    }
+   },
+   {
+    "tag": "#2UYGQ0R",
+    "name": "....لحزين....",
+    "townhallLevel": 18,
+    "mapPosition": 9,
+    "attacks": [
+     {
+      "attackerTag": "#2UYGQ0R",
+      "defenderTag": "#LG28CCRC9",
+      "stars": 1,
+      "destructionPercentage": 83,
+      "order": 9,
+      "duration": 97
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#LG28CCRC9",
+     "defenderTag": "#2UYGQ0R",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 20,
+     "duration": 141
+    }
+   },
+   {
+    "tag": "#8U880QUVG",
+    "name": "الحرجوم",
+    "townhallLevel": 18,
+    "mapPosition": 1,
+    "attacks": [
+     {
+      "attackerTag": "#8U880QUVG",
+      "defenderTag": "#2QQ8R2QQC",
+      "stars": 2,
+      "destructionPercentage": 98,
+      "order": 12,
+      "duration": 180
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#QY9PCUJ9",
+     "defenderTag": "#8U880QUVG",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 13,
+     "duration": 107
+    }
+   },
+   {
+    "tag": "#YQPPJ09YY",
+    "name": "جعفر",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "attacks": [
+     {
+      "attackerTag": "#YQPPJ09YY",
+      "defenderTag": "#YQ982Q8",
+      "stars": 2,
+      "destructionPercentage": 77,
+      "order": 8,
+      "duration": 91
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#292UPC0VJ",
+     "defenderTag": "#YQPPJ09YY",
+     "stars": 1,
+     "destructionPercentage": 64,
+     "order": 24,
+     "duration": 106
+    }
+   }
+  ]
+ },
+ "opponent": {
+  "tag": "#8QYYUCVQ",
+  "name": "bravewarriors",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/efPYSQlI9XRSPyx9d8_bAD6VDdr6FBGA-sRC3wGnt2o.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/efPYSQlI9XRSPyx9d8_bAD6VDdr6FBGA-sRC3wGnt2o.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/efPYSQlI9XRSPyx9d8_bAD6VDdr6FBGA-sRC3wGnt2o.png"
+  },
+  "clanLevel": 22,
+  "attacks": 15,
+  "stars": 38,
+  "destructionPercentage": 90.0,
+  "members": [
+   {
+    "tag": "#2QQ8R2QQC",
+    "name": "vilma3",
+    "townhallLevel": 18,
+    "mapPosition": 4,
+    "attacks": [
+     {
+      "attackerTag": "#2QQ8R2QQC",
+      "defenderTag": "#YR20PRVV9",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 17,
+      "duration": 122
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#8U880QUVG",
+     "defenderTag": "#2QQ8R2QQC",
+     "stars": 2,
+     "destructionPercentage": 98,
+     "order": 12,
+     "duration": 180
+    }
+   },
+   {
+    "tag": "#Q0QQYVGQU",
+    "name": "bentenueve",
+    "townhallLevel": 16,
+    "mapPosition": 12,
+    "attacks": [
+     {
+      "attackerTag": "#Q0QQYVGQU",
+      "defenderTag": "#LGPQRJVYR",
+      "stars": 2,
+      "destructionPercentage": 99,
+      "order": 15,
+      "duration": 180
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#LGPQRJVYR",
+     "defenderTag": "#Q0QQYVGQU",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 3,
+     "duration": 93
+    }
+   },
+   {
+    "tag": "#LG28CCRC9",
+    "name": "username",
+    "townhallLevel": 18,
+    "mapPosition": 8,
+    "attacks": [
+     {
+      "attackerTag": "#LG28CCRC9",
+      "defenderTag": "#2UYGQ0R",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 20,
+      "duration": 141
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#2UYGQ0R",
+     "defenderTag": "#LG28CCRC9",
+     "stars": 1,
+     "destructionPercentage": 83,
+     "order": 9,
+     "duration": 97
+    }
+   },
+   {
+    "tag": "#R9QRU99",
+    "name": "vilma1",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "attacks": [
+     {
+      "attackerTag": "#R9QRU99",
+      "defenderTag": "#P00PLLY02",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 16,
+      "duration": 103
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#822JQLQG8",
+     "defenderTag": "#R9QRU99",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 6,
+     "duration": 135
+    }
+   },
+   {
+    "tag": "#YQ982Q8",
+    "name": "vilma2",
+    "townhallLevel": 18,
+    "mapPosition": 5,
+    "attacks": [
+     {
+      "attackerTag": "#YQ982Q8",
+      "defenderTag": "#PLC0UJJUV",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 19,
+      "duration": 97
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YQPPJ09YY",
+     "defenderTag": "#YQ982Q8",
+     "stars": 2,
+     "destructionPercentage": 77,
+     "order": 8,
+     "duration": 91
+    }
+   },
+   {
+    "tag": "#292UPC0VJ",
+    "name": "anton12",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "attacks": [
+     {
+      "attackerTag": "#292UPC0VJ",
+      "defenderTag": "#YQPPJ09YY",
+      "stars": 1,
+      "destructionPercentage": 64,
+      "order": 24,
+      "duration": 106
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YR20PRVV9",
+     "defenderTag": "#292UPC0VJ",
+     "stars": 2,
+     "destructionPercentage": 61,
+     "order": 7,
+     "duration": 85
+    }
+   },
+   {
+    "tag": "#R8C2C2G00",
+    "name": "putito",
+    "townhallLevel": 11,
+    "mapPosition": 15,
+    "attacks": [
+     {
+      "attackerTag": "#R8C2C2G00",
+      "defenderTag": "#GQRCYRY0",
+      "stars": 1,
+      "destructionPercentage": 39,
+      "order": 11,
+      "duration": 84
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YV2GRCGUJ",
+     "defenderTag": "#R8C2C2G00",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 5,
+     "duration": 61
+    }
+   },
+   {
+    "tag": "#JPJQYYJ2",
+    "name": "Aaronn",
+    "townhallLevel": 16,
+    "mapPosition": 9,
+    "attacks": [
+     {
+      "attackerTag": "#JPJQYYJ2",
+      "defenderTag": "#YYYL0L2G",
+      "stars": 2,
+      "destructionPercentage": 87,
+      "order": 29,
+      "duration": 180
+     }
+    ],
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GLLV9PRLL",
+    "name": "my",
+    "townhallLevel": 16,
+    "mapPosition": 14,
+    "attacks": [
+     {
+      "attackerTag": "#GLLV9PRLL",
+      "defenderTag": "#YV2GRCGUJ",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 25,
+      "duration": 130
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#GQRCYRY0",
+     "defenderTag": "#GLLV9PRLL",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 1,
+     "duration": 82
+    }
+   },
+   {
+    "tag": "#G9J992C0",
+    "name": "marco#07",
+    "townhallLevel": 16,
+    "mapPosition": 13,
+    "attacks": [
+     {
+      "attackerTag": "#G9J992C0",
+      "defenderTag": "#8U8J0Y0PP",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 27,
+      "duration": 170
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#QCCUCY8C2",
+     "defenderTag": "#G9J992C0",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 26,
+     "duration": 95
+    }
+   },
+   {
+    "tag": "#2Y0C8PYL",
+    "name": "ravendredd",
+    "townhallLevel": 18,
+    "mapPosition": 6,
+    "attacks": [
+     {
+      "attackerTag": "#2Y0C8PYL",
+      "defenderTag": "#822JQLQG8",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 21,
+      "duration": 136
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#8U8J0Y0PP",
+     "defenderTag": "#2Y0C8PYL",
+     "stars": 2,
+     "destructionPercentage": 91,
+     "order": 28,
+     "duration": 119
+    }
+   },
+   {
+    "tag": "#QY9PCUJ9",
+    "name": "jm",
+    "townhallLevel": 18,
+    "mapPosition": 1,
+    "attacks": [
+     {
+      "attackerTag": "#QY9PCUJ9",
+      "defenderTag": "#8U880QUVG",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 13,
+      "duration": 107
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#PLC0UJJUV",
+     "defenderTag": "#QY9PCUJ9",
+     "stars": 2,
+     "destructionPercentage": 82,
+     "order": 10,
+     "duration": 118
+    }
+   },
+   {
+    "tag": "#LGLJ2Q8QG",
+    "name": "arnold08",
+    "townhallLevel": 17,
+    "mapPosition": 10,
+    "attacks": [
+     {
+      "attackerTag": "#LGLJ2Q8QG",
+      "defenderTag": "#J0R9L89L",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 23,
+      "duration": 122
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YYYL0L2G",
+     "defenderTag": "#LGLJ2Q8QG",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 2,
+     "duration": 78
+    }
+   },
+   {
+    "tag": "#YVR2Q92L0",
+    "name": "sky",
+    "townhallLevel": 16,
+    "mapPosition": 11,
+    "attacks": [
+     {
+      "attackerTag": "#YVR2Q92L0",
+      "defenderTag": "#QCCUCY8C2",
+      "stars": 2,
+      "destructionPercentage": 61,
+      "order": 22,
+      "duration": 123
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#J0R9L89L",
+     "defenderTag": "#YVR2Q92L0",
+     "stars": 2,
+     "destructionPercentage": 70,
+     "order": 4,
+     "duration": 98
+    }
+   },
+   {
+    "tag": "#YVPGJQ2G2",
+    "name": "halawa29.yt.c",
+    "townhallLevel": 18,
+    "mapPosition": 7,
+    "attacks": [
+     {
+      "attackerTag": "#YVPGJQ2G2",
+      "defenderTag": "#PYQ9PVUQR",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 18,
+      "duration": 133
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#PYQ9PVUQR",
+     "defenderTag": "#YVPGJQ2G2",
+     "stars": 2,
+     "destructionPercentage": 89,
+     "order": 14,
+     "duration": 110
+    }
+   }
+  ]
+ },
+ "warStartTime": "20261108T202429.000Z",
+ "warTag": "#8QRVYV2RJ"
+}

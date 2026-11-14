@@ -1,0 +1,231 @@
+[
+ {
+  "result": "tie",
+  "endTime": "20261109T203952.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+   },
+   "clanLevel": 3,
+   "attacks": 54,
+   "stars": 106,
+   "destructionPercentage": 278.8,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 263,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20261031T133219.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/E0YDzjP0GAZIi4KQYmN_uYzv6KBizBfnDWJG9_v8aqM.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/E0YDzjP0GAZIi4KQYmN_uYzv6KBizBfnDWJG9_v8aqM.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/E0YDzjP0GAZIi4KQYmN_uYzv6KBizBfnDWJG9_v8aqM.png"
+   },
+   "clanLevel": 2,
+   "attacks": 8,
+   "stars": 15,
+   "destructionPercentage": 54.0,
+   "expEarned": 124
+  },
+  "opponent": {
+   "tag": "#2GC829RQP",
+   "name": "UK Bruvvas",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oiuzXz5hzCiaYwGHmfuZTuOH0vEAV9uXod_taJIa2Qs.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oiuzXz5hzCiaYwGHmfuZTuOH0vEAV9uXod_taJIa2Qs.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oiuzXz5hzCiaYwGHmfuZTuOH0vEAV9uXod_taJIa2Qs.png"
+   },
+   "clanLevel": 15,
+   "stars": 29,
+   "destructionPercentage": 99.6
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20261028T133729.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/E0YDzjP0GAZIi4KQYmN_uYzv6KBizBfnDWJG9_v8aqM.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/E0YDzjP0GAZIi4KQYmN_uYzv6KBizBfnDWJG9_v8aqM.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/E0YDzjP0GAZIi4KQYmN_uYzv6KBizBfnDWJG9_v8aqM.png"
+   },
+   "clanLevel": 2,
+   "attacks": 6,
+   "stars": 14,
+   "destructionPercentage": 93.2,
+   "expEarned": 157
+  },
+  "opponent": {
+   "tag": "#2RPR8R8VC",
+   "name": "اسطوره♨ لا تقهر",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+   },
+   "clanLevel": 17,
+   "stars": 13,
+   "destructionPercentage": 97.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20261025T081843.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png"
+   },
+   "clanLevel": 1,
+   "attacks": 7,
+   "stars": 9,
+   "destructionPercentage": 37.2,
+   "expEarned": 56
+  },
+  "opponent": {
+   "tag": "#2G92UQVVQ",
+   "name": "LA LIGNE DROITE",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png"
+   },
+   "clanLevel": 15,
+   "stars": 29,
+   "destructionPercentage": 98.7
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20261022T131313.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png"
+   },
+   "clanLevel": 1,
+   "attacks": 5,
+   "stars": 11,
+   "destructionPercentage": 76.8,
+   "expEarned": 88
+  },
+  "opponent": {
+   "tag": "#2C9R090VV",
+   "name": "קלאן של ותיקים",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/sZdQyQ0hhWshHZ3AcLE7QME30EN7DIB8kMRNfP0BuOk.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/sZdQyQ0hhWshHZ3AcLE7QME30EN7DIB8kMRNfP0BuOk.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/sZdQyQ0hhWshHZ3AcLE7QME30EN7DIB8kMRNfP0BuOk.png"
+   },
+   "clanLevel": 6,
+   "stars": 12,
+   "destructionPercentage": 82.8
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20261019T203035.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png"
+   },
+   "clanLevel": 1,
+   "attacks": 8,
+   "stars": 17,
+   "destructionPercentage": 43.6,
+   "expEarned": 106
+  },
+  "opponent": {
+   "tag": "#2RJ8YQJRR",
+   "name": "ลงโอ่ง×",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/Mo2tulagc8ORWUPubWdZ-laYkC0eYKo5nr9Eu7bcwPI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/Mo2tulagc8ORWUPubWdZ-laYkC0eYKo5nr9Eu7bcwPI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/Mo2tulagc8ORWUPubWdZ-laYkC0eYKo5nr9Eu7bcwPI.png"
+   },
+   "clanLevel": 15,
+   "stars": 42,
+   "destructionPercentage": 99.066666
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20261017T114159.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/SQsxlQxvrpu7Qhe_ZCqvGJqB9W5TSZmEiEMKcbRvcQA.png"
+   },
+   "clanLevel": 1,
+   "attacks": 5,
+   "stars": 10,
+   "destructionPercentage": 39.2,
+   "expEarned": 71
+  },
+  "opponent": {
+   "tag": "#2CQ0UV8Q0",
+   "name": "Mortal Empire",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/Gv7eVaLegw77yfOE-Oy-YF4IBmb8yF8EzyDia-Zmrzs.png"
+   },
+   "clanLevel": 3,
+   "stars": 25,
+   "destructionPercentage": 83.3
+  }
+ }
+]

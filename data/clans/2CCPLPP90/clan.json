@@ -1,0 +1,1306 @@
+{
+ "tag": "#2CCPLPP90",
+ "name": "Clash of Ants",
+ "type": "open",
+ "description": "⚔️ Neuer, ehrgeiziger Clan sucht aktive Spieler! 🔥 Unser Ziel: Erfolgreiche Clankriege, gemeinsames Wachstum und starke Belohnungen! 🏆 Aktivität und Zuverlässigkeit sind Pflicht! 💪 Gemeinsam an die Spitze! 🚀",
+ "location": {
+  "id": 32000094,
+  "name": "Germany",
+  "isCountry": true,
+  "countryCode": "DE"
+ },
+ "isFamilyFriendly": false,
+ "badgeUrls": {
+  "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+  "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+  "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+ },
+ "clanLevel": 3,
+ "clanPoints": 39500,
+ "clanBuilderBasePoints": 24922,
+ "clanCapitalPoints": 355,
+ "capitalLeague": {
+  "id": 85000001,
+  "name": "Bronze League III"
+ },
+ "requiredTrophies": 0,
+ "warFrequency": "oncePerWeek",
+ "warWinStreak": 0,
+ "warWins": 1,
+ "warTies": 0,
+ "warLosses": 5,
+ "isWarLogPublic": true,
+ "warLeague": {
+  "id": 48000011,
+  "name": "Crystal League II"
+ },
+ "members": 24,
+ "memberList": [
+  {
+   "tag": "#9GJUL22LG",
+   "name": "Maik",
+   "role": "admin",
+   "townHallLevel": 18,
+   "expLevel": 234,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000031,
+    "name": "Electro League 31",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
+    }
+   },
+   "trophies": 518,
+   "builderBaseTrophies": 4626,
+   "clanRank": 1,
+   "previousClanRank": 1,
+   "donations": 270,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000001
+     },
+     {
+      "type": "walls",
+      "id": 82000092
+     },
+     {
+      "type": "roof",
+      "id": 82000132
+     },
+     {
+      "type": "decoration",
+      "id": 82000131
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000033,
+    "name": "Platinum League II"
+   }
+  },
+  {
+   "tag": "#LGR9CGL90",
+   "name": "Shish@ndo",
+   "role": "coLeader",
+   "townHallLevel": 17,
+   "expLevel": 187,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000031,
+    "name": "Electro League 31",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
+    }
+   },
+   "trophies": 385,
+   "builderBaseTrophies": 3728,
+   "clanRank": 2,
+   "previousClanRank": 2,
+   "donations": 133,
+   "donationsReceived": 321,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000001
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000035
+     },
+     {
+      "type": "decoration",
+      "id": 82000071
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000028,
+    "name": "Steel League I"
+   }
+  },
+  {
+   "tag": "#RPV0YJ2Q",
+   "name": "alex",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 217,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000030,
+    "name": "Dragon League 30",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
+    }
+   },
+   "trophies": 114,
+   "builderBaseTrophies": 3000,
+   "clanRank": 3,
+   "previousClanRank": 3,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000004
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000081
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000025,
+    "name": "Iron League I"
+   }
+  },
+  {
+   "tag": "#8JRU99V0U",
+   "name": "wira nasa",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 237,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000028,
+    "name": "Dragon League 28",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
+    }
+   },
+   "trophies": 374,
+   "builderBaseTrophies": 4856,
+   "clanRank": 4,
+   "previousClanRank": 4,
+   "donations": 414,
+   "donationsReceived": 172,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000004
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000081
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000034,
+    "name": "Platinum League I"
+   }
+  },
+  {
+   "tag": "#PLYYQ00YL",
+   "name": "odin",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 227,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000027,
+    "name": "Titan League 27",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
+    }
+   },
+   "trophies": 127,
+   "builderBaseTrophies": 3335,
+   "clanRank": 5,
+   "previousClanRank": 5,
+   "donations": 159,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000016
+     },
+     {
+      "type": "decoration",
+      "id": 82000063
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000026,
+    "name": "Steel League III"
+   }
+  },
+  {
+   "tag": "#2P9G09YPU",
+   "name": "odin",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 243,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000026,
+    "name": "Titan League 26",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
+    }
+   },
+   "trophies": 183,
+   "builderBaseTrophies": 3419,
+   "clanRank": 6,
+   "previousClanRank": 6,
+   "donations": 51,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000032
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000027,
+    "name": "Steel League II"
+   }
+  },
+  {
+   "tag": "#QU8QLPJVP",
+   "name": "KloppIhnUm",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 197,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000026,
+    "name": "Titan League 26",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2030,
+   "clanRank": 7,
+   "previousClanRank": 7,
+   "donations": 84,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000006
+     },
+     {
+      "type": "walls",
+      "id": 82000055
+     },
+     {
+      "type": "roof",
+      "id": 82000085
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000020,
+    "name": "Brass League III"
+   }
+  },
+  {
+   "tag": "#2Q2VY2YPQ",
+   "name": "NotMansonG",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 203,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000025,
+    "name": "Titan League 25",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
+    }
+   },
+   "trophies": 230,
+   "builderBaseTrophies": 3738,
+   "clanRank": 8,
+   "previousClanRank": 8,
+   "donations": 0,
+   "donationsReceived": 406,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000014
+     },
+     {
+      "type": "decoration",
+      "id": 82000058
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000028,
+    "name": "Steel League I"
+   }
+  },
+  {
+   "tag": "#LYPGJ8Q90",
+   "name": "x man seabo",
+   "role": "member",
+   "townHallLevel": 18,
+   "expLevel": 184,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000024,
+    "name": "P.E.K.K.A League 24",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
+    }
+   },
+   "trophies": 334,
+   "builderBaseTrophies": 2787,
+   "clanRank": 9,
+   "previousClanRank": 9,
+   "donations": 1,
+   "donationsReceived": 416,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000082
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000023,
+    "name": "Iron League III"
+   }
+  },
+  {
+   "tag": "#2CC0YCPC",
+   "name": "The Darknight",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 226,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000024,
+    "name": "P.E.K.K.A League 24",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 3326,
+   "clanRank": 10,
+   "previousClanRank": 10,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000004
+     },
+     {
+      "type": "walls",
+      "id": 82000079
+     },
+     {
+      "type": "roof",
+      "id": 82000082
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000026,
+    "name": "Steel League III"
+   }
+  },
+  {
+   "tag": "#LL2PQ8VJC",
+   "name": "max",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 137,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000023,
+    "name": "P.E.K.K.A League 23",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
+    }
+   },
+   "trophies": 363,
+   "builderBaseTrophies": 2436,
+   "clanRank": 11,
+   "previousClanRank": 11,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000001
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000032
+     },
+     {
+      "type": "decoration",
+      "id": 82000068
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000022,
+    "name": "Brass League I"
+   }
+  },
+  {
+   "tag": "#Q8VC02UQL",
+   "name": "Niels2612",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 164,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000023,
+    "name": "P.E.K.K.A League 23",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
+    }
+   },
+   "trophies": 143,
+   "builderBaseTrophies": 2952,
+   "clanRank": 12,
+   "previousClanRank": 12,
+   "donations": 32,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000004
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000108
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000024,
+    "name": "Iron League II"
+   }
+  },
+  {
+   "tag": "#GQ9Y80PQR",
+   "name": "Fritti rush",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 98,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000023,
+    "name": "P.E.K.K.A League 23",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2341,
+   "clanRank": 13,
+   "previousClanRank": 13,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000011
+     },
+     {
+      "type": "decoration",
+      "id": 82000058
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000021,
+    "name": "Brass League II"
+   }
+  },
+  {
+   "tag": "#YGGUGY0QV",
+   "name": "xTheDenny",
+   "role": "leader",
+   "townHallLevel": 13,
+   "expLevel": 135,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000018,
+    "name": "Witch League 18",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
+    }
+   },
+   "trophies": 178,
+   "builderBaseTrophies": 2434,
+   "clanRank": 14,
+   "previousClanRank": 14,
+   "donations": 547,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000085
+     },
+     {
+      "type": "decoration",
+      "id": 82000064
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000022,
+    "name": "Brass League I"
+   }
+  },
+  {
+   "tag": "#VGC0UJCP",
+   "name": "Tolu",
+   "role": "member",
+   "townHallLevel": 13,
+   "expLevel": 155,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2372,
+   "clanRank": 15,
+   "previousClanRank": 0,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000001
+     },
+     {
+      "type": "walls",
+      "id": 82000088
+     },
+     {
+      "type": "roof",
+      "id": 82000016
+     },
+     {
+      "type": "decoration",
+      "id": 82000067
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000021,
+    "name": "Brass League II"
+   }
+  },
+  {
+   "tag": "#QGJQVQPR9",
+   "name": "Paradistical",
+   "role": "admin",
+   "townHallLevel": 13,
+   "expLevel": 105,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 1329,
+   "clanRank": 16,
+   "previousClanRank": 15,
+   "donations": 1,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000016
+     },
+     {
+      "type": "decoration",
+      "id": 82000061
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000013,
+    "name": "Stone League II"
+   }
+  },
+  {
+   "tag": "#Q0Q8LUVC2",
+   "name": "SchredderBig",
+   "role": "member",
+   "townHallLevel": 17,
+   "expLevel": 208,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2902,
+   "clanRank": 17,
+   "previousClanRank": 16,
+   "donations": 0,
+   "donationsReceived": 184,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000016
+     },
+     {
+      "type": "decoration",
+      "id": 82000059
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000024,
+    "name": "Iron League II"
+   }
+  },
+  {
+   "tag": "#R8RYG9GUL",
+   "name": "Pscxll",
+   "role": "member",
+   "townHallLevel": 6,
+   "expLevel": 16,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 40,
+   "clanRank": 18,
+   "previousClanRank": 17,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000009
+     },
+     {
+      "type": "decoration",
+      "id": 82000058
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000000,
+    "name": "Wood League V"
+   }
+  },
+  {
+   "tag": "#RYVL82G8",
+   "name": "ApothekeNord67",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 218,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 4174,
+   "clanRank": 19,
+   "previousClanRank": 18,
+   "donations": 137,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000015
+     },
+     {
+      "type": "decoration",
+      "id": 82000061
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000030,
+    "name": "Titanium League II"
+   }
+  },
+  {
+   "tag": "#R000LP9C8",
+   "name": "jockersss",
+   "role": "member",
+   "townHallLevel": 4,
+   "expLevel": 8,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 0,
+   "clanRank": 20,
+   "previousClanRank": 0,
+   "donations": 0,
+   "donationsReceived": 0,
+   "builderBaseLeague": {
+    "id": 44000000,
+    "name": "Wood League V"
+   }
+  },
+  {
+   "tag": "#GJ2V0RCV9",
+   "name": "Bastisteiner",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 189,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2851,
+   "clanRank": 21,
+   "previousClanRank": 19,
+   "donations": 57,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000032
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000024,
+    "name": "Iron League II"
+   }
+  },
+  {
+   "tag": "#VVC2GCCC",
+   "name": "jojo",
+   "role": "member",
+   "townHallLevel": 18,
+   "expLevel": 246,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2191,
+   "clanRank": 22,
+   "previousClanRank": 20,
+   "donations": 39,
+   "donationsReceived": 119,
+   "builderBaseLeague": {
+    "id": 44000020,
+    "name": "Brass League III"
+   }
+  },
+  {
+   "tag": "#RYCJ9QCC9",
+   "name": "DonJaw",
+   "role": "member",
+   "townHallLevel": 4,
+   "expLevel": 10,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 0,
+   "clanRank": 23,
+   "previousClanRank": 0,
+   "donations": 0,
+   "donationsReceived": 0,
+   "builderBaseLeague": {
+    "id": 44000000,
+    "name": "Wood League V"
+   }
+  },
+  {
+   "tag": "#YJRCRRVR8",
+   "name": "luca dorf op",
+   "role": "admin",
+   "townHallLevel": 17,
+   "expLevel": 210,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2407,
+   "clanRank": 24,
+   "previousClanRank": 21,
+   "donations": 0,
+   "donationsReceived": 191,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000049
+     },
+     {
+      "type": "roof",
+      "id": 82000017
+     },
+     {
+      "type": "decoration",
+      "id": 82000062
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000022,
+    "name": "Brass League I"
+   }
+  }
+ ],
+ "labels": [
+  {
+   "id": 56000001,
+   "name": "Clan War League",
+   "iconUrls": {
+    "small": "https://api-assets.clashofclans.com/labels/64/5w60_3bdtYUe9SM6rkxBRyV_8VvWw_jTlDS5ieU3IsI.png",
+    "medium": "https://api-assets.clashofclans.com/labels/128/5w60_3bdtYUe9SM6rkxBRyV_8VvWw_jTlDS5ieU3IsI.png"
+   }
+  },
+  {
+   "id": 56000009,
+   "name": "Donations",
+   "iconUrls": {
+    "small": "https://api-assets.clashofclans.com/labels/64/RauzS-02tv4vWm1edZ-q3gPQGWKGANLZ-85HCw_NVP0.png",
+    "medium": "https://api-assets.clashofclans.com/labels/128/RauzS-02tv4vWm1edZ-q3gPQGWKGANLZ-85HCw_NVP0.png"
+   }
+  },
+  {
+   "id": 56000014,
+   "name": "Competitive",
+   "iconUrls": {
+    "small": "https://api-assets.clashofclans.com/labels/64/DhBE-1SSnrZQtsfjVHyNW-BTBWMc8Zoo34MNRCNiRsA.png",
+    "medium": "https://api-assets.clashofclans.com/labels/128/DhBE-1SSnrZQtsfjVHyNW-BTBWMc8Zoo34MNRCNiRsA.png"
+   }
+  }
+ ],
+ "requiredBuilderBaseTrophies": 0,
+ "requiredTownhallLevel": 1,
+ "clanCapital": {
+  "capitalHallLevel": 3,
+  "clanGoldSinkTotal": 0,
+  "districts": [
+   {
+    "id": 70000000,
+    "name": "Capital Peak",
+    "districtHallLevel": 3
+   },
+   {
+    "id": 70000001,
+    "name": "Barbarian Camp",
+    "districtHallLevel": 2
+   },
+   {
+    "id": 70000002,
+    "name": "Wizard Valley",
+    "districtHallLevel": 1
+   }
+  ]
+ },
+ "chatLanguage": {
+  "id": 75000002,
+  "name": "Deutsch",
+  "languageCode": "DE"
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "state": "ended",
+ "startTime": "20261030T070000.000Z",
+ "endTime": "20261102T070000.000Z",
+ "capitalTotalLoot": 88841,
+ "raidsCompleted": 13,
+ "totalAttacks": 99,
+ "enemyDistrictsDestroyed": 29,
+ "offensiveReward": 49,
+ "defensiveReward": 0,
+ "attackLog": [
+  {
+   "defender": {
+    "tag": "#28Y28VCYV",
+    "name": "白い木",
+    "level": 6,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/mk3H0C4Fgdap0InNHjbn2nGg7GKjpbk4-R7mfUJrrJ8.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/mk3H0C4Fgdap0InNHjbn2nGg7GKjpbk4-R7mfUJrrJ8.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/mk3H0C4Fgdap0InNHjbn2nGg7GKjpbk4-R7mfUJrrJ8.png"
+    }
+   },
+   "attackCount": 6,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3490
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 1862
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#V8QPQ28J",
+    "name": "Gain Train",
+    "level": 4,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/xpwogFoCu_VQg8Qb5WWUL-MiCT4B5v13p0VfvJRI8H4.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/xpwogFoCu_VQg8Qb5WWUL-MiCT4B5v13p0VfvJRI8H4.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/xpwogFoCu_VQg8Qb5WWUL-MiCT4B5v13p0VfvJRI8H4.png"
+    }
+   },
+   "attackCount": 5,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3408
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 1945
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#29JLQ2L8G",
+    "name": "WARS AVENGERS",
+    "level": 5,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/wanZ86w85tpropMtjsMXDQ839PwRU7bWnRbzztkiWms.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/wanZ86w85tpropMtjsMXDQ839PwRU7bWnRbzztkiWms.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/wanZ86w85tpropMtjsMXDQ839PwRU7bWnRbzztkiWms.png"
+    }
+   },
+   "attackCount": 5,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3587
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 2012
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2PPJ2R0VV",
+    "name": "PAPA'S PRIDE",
+    "level": 4,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+    }
+   },
+   "attackCount": 5,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3499
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 1856
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2YCJJJVJ8",
+    "name": "ملوك كلاش",
+    "level": 2,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/snjfC_zIvxwwvokbF5C5Gso1Ah6LEk4DNXKJTKEppsg.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/snjfC_zIvxwwvokbF5C5Gso1Ah6LEk4DNXKJTKEppsg.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/snjfC_zIvxwwvokbF5C5Gso1Ah6LEk4DNXKJTKEppsg.png"
+    }
+   },
+   "attackCount": 7,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 3694
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 1729
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2LLYJRJQ0",
+    "name": "THE BEST",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/H4vfeCN1NbouHjUIQZrhPOdVo20WVXv7zvcS30ruGPM.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/H4vfeCN1NbouHjUIQZrhPOdVo20WVXv7zvcS30ruGPM.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/H4vfeCN1NbouHjUIQZrhPOdVo20WVXv7zvcS30ruGPM.png"
+    }
+   },
+   "attackCount": 7,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3688
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2668
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2LYYVG8CP",
+    "name": "king",
+    "level": 2,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/p39FrYz5E-unqZ2cRsWyI8JKPf5dm9Nq1VLseyqto_A.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/p39FrYz5E-unqZ2cRsWyI8JKPf5dm9Nq1VLseyqto_A.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/p39FrYz5E-unqZ2cRsWyI8JKPf5dm9Nq1VLseyqto_A.png"
+    }
+   },
+   "attackCount": 9,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 3545
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 2585
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2Y9QLUQY0",
+    "name": "圧倒的弱者",
+    "level": 4,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+    }
+   },
+   "attackCount": 5,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3715
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 2164
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2Q0VPL82R",
+    "name": "ELIXER KUNDI✨",
+    "level": 2,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/f2TLDrDIaCagobQORIIclBKIEEktiz1L_NEjDIkJ_R8.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/f2TLDrDIaCagobQORIIclBKIEEktiz1L_NEjDIkJ_R8.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/f2TLDrDIaCagobQORIIclBKIEEktiz1L_NEjDIkJ_R8.png"
+    }
+   },
+   "attackCount": 8,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 3452
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2752
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2LR0VURVC",
+    "name": "GingerMen",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/Rk_oQxRsRHvfkp_RGTVeC3cuhoxL-S_zqao9bCsZlpA.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/Rk_oQxRsRHvfkp_RGTVeC3cuhoxL-S_zqao9bCsZlpA.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/Rk_oQxRsRHvfkp_RGTVeC3cuhoxL-S_zqao9bCsZlpA.png"
+    }
+   },
+   "attackCount": 10,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 6,
+     "totalLooted": 3581
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 2701
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2QR8JYVLV",
+    "name": "PITACLAN",
+    "level": 2,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png"
+    }
+   },
+   "attackCount": 6,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3547
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2785
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2QJ2RLQ9L",
+    "name": "AS ASIF",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+    }
+   },
+   "attackCount": 6,
+   "districtCount": 2,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3640
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 1887
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2LV0CVR0G",
+    "name": "OS CRIAS BR",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/esKFkq-JA9wcKNHu0b02KANzZ4z8S0YjWxEW1teZeak.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/esKFkq-JA9wcKNHu0b02KANzZ4z8S0YjWxEW1teZeak.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/esKFkq-JA9wcKNHu0b02KANzZ4z8S0YjWxEW1teZeak.png"
+    }
+   },
+   "attackCount": 10,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 4330
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 2686
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2100
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2LC2P9R9U",
+    "name": "Team Password",
+    "level": 5,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/fWkV_D9ttfKOddiFgy5HxDA0GB_tyQY_FVNUKARW5HU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/fWkV_D9ttfKOddiFgy5HxDA0GB_tyQY_FVNUKARW5HU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/fWkV_D9ttfKOddiFgy5HxDA0GB_tyQY_FVNUKARW5HU.png"
+    }
+   },
+   "attackCount": 10,
+   "districtCount": 3,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 98,
+     "stars": 2,
+     "attackCount": 3,
+     "totalLooted": 4030
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 2897
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3006
+    }
+   ]
+  }
+ ],
+ "defenseLog": []
+}

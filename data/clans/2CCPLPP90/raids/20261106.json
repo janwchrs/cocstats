@@ -1,0 +1,864 @@
+{
+ "state": "ended",
+ "startTime": "20261106T070000.000Z",
+ "endTime": "20261109T070000.000Z",
+ "capitalTotalLoot": 56548,
+ "raidsCompleted": 5,
+ "totalAttacks": 59,
+ "enemyDistrictsDestroyed": 15,
+ "offensiveReward": 60,
+ "defensiveReward": 0,
+ "members": [
+  {
+   "tag": "#2P9G09YPU",
+   "name": "odin",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6463
+  },
+  {
+   "tag": "#YGGUGY0QV",
+   "name": "xTheDenny",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6148
+  },
+  {
+   "tag": "#PLVJYLC0Q",
+   "name": "david03",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 4380
+  },
+  {
+   "tag": "#LL2PQ8VJC",
+   "name": "max",
+   "attacks": 5,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 2840
+  },
+  {
+   "tag": "#Q8VC02UQL",
+   "name": "Niels2612",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6073
+  },
+  {
+   "tag": "#RPV0YJ2Q",
+   "name": "alex",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6096
+  },
+  {
+   "tag": "#9GJUL22LG",
+   "name": "Maik",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6269
+  },
+  {
+   "tag": "#2Q2VY2YPQ",
+   "name": "NotMansonG",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 4880
+  },
+  {
+   "tag": "#QU8QLPJVP",
+   "name": "KloppIhnUm",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6779
+  },
+  {
+   "tag": "#PLYYQ00YL",
+   "name": "odin",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6620
+  }
+ ],
+ "attackLog": [
+  {
+   "defender": {
+    "tag": "#88P89R2V",
+    "name": "CLOSED",
+    "level": 11,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/tWA-u6CK_97Q4sFhL8NAu7MlzhICO5xPqwCYoB6vm2Y.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/tWA-u6CK_97Q4sFhL8NAu7MlzhICO5xPqwCYoB6vm2Y.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/tWA-u6CK_97Q4sFhL8NAu7MlzhICO5xPqwCYoB6vm2Y.png"
+    }
+   },
+   "attackCount": 11,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 4550,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PLVJYLC0Q",
+        "name": "david03"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PLVJYLC0Q",
+        "name": "david03"
+       },
+       "destructionPercent": 95,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 68,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 47,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 43,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2644,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#9GJUL22LG",
+        "name": "Maik"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#9GJUL22LG",
+        "name": "Maik"
+       },
+       "destructionPercent": 78,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#9GJUL22LG",
+        "name": "Maik"
+       },
+       "destructionPercent": 52,
+       "stars": 2
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3625,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#9GJUL22LG",
+        "name": "Maik"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#9GJUL22LG",
+        "name": "Maik"
+       },
+       "destructionPercent": 71,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#9GJUL22LG",
+        "name": "Maik"
+       },
+       "destructionPercent": 47,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#L8J822YU",
+    "name": "macsas",
+    "level": 6,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/FUvPfCMq4CkWDOEKBSx1GMXULMoXkud5nqljFIidFjA.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/FUvPfCMq4CkWDOEKBSx1GMXULMoXkud5nqljFIidFjA.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/FUvPfCMq4CkWDOEKBSx1GMXULMoXkud5nqljFIidFjA.png"
+    }
+   },
+   "attackCount": 12,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 7,
+     "totalLooted": 4555,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 89,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 64,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 48,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 41,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 40,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 31,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3271,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 70,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 50,
+       "stars": 2
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 2708,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 53,
+       "stars": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#C8JQUPYP",
+    "name": "...الفهووووود..",
+    "level": 6,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ye6xXflh8eRy0alyAeTX0BQ0BMeZzORHitC9Ac6Tito.png"
+    }
+   },
+   "attackCount": 11,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 6,
+     "totalLooted": 4320,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 83,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PLVJYLC0Q",
+        "name": "david03"
+       },
+       "destructionPercent": 72,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PLVJYLC0Q",
+        "name": "david03"
+       },
+       "destructionPercent": 63,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PLVJYLC0Q",
+        "name": "david03"
+       },
+       "destructionPercent": 47,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#PLVJYLC0Q",
+        "name": "david03"
+       },
+       "destructionPercent": 35,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3615,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 73,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 44,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 2109,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 68,
+       "stars": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2PGUJP0YR",
+    "name": "klan za babe",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/cOhEPvbwchn86wtyCaqIVt48mkt5iNo5LseNfEO1sdo.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/cOhEPvbwchn86wtyCaqIVt48mkt5iNo5LseNfEO1sdo.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/cOhEPvbwchn86wtyCaqIVt48mkt5iNo5LseNfEO1sdo.png"
+    }
+   },
+   "attackCount": 13,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 4474,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 95,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 54,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 48,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 37,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 4003,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 71,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 46,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 32,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3790,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 98,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 61,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 40,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2PVQVQ8JQ",
+    "name": "INDIAN WARRIORS",
+    "level": 4,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/kpKHWE_aprkxqa2pYxTdRuMLTNBqBjd2B5Xvj9E7oGk.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/kpKHWE_aprkxqa2pYxTdRuMLTNBqBjd2B5Xvj9E7oGk.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/kpKHWE_aprkxqa2pYxTdRuMLTNBqBjd2B5Xvj9E7oGk.png"
+    }
+   },
+   "attackCount": 11,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 4459,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 88,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 77,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 39,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3313,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 93,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 57,
+       "stars": 2
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3712,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 79,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 61,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 13,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2YPQUGYLL",
+    "name": "Meledak",
+    "level": 4,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png"
+    }
+   },
+   "attackCount": 1,
+   "districtCount": 3,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 63,
+     "stars": 2,
+     "attackCount": 1,
+     "totalLooted": 1400,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 63,
+       "stars": 2
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    }
+   ]
+  }
+ ],
+ "defenseLog": []
+}
