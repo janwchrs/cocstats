@@ -40,10 +40,10 @@
   {
    "name": "Bigger Coffers",
    "stars": 2,
-   "value": 6,
+   "value": 7,
    "target": 10,
    "info": "Upgrade a Gold Storage to level 10",
-   "completionInfo": "Highest Gold Storage level: 6",
+   "completionInfo": "Highest Gold Storage level: 7",
    "village": "home"
   },
   {
@@ -85,19 +85,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 1174056,
+   "value": 1221300,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 1174056",
+   "completionInfo": "Total Gold looted: 1221300",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 1,
-   "value": 879198,
+   "value": 972343,
    "target": 1000000,
    "info": "Steal 1000000 elixir",
-   "completionInfo": "Total Elixir looted: 879198",
+   "completionInfo": "Total Elixir looted: 972343",
    "village": "home"
   },
   {
@@ -139,19 +139,19 @@
   {
    "name": "Union Buster",
    "stars": 1,
-   "value": 47,
+   "value": 50,
    "target": 250,
    "info": "Destroy 250 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 47",
+   "completionInfo": "Total Builder's Huts destroyed: 50",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 0,
-   "value": 23,
+   "value": 24,
    "target": 25,
    "info": "Win 25 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 23",
+   "completionInfo": "Total multiplayer battles won: 24",
    "village": "home"
   },
   {
@@ -175,10 +175,10 @@
   {
    "name": "Mortar Mauler",
    "stars": 0,
-   "value": 12,
+   "value": 14,
    "target": 25,
    "info": "Destroy 25 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 12",
+   "completionInfo": "Total Mortars destroyed: 14",
    "village": "home"
   },
   {
@@ -553,7 +553,7 @@
  "troops": [
   {
    "name": "Barbarian",
-   "level": 2,
+   "level": 3,
    "maxLevel": 13,
    "village": "home"
   },

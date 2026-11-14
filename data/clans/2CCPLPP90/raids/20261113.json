@@ -2,20 +2,20 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 12882,
+ "capitalTotalLoot": 18291,
  "raidsCompleted": 1,
- "totalAttacks": 15,
- "enemyDistrictsDestroyed": 3,
+ "totalAttacks": 20,
+ "enemyDistrictsDestroyed": 5,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
   {
    "tag": "#R8RYG9GUL",
    "name": "Pscxll",
-   "attacks": 1,
+   "attacks": 6,
    "attackLimit": 5,
-   "bonusAttackLimit": 0,
-   "capitalResourcesLooted": 905
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6314
   },
   {
    "tag": "#LL2PQ8VJC",
@@ -208,9 +208,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/ypJjW5Nvm3yTfxkaTE-3Dd11ljRy1WdvQZZ4-0JstrE.png"
     }
    },
-   "attackCount": 3,
+   "attackCount": 8,
    "districtCount": 3,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 2,
    "districts": [
     {
      "id": 70000000,
@@ -225,11 +225,19 @@
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
-     "destructionPercent": 66,
-     "stars": 1,
-     "attackCount": 3,
-     "totalLooted": 1640,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3560,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#R8RYG9GUL",
+        "name": "Pscxll"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#Q8VC02UQL",
@@ -260,10 +268,44 @@
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 1,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3489,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#R8RYG9GUL",
+        "name": "Pscxll"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#R8RYG9GUL",
+        "name": "Pscxll"
+       },
+       "destructionPercent": 93,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#R8RYG9GUL",
+        "name": "Pscxll"
+       },
+       "destructionPercent": 59,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#R8RYG9GUL",
+        "name": "Pscxll"
+       },
+       "destructionPercent": 34,
+       "stars": 0
+      }
+     ]
     }
    ]
   }

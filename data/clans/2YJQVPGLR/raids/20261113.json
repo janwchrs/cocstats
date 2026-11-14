@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 261276,
+ "capitalTotalLoot": 286375,
  "raidsCompleted": 3,
- "totalAttacks": 68,
- "enemyDistrictsDestroyed": 23,
+ "totalAttacks": 74,
+ "enemyDistrictsDestroyed": 26,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -72,6 +72,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 14945
+  },
+  {
+   "tag": "#8Y2LUYJPU",
+   "name": "MaDs",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 25099
   },
   {
    "tag": "#PLGQUCGLJ",
@@ -798,46 +806,100 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
     }
    },
-   "attackCount": 12,
+   "attackCount": 18,
    "districtCount": 9,
-   "districtsDestroyed": 5,
+   "districtsDestroyed": 8,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 10,
-     "destructionPercent": 0,
+     "destructionPercent": 13,
      "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "attackCount": 1,
+     "totalLooted": 490,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8Y2LUYJPU",
+        "name": "MaDs"
+       },
+       "destructionPercent": 13,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 10173,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8Y2LUYJPU",
+        "name": "MaDs"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8Y2LUYJPU",
+        "name": "MaDs"
+       },
+       "destructionPercent": 43,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 8965,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8Y2LUYJPU",
+        "name": "MaDs"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8Y2LUYJPU",
+        "name": "MaDs"
+       },
+       "destructionPercent": 82,
+       "stars": 2
+      }
+     ]
     },
     {
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 4,
-     "destructionPercent": 39,
-     "stars": 1,
-     "attackCount": 1,
-     "totalLooted": 3705,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 9176,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#8Y2LUYJPU",
+        "name": "MaDs"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#89VRV2PP",
@@ -1346,9 +1408,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png"
     }
    },
-   "attackCount": 4,
+   "attackCount": 10,
    "districtCount": 9,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 1,
    "districts": [
     {
      "id": 70000000,
@@ -1363,10 +1425,36 @@
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11739,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PPL0Y08VL",
+        "name": "batman"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PPL0Y08VL",
+        "name": "batman"
+       },
+       "destructionPercent": 69,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PPL0Y08VL",
+        "name": "batman"
+       },
+       "destructionPercent": 38,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000002,
@@ -1426,10 +1514,28 @@
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 78,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 7750,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PPL0Y08VL",
+        "name": "batman"
+       },
+       "destructionPercent": 78,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#PPL0Y08VL",
+        "name": "batman"
+       },
+       "destructionPercent": 54,
+       "stars": 2
+      }
+     ]
     },
     {
      "id": 70000007,
@@ -1462,10 +1568,20 @@
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
+     "destructionPercent": 41,
      "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "attackCount": 1,
+     "totalLooted": 5455,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PPL0Y08VL",
+        "name": "batman"
+       },
+       "destructionPercent": 41,
+       "stars": 0
+      }
+     ]
     }
    ]
   }
