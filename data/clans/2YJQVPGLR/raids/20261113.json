@@ -1334,6 +1334,140 @@
      ]
     }
    ]
+  },
+  {
+   "attacker": {
+    "tag": "#20RLC0QCG",
+    "name": "Indian titans",
+    "level": 28,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png"
+    }
+   },
+   "attackCount": 4,
+   "districtCount": 9,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 10,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000003,
+     "name": "Balloon Lagoon",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000004,
+     "name": "Builder's Workshop",
+     "districtHallLevel": 5,
+     "destructionPercent": 84,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 9290,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#29L9000V0",
+        "name": "Subhankar **pk"
+       },
+       "destructionPercent": 84,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#29L9000V0",
+        "name": "Subhankar **pk"
+       },
+       "destructionPercent": 38,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000005,
+     "name": "Dragon Cliffs",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000006,
+     "name": "Golem Quarry",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000007,
+     "name": "Skeleton Park",
+     "districtHallLevel": 4,
+     "destructionPercent": 74,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 7900,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#29L9000V0",
+        "name": "Subhankar **pk"
+       },
+       "destructionPercent": 74,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#29L9000V0",
+        "name": "Subhankar **pk"
+       },
+       "destructionPercent": 53,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000008,
+     "name": "Goblin Mines",
+     "districtHallLevel": 4,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    }
+   ]
   }
  ]
 }

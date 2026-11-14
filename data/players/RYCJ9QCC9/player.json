@@ -2,7 +2,7 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 5,
- "expLevel": 11,
+ "expLevel": 12,
  "trophies": 0,
  "bestTrophies": 0,
  "warStars": 0,
@@ -40,10 +40,10 @@
   {
    "name": "Bigger Coffers",
    "stars": 2,
-   "value": 5,
+   "value": 6,
    "target": 10,
    "info": "Upgrade a Gold Storage to level 10",
-   "completionInfo": "Highest Gold Storage level: 5",
+   "completionInfo": "Highest Gold Storage level: 6",
    "village": "home"
   },
   {
@@ -67,10 +67,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 51,
+   "value": 53,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 51",
+   "completionInfo": "Total obstacles removed: 53",
    "village": "home"
   },
   {
@@ -355,10 +355,10 @@
   {
    "name": "Well Seasoned",
    "stars": 0,
-   "value": 2175,
+   "value": 2225,
    "target": 5000,
    "info": "Earn 5000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 2175",
+   "completionInfo": "Total Season Challenges points: 2225",
    "village": "home"
   },
   {
@@ -559,7 +559,7 @@
   },
   {
    "name": "Archer",
-   "level": 2,
+   "level": 3,
    "maxLevel": 14,
    "village": "home"
   },
@@ -583,7 +583,7 @@
   },
   {
    "name": "Balloon",
-   "level": 1,
+   "level": 2,
    "maxLevel": 13,
    "village": "home"
   },
@@ -705,5 +705,12 @@
   }
  ],
  "heroEquipment": [],
- "spells": []
+ "spells": [
+  {
+   "name": "Lightning Spell",
+   "level": 1,
+   "maxLevel": 13,
+   "village": "home"
+  }
+ ]
 }

@@ -1,5 +1,38 @@
 [
  {
+  "result": "win",
+  "endTime": "20261114T174025.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 7,
+   "stars": 15,
+   "destructionPercentage": 100.0,
+   "expEarned": 152
+  },
+  "opponent": {
+   "tag": "#2Q2LJ220V",
+   "name": "ALPHA",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/GabPFNwy1bFA3_1KJMSWcj4MyUiHycoItQHjFwAurXg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/GabPFNwy1bFA3_1KJMSWcj4MyUiHycoItQHjFwAurXg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/GabPFNwy1bFA3_1KJMSWcj4MyUiHycoItQHjFwAurXg.png"
+   },
+   "clanLevel": 19,
+   "stars": 3,
+   "destructionPercentage": 37.4
+  }
+ },
+ {
   "result": null,
   "endTime": "20261110T212125.000Z",
   "teamSize": 15,

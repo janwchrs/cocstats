@@ -2,13 +2,45 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 2888,
- "raidsCompleted": 0,
- "totalAttacks": 3,
- "enemyDistrictsDestroyed": 1,
+ "capitalTotalLoot": 12882,
+ "raidsCompleted": 1,
+ "totalAttacks": 15,
+ "enemyDistrictsDestroyed": 3,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
+  {
+   "tag": "#R8RYG9GUL",
+   "name": "Pscxll",
+   "attacks": 1,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 905
+  },
+  {
+   "tag": "#LL2PQ8VJC",
+   "name": "max",
+   "attacks": 1,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 380
+  },
+  {
+   "tag": "#Q8VC02UQL",
+   "name": "Niels2612",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 5052
+  },
+  {
+   "tag": "#2Q2VY2YPQ",
+   "name": "NotMansonG",
+   "attacks": 4,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 3657
+  },
   {
    "tag": "#PLYYQ00YL",
    "name": "odin",
@@ -30,18 +62,60 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/DKFuMeQ3izMbRoFn23U5DJg-EHDJZ8b5We6nasMDBSE.png"
     }
    },
-   "attackCount": 3,
+   "attackCount": 12,
    "districtCount": 3,
-   "districtsDestroyed": 1,
+   "districtsDestroyed": 3,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 3,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 5,
+     "totalLooted": 4672,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 93,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 50,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 36,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 19,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
@@ -75,6 +149,110 @@
        },
        "destructionPercent": 52,
        "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3682,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 52,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#R8RYG9GUL",
+        "name": "Pscxll"
+       },
+       "destructionPercent": 35,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 10,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2Q0GCPVL2",
+    "name": "Liga da bravura",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ypJjW5Nvm3yTfxkaTE-3Dd11ljRy1WdvQZZ4-0JstrE.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ypJjW5Nvm3yTfxkaTE-3Dd11ljRy1WdvQZZ4-0JstrE.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ypJjW5Nvm3yTfxkaTE-3Dd11ljRy1WdvQZZ4-0JstrE.png"
+    }
+   },
+   "attackCount": 3,
+   "districtCount": 3,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 66,
+     "stars": 1,
+     "attackCount": 3,
+     "totalLooted": 1640,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 66,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 50,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#Q8VC02UQL",
+        "name": "Niels2612"
+       },
+       "destructionPercent": 19,
+       "stars": 0
       }
      ]
     },

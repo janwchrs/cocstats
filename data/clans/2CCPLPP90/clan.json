@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 385,
+   "trophies": 453,
    "builderBaseTrophies": 3728,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
     }
    },
-   "trophies": 374,
+   "trophies": 388,
    "builderBaseTrophies": 4856,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -624,7 +624,7 @@
    "name": "Niels2612",
    "role": "member",
    "townHallLevel": 17,
-   "expLevel": 164,
+   "expLevel": 165,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -641,7 +641,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
     }
    },
-   "trophies": 143,
+   "trophies": 183,
    "builderBaseTrophies": 2952,
    "clanRank": 12,
    "previousClanRank": 12,
@@ -803,7 +803,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2372,
    "clanRank": 15,
-   "previousClanRank": 0,
+   "previousClanRank": 15,
    "donations": 0,
    "donationsReceived": 0,
    "playerHouse": {
@@ -856,7 +856,7 @@
    "trophies": 0,
    "builderBaseTrophies": 1329,
    "clanRank": 16,
-   "previousClanRank": 15,
+   "previousClanRank": 16,
    "donations": 1,
    "donationsReceived": 0,
    "playerHouse": {
@@ -909,7 +909,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2902,
    "clanRank": 17,
-   "previousClanRank": 16,
+   "previousClanRank": 17,
    "donations": 0,
    "donationsReceived": 184,
    "playerHouse": {
@@ -942,7 +942,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 6,
-   "expLevel": 17,
+   "expLevel": 18,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -962,7 +962,7 @@
    "trophies": 0,
    "builderBaseTrophies": 40,
    "clanRank": 18,
-   "previousClanRank": 17,
+   "previousClanRank": 18,
    "donations": 0,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1015,7 +1015,7 @@
    "trophies": 0,
    "builderBaseTrophies": 4174,
    "clanRank": 19,
-   "previousClanRank": 18,
+   "previousClanRank": 19,
    "donations": 137,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1047,8 +1047,8 @@
    "tag": "#R000LP9C8",
    "name": "jockersss",
    "role": "member",
-   "townHallLevel": 4,
-   "expLevel": 10,
+   "townHallLevel": 5,
+   "expLevel": 14,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1068,7 +1068,7 @@
    "trophies": 0,
    "builderBaseTrophies": 0,
    "clanRank": 20,
-   "previousClanRank": 19,
+   "previousClanRank": 20,
    "donations": 0,
    "donationsReceived": 0,
    "builderBaseLeague": {
@@ -1101,7 +1101,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2851,
    "clanRank": 21,
-   "previousClanRank": 20,
+   "previousClanRank": 21,
    "donations": 57,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1154,7 +1154,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2191,
    "clanRank": 22,
-   "previousClanRank": 21,
+   "previousClanRank": 22,
    "donations": 39,
    "donationsReceived": 119,
    "builderBaseLeague": {
@@ -1167,7 +1167,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 5,
-   "expLevel": 11,
+   "expLevel": 12,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1187,7 +1187,7 @@
    "trophies": 0,
    "builderBaseTrophies": 0,
    "clanRank": 23,
-   "previousClanRank": 0,
+   "previousClanRank": 23,
    "donations": 0,
    "donationsReceived": 0,
    "builderBaseLeague": {
@@ -1220,7 +1220,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2407,
    "clanRank": 24,
-   "previousClanRank": 22,
+   "previousClanRank": 24,
    "donations": 0,
    "donationsReceived": 191,
    "playerHouse": {

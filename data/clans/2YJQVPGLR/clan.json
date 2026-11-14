@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 89050,
- "clanBuilderBasePoints": 34808,
+ "clanBuilderBasePoints": 34801,
  "clanCapitalPoints": 2694,
  "capitalLeague": {
   "id": 85000013,
@@ -25,8 +25,8 @@
  },
  "requiredTrophies": 3000,
  "warFrequency": "moreThanOncePerWeek",
- "warWinStreak": 3,
- "warWins": 95,
+ "warWinStreak": 4,
+ "warWins": 96,
  "warTies": 7,
  "warLosses": 80,
  "isWarLogPublic": true,
@@ -170,7 +170,7 @@
    "builderBaseTrophies": 4186,
    "clanRank": 3,
    "previousClanRank": 3,
-   "donations": 1265,
+   "donations": 1348,
    "donationsReceived": 811,
    "playerHouse": {
     "elements": [
@@ -326,8 +326,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 858,
-   "builderBaseTrophies": 3300,
+   "trophies": 870,
+   "builderBaseTrophies": 3275,
    "clanRank": 6,
    "previousClanRank": 6,
    "donations": 192,
@@ -432,7 +432,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 691,
+   "trophies": 700,
    "builderBaseTrophies": 3187,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -538,7 +538,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
     }
    },
-   "trophies": 153,
+   "trophies": 180,
    "builderBaseTrophies": 3331,
    "clanRank": 10,
    "previousClanRank": 10,
@@ -649,7 +649,7 @@
    "clanRank": 12,
    "previousClanRank": 12,
    "donations": 55,
-   "donationsReceived": 476,
+   "donationsReceived": 559,
    "playerHouse": {
     "elements": [
      {
