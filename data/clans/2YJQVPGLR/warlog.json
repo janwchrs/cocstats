@@ -1,0 +1,1632 @@
+[
+ {
+  "result": null,
+  "endTime": "20261110T212125.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 94,
+   "stars": 271,
+   "destructionPercentage": 578.2,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 205,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20261030T185129.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 8,
+   "stars": 15,
+   "destructionPercentage": 100.0,
+   "expEarned": 155
+  },
+  "opponent": {
+   "tag": "#P2VJ9CLP",
+   "name": "Fura nh3",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/hjSZzCPTUuNvAP1z03ZpM3Pz-hxuo_7jfUlAg19j-5I.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/hjSZzCPTUuNvAP1z03ZpM3Pz-hxuo_7jfUlAg19j-5I.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/hjSZzCPTUuNvAP1z03ZpM3Pz-hxuo_7jfUlAg19j-5I.png"
+   },
+   "clanLevel": 26,
+   "stars": 13,
+   "destructionPercentage": 98.6
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20261025T190408.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 8,
+   "stars": 14,
+   "destructionPercentage": 99.6,
+   "expEarned": 159
+  },
+  "opponent": {
+   "tag": "#2UC9VQ02",
+   "name": "cz. clan",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/DzaMz-p5A9myNZhCUFnmYbICuVcthZPY6_jylj1dRrg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/DzaMz-p5A9myNZhCUFnmYbICuVcthZPY6_jylj1dRrg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/DzaMz-p5A9myNZhCUFnmYbICuVcthZPY6_jylj1dRrg.png"
+   },
+   "clanLevel": 29,
+   "stars": 14,
+   "destructionPercentage": 97.6
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20261019T180456.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 10,
+   "stars": 15,
+   "destructionPercentage": 100.0,
+   "expEarned": 109
+  },
+  "opponent": {
+   "tag": "#P98G2PYL",
+   "name": "<Origen>",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/DxD_mN_y2Tmtu5fX7BtPv3rMOtBZDWi-gCaO9h0O9MQ.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/DxD_mN_y2Tmtu5fX7BtPv3rMOtBZDWi-gCaO9h0O9MQ.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/DxD_mN_y2Tmtu5fX7BtPv3rMOtBZDWi-gCaO9h0O9MQ.png"
+   },
+   "clanLevel": 22,
+   "stars": 15,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20261014T172244.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 8,
+   "stars": 15,
+   "destructionPercentage": 100.0,
+   "expEarned": 108
+  },
+  "opponent": {
+   "tag": "#2RLQQ2UVR",
+   "name": "SmashHub",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/WRFkHQAsW_BxM6TEUKqMSb3DWFYuBiYwf5t4U-9xqVA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/WRFkHQAsW_BxM6TEUKqMSb3DWFYuBiYwf5t4U-9xqVA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/WRFkHQAsW_BxM6TEUKqMSb3DWFYuBiYwf5t4U-9xqVA.png"
+   },
+   "clanLevel": 19,
+   "stars": 15,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20261009T223022.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 104,
+   "stars": 343,
+   "destructionPercentage": 656.5333,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 171,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20260929T204345.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 8,
+   "stars": 15,
+   "destructionPercentage": 100.0,
+   "expEarned": 107
+  },
+  "opponent": {
+   "tag": "#2C22YR22V",
+   "name": "ۅﭠﻤﻀʊ̤ ﭑࢦأيام ﾂ",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/L-ZOUufJIVmp9qaGnbcstrRxMlg9mtY5laR8GP0RD4I.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/L-ZOUufJIVmp9qaGnbcstrRxMlg9mtY5laR8GP0RD4I.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/L-ZOUufJIVmp9qaGnbcstrRxMlg9mtY5laR8GP0RD4I.png"
+   },
+   "clanLevel": 3,
+   "stars": 15,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260926T200643.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 13,
+   "stars": 28,
+   "destructionPercentage": 97.2,
+   "expEarned": 230
+  },
+  "opponent": {
+   "tag": "#28U0V2CLY",
+   "name": "LOS GUERREROS",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/uQiwBqExJy48bGFRNct7-7v6nF-LGUzyG5BGUShkuIE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/uQiwBqExJy48bGFRNct7-7v6nF-LGUzyG5BGUShkuIE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/uQiwBqExJy48bGFRNct7-7v6nF-LGUzyG5BGUShkuIE.png"
+   },
+   "clanLevel": 25,
+   "stars": 23,
+   "destructionPercentage": 84.3
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260919T203921.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 21,
+   "stars": 42,
+   "destructionPercentage": 95.066666,
+   "expEarned": 246
+  },
+  "opponent": {
+   "tag": "#PQCV2LCV",
+   "name": "Les Pachas",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/2DsRzME-HfqVDT3epD5MLBqM0kPgw_1kcDfVi3PdSe0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/2DsRzME-HfqVDT3epD5MLBqM0kPgw_1kcDfVi3PdSe0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/2DsRzME-HfqVDT3epD5MLBqM0kPgw_1kcDfVi3PdSe0.png"
+   },
+   "clanLevel": 32,
+   "stars": 45,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20260914T192804.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 14,
+   "stars": 30,
+   "destructionPercentage": 100.0,
+   "expEarned": 170
+  },
+  "opponent": {
+   "tag": "#2YRG8L0Q",
+   "name": "الصياد",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/XRLA1S4jBK6lWEIcnltXUwZIVr23IcuqRN8HiVHTRoI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/XRLA1S4jBK6lWEIcnltXUwZIVr23IcuqRN8HiVHTRoI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/XRLA1S4jBK6lWEIcnltXUwZIVr23IcuqRN8HiVHTRoI.png"
+   },
+   "clanLevel": 20,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20260909T220305.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 94,
+   "stars": 258,
+   "destructionPercentage": 569.86664,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 247,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20260831T190413.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 13,
+   "stars": 30,
+   "destructionPercentage": 100.0,
+   "expEarned": 175
+  },
+  "opponent": {
+   "tag": "#Q89UJPVL",
+   "name": "Die Master",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/sebH8RZnS00qKOC9enw-dVHchLaeg4VNLxS8aWmYTMw.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/sebH8RZnS00qKOC9enw-dVHchLaeg4VNLxS8aWmYTMw.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/sebH8RZnS00qKOC9enw-dVHchLaeg4VNLxS8aWmYTMw.png"
+   },
+   "clanLevel": 17,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260820T123137.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 15,
+   "stars": 27,
+   "destructionPercentage": 97.5,
+   "expEarned": 226
+  },
+  "opponent": {
+   "tag": "#P0JU229Q",
+   "name": "Korea 독도",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/ubuKKPqtTJUTe9F2AFcoHbxoPCoDkmyYczkyuQ6NKxg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/ubuKKPqtTJUTe9F2AFcoHbxoPCoDkmyYczkyuQ6NKxg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/ubuKKPqtTJUTe9F2AFcoHbxoPCoDkmyYczkyuQ6NKxg.png"
+   },
+   "clanLevel": 29,
+   "stars": 24,
+   "destructionPercentage": 82.9
+  }
+ },
+ {
+  "result": null,
+  "endTime": "20260810T212840.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 97,
+   "stars": 263,
+   "destructionPercentage": 577.5333,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 211,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260728T065501.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 14,
+   "stars": 27,
+   "destructionPercentage": 95.6,
+   "expEarned": 178
+  },
+  "opponent": {
+   "tag": "#2QVJCPRPP",
+   "name": "Hắc Phong Bang",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/PDngHepfyFNjzVbSEWIWhXpAynATDLJ4-GMgV4nCpKo.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/PDngHepfyFNjzVbSEWIWhXpAynATDLJ4-GMgV4nCpKo.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/PDngHepfyFNjzVbSEWIWhXpAynATDLJ4-GMgV4nCpKo.png"
+   },
+   "clanLevel": 22,
+   "stars": 29,
+   "destructionPercentage": 99.5
+  }
+ },
+ {
+  "result": "tie",
+  "endTime": "20260717T130507.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 16,
+   "stars": 30,
+   "destructionPercentage": 100.0,
+   "expEarned": 178
+  },
+  "opponent": {
+   "tag": "#2QRJ8UJ8U",
+   "name": "弑神·领域",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/5bYG1xHelvp7wH0uvHVo05y9750fTY5umF5yVUKr2Wc.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/5bYG1xHelvp7wH0uvHVo05y9750fTY5umF5yVUKr2Wc.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/5bYG1xHelvp7wH0uvHVo05y9750fTY5umF5yVUKr2Wc.png"
+   },
+   "clanLevel": 23,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": null,
+  "endTime": "20260710T230610.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 96,
+   "stars": 276,
+   "destructionPercentage": 591.26666,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 227,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260629T203330.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 17,
+   "stars": 30,
+   "destructionPercentage": 100.0,
+   "expEarned": 226
+  },
+  "opponent": {
+   "tag": "#VC9UJLVJ",
+   "name": "クランゲームトライアル",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oaYTcWsfzShIKRCt21V1fGb0EoBrzrMNnTmCYHJ4cDc.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oaYTcWsfzShIKRCt21V1fGb0EoBrzrMNnTmCYHJ4cDc.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oaYTcWsfzShIKRCt21V1fGb0EoBrzrMNnTmCYHJ4cDc.png"
+   },
+   "clanLevel": 26,
+   "stars": 25,
+   "destructionPercentage": 92.7
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260624T124037.000Z",
+  "teamSize": 11,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 75,
+   "stars": 264,
+   "destructionPercentage": 657.2727,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 143,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": null,
+  "endTime": "20260609T190508.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 85,
+   "stars": 248,
+   "destructionPercentage": 527.8,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 220,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260528T211731.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 14,
+   "stars": 28,
+   "destructionPercentage": 98.0,
+   "expEarned": 178
+  },
+  "opponent": {
+   "tag": "#2R9GGJLVY",
+   "name": "Mystic Fury",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/BjzoDWcRwjTnV6ly8Q1YR1an__8RFAUAPcdZxJykHuA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/BjzoDWcRwjTnV6ly8Q1YR1an__8RFAUAPcdZxJykHuA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/BjzoDWcRwjTnV6ly8Q1YR1an__8RFAUAPcdZxJykHuA.png"
+   },
+   "clanLevel": 18,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260521T214249.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/oMIFAZR-FXXWlp9kpnKOzttH1RCUsphLnVIgEsQgurI.png"
+   },
+   "clanLevel": 18,
+   "attacks": 16,
+   "stars": 30,
+   "destructionPercentage": 100.0,
+   "expEarned": 227
+  },
+  "opponent": {
+   "tag": "#2PRJ9R0CG",
+   "name": "PHYRUN KHMER",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/076TF2ZKMX9hHQOpDjskdsJrYuAzlSZVbK8V2aQqVlw.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/076TF2ZKMX9hHQOpDjskdsJrYuAzlSZVbK8V2aQqVlw.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/076TF2ZKMX9hHQOpDjskdsJrYuAzlSZVbK8V2aQqVlw.png"
+   },
+   "clanLevel": 24,
+   "stars": 25,
+   "destructionPercentage": 89.2
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260517T180827.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 13,
+   "stars": 28,
+   "destructionPercentage": 97.7,
+   "expEarned": 172
+  },
+  "opponent": {
+   "tag": "#22Q8P9V",
+   "name": "Steilküste",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/DvuoJakti8klhCkD2dnqsSSKwCEnj2Wydb0To-xntXI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/DvuoJakti8klhCkD2dnqsSSKwCEnj2Wydb0To-xntXI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/DvuoJakti8klhCkD2dnqsSSKwCEnj2Wydb0To-xntXI.png"
+   },
+   "clanLevel": 34,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": null,
+  "endTime": "20260510T204857.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 97,
+   "stars": 293,
+   "destructionPercentage": 587.93335,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 190,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260429T002138.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 22,
+   "stars": 43,
+   "destructionPercentage": 96.933334,
+   "expEarned": 294
+  },
+  "opponent": {
+   "tag": "#2QR8JU2RV",
+   "name": "Patna warriors",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/6UuIATrf5K5xTeZlIeBD0FTEWZDNm2mw2JwdBdTVAvg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/6UuIATrf5K5xTeZlIeBD0FTEWZDNm2mw2JwdBdTVAvg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/6UuIATrf5K5xTeZlIeBD0FTEWZDNm2mw2JwdBdTVAvg.png"
+   },
+   "clanLevel": 21,
+   "stars": 35,
+   "destructionPercentage": 86.333336
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260415T222612.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 23,
+   "stars": 42,
+   "destructionPercentage": 96.0,
+   "expEarned": 236
+  },
+  "opponent": {
+   "tag": "#P9PQGQYJ",
+   "name": "Bigland",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/0dhO1Qjhz__n5jXHOfPe57Y7LiIXxb9WGVmZuBSyj9k.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/0dhO1Qjhz__n5jXHOfPe57Y7LiIXxb9WGVmZuBSyj9k.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/0dhO1Qjhz__n5jXHOfPe57Y7LiIXxb9WGVmZuBSyj9k.png"
+   },
+   "clanLevel": 23,
+   "stars": 42,
+   "destructionPercentage": 98.13333
+  }
+ },
+ {
+  "result": null,
+  "endTime": "20260410T113827.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 99,
+   "stars": 302,
+   "destructionPercentage": 611.93335,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 152,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260401T192450.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 16,
+   "stars": 30,
+   "destructionPercentage": 100.0,
+   "expEarned": 220
+  },
+  "opponent": {
+   "tag": "#Q8PYL2PC",
+   "name": "TOP CLANS",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/ESOr6zzB_lQtBiD7cMgvLSkLi8NT_h_uKwRD0GOSRUQ.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/ESOr6zzB_lQtBiD7cMgvLSkLi8NT_h_uKwRD0GOSRUQ.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/ESOr6zzB_lQtBiD7cMgvLSkLi8NT_h_uKwRD0GOSRUQ.png"
+   },
+   "clanLevel": 33,
+   "stars": 27,
+   "destructionPercentage": 93.6
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260329T192935.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 22,
+   "stars": 40,
+   "destructionPercentage": 93.26667,
+   "expEarned": 291
+  },
+  "opponent": {
+   "tag": "#JQVCC92L",
+   "name": "!Tsunami Dery!",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/xrxVq0qnNm25EY8b4-Vy5JGIVNFZq0NgS8yinRehn5U.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/xrxVq0qnNm25EY8b4-Vy5JGIVNFZq0NgS8yinRehn5U.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/xrxVq0qnNm25EY8b4-Vy5JGIVNFZq0NgS8yinRehn5U.png"
+   },
+   "clanLevel": 26,
+   "stars": 27,
+   "destructionPercentage": 69.26667
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260325T214604.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 26,
+   "stars": 38,
+   "destructionPercentage": 95.46667,
+   "expEarned": 245
+  },
+  "opponent": {
+   "tag": "#9RCQVR0P",
+   "name": "Clan Britannia",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/3yyPI3NxdprsS2uFpnpvwuO8hygXaT75IFA35gM3BvY.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/3yyPI3NxdprsS2uFpnpvwuO8hygXaT75IFA35gM3BvY.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/3yyPI3NxdprsS2uFpnpvwuO8hygXaT75IFA35gM3BvY.png"
+   },
+   "clanLevel": 28,
+   "stars": 45,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260322T221151.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 26,
+   "stars": 41,
+   "destructionPercentage": 95.46667,
+   "expEarned": 246
+  },
+  "opponent": {
+   "tag": "#2QCRV8QLP",
+   "name": "دردشه",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
+   },
+   "clanLevel": 21,
+   "stars": 45,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260319T223032.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 20,
+   "stars": 44,
+   "destructionPercentage": 98.666664,
+   "expEarned": 282
+  },
+  "opponent": {
+   "tag": "#2CG2UJJV",
+   "name": "Adults",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/W8W7rI6MVA9GlSCqtdNnwEE410Onn3-qL5J59SG7ZCM.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/W8W7rI6MVA9GlSCqtdNnwEE410Onn3-qL5J59SG7ZCM.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/W8W7rI6MVA9GlSCqtdNnwEE410Onn3-qL5J59SG7ZCM.png"
+   },
+   "clanLevel": 28,
+   "stars": 42,
+   "destructionPercentage": 99.53333
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260316T212445.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 18,
+   "stars": 26,
+   "destructionPercentage": 95.5,
+   "expEarned": 179
+  },
+  "opponent": {
+   "tag": "#LJR88CV0",
+   "name": "fleches d or",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/97FKLsrhxgby-sAOV-egpjTMnlmrYGufRBEhlhh7YbE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/97FKLsrhxgby-sAOV-egpjTMnlmrYGufRBEhlhh7YbE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/97FKLsrhxgby-sAOV-egpjTMnlmrYGufRBEhlhh7YbE.png"
+   },
+   "clanLevel": 23,
+   "stars": 27,
+   "destructionPercentage": 92.8
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260313T223455.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 23,
+   "stars": 45,
+   "destructionPercentage": 100.0,
+   "expEarned": 292
+  },
+  "opponent": {
+   "tag": "#R2V0CJJP",
+   "name": "lion empire",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/atXPIcxyzIIsGcjN_3FTEDEDMGXR6JmhzZJml7i6kQQ.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/atXPIcxyzIIsGcjN_3FTEDEDMGXR6JmhzZJml7i6kQQ.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/atXPIcxyzIIsGcjN_3FTEDEDMGXR6JmhzZJml7i6kQQ.png"
+   },
+   "clanLevel": 23,
+   "stars": 14,
+   "destructionPercentage": 34.0
+  }
+ },
+ {
+  "result": null,
+  "endTime": "20260309T214926.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 1,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 103,
+   "stars": 332,
+   "destructionPercentage": 644.73334,
+   "expEarned": 0
+  },
+  "opponent": {
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+   },
+   "clanLevel": 0,
+   "stars": 201,
+   "destructionPercentage": 0.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260227T002521.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 15,
+   "stars": 28,
+   "destructionPercentage": 98.7,
+   "expEarned": 230
+  },
+  "opponent": {
+   "tag": "#29QYUPLQR",
+   "name": "DOORS ☠",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/GhsjCJZF8h_ibYEDgcVk_D3l7fKf6uIJ1hr8wZOiFJg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/GhsjCJZF8h_ibYEDgcVk_D3l7fKf6uIJ1hr8wZOiFJg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/GhsjCJZF8h_ibYEDgcVk_D3l7fKf6uIJ1hr8wZOiFJg.png"
+   },
+   "clanLevel": 22,
+   "stars": 21,
+   "destructionPercentage": 78.6
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260222T001332.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 17,
+   "stars": 28,
+   "destructionPercentage": 98.7,
+   "expEarned": 225
+  },
+  "opponent": {
+   "tag": "#2PC9CVCQV",
+   "name": "Whiskey Pub",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/q34YVryh7ZyfsF1CRAx1wLmgZF9CPVeXdn79pCSZon4.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/q34YVryh7ZyfsF1CRAx1wLmgZF9CPVeXdn79pCSZon4.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/q34YVryh7ZyfsF1CRAx1wLmgZF9CPVeXdn79pCSZon4.png"
+   },
+   "clanLevel": 22,
+   "stars": 24,
+   "destructionPercentage": 92.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260217T225041.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 18,
+   "stars": 27,
+   "destructionPercentage": 96.6,
+   "expEarned": 178
+  },
+  "opponent": {
+   "tag": "#VR8VQCLR",
+   "name": "eXtrm",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/Q4p7d89OPCuwYV5hxaJGrixa6KhB0fAnMb5bzFhEf6c.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/Q4p7d89OPCuwYV5hxaJGrixa6KhB0fAnMb5bzFhEf6c.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/Q4p7d89OPCuwYV5hxaJGrixa6KhB0fAnMb5bzFhEf6c.png"
+   },
+   "clanLevel": 24,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260131T190713.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/tk9OxT5m660UMHvh9-_DczUs0CFhaaEPw9VW8mURIX0.png"
+   },
+   "clanLevel": 17,
+   "attacks": 19,
+   "stars": 29,
+   "destructionPercentage": 98.2,
+   "expEarned": 165
+  },
+  "opponent": {
+   "tag": "#2QJLVYPQU",
+   "name": "CWL",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/Yrd9aOK78-xnYjDIb-D2gLzEP5_BpvNLDM6P5bp7Dfc.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/Yrd9aOK78-xnYjDIb-D2gLzEP5_BpvNLDM6P5bp7Dfc.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/Yrd9aOK78-xnYjDIb-D2gLzEP5_BpvNLDM6P5bp7Dfc.png"
+   },
+   "clanLevel": 23,
+   "stars": 29,
+   "destructionPercentage": 98.8
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20260127T192143.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 16,
+   "stars": 27,
+   "destructionPercentage": 93.2,
+   "expEarned": 169
+  },
+  "opponent": {
+   "tag": "#2GY88UGPP",
+   "name": "Based+RedPilled",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/5btM8u_ZyJPT3IU1d7AMxDvcimvBUOS3VFzn-fU3rho.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/5btM8u_ZyJPT3IU1d7AMxDvcimvBUOS3VFzn-fU3rho.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/5btM8u_ZyJPT3IU1d7AMxDvcimvBUOS3VFzn-fU3rho.png"
+   },
+   "clanLevel": 20,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260122T211318.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 17,
+   "stars": 28,
+   "destructionPercentage": 96.5,
+   "expEarned": 225
+  },
+  "opponent": {
+   "tag": "#8C2LPVL9",
+   "name": "Vanha kunnon Suomi",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/JFa1IuLBLouFewsrCvNElXG-olH93CUS8OQ0DGoHqac.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/JFa1IuLBLouFewsrCvNElXG-olH93CUS8OQ0DGoHqac.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/JFa1IuLBLouFewsrCvNElXG-olH93CUS8OQ0DGoHqac.png"
+   },
+   "clanLevel": 25,
+   "stars": 25,
+   "destructionPercentage": 86.5
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260118T194257.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 22,
+   "stars": 41,
+   "destructionPercentage": 95.86667,
+   "expEarned": 285
+  },
+  "opponent": {
+   "tag": "#2LQJPL08G",
+   "name": "❤ارض الأحلام",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/W5gMwit06pN0wrNs23i31BH8uZ55sUoBZG8EL6oSpZA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/W5gMwit06pN0wrNs23i31BH8uZ55sUoBZG8EL6oSpZA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/W5gMwit06pN0wrNs23i31BH8uZ55sUoBZG8EL6oSpZA.png"
+   },
+   "clanLevel": 25,
+   "stars": 38,
+   "destructionPercentage": 95.6
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20260113T220821.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 28,
+   "stars": 41,
+   "destructionPercentage": 94.46667,
+   "expEarned": 288
+  },
+  "opponent": {
+   "tag": "#2Q8LYQ9GQ",
+   "name": "Toxic",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/1lXy1Fs_M4kuq2EQDFl05z7AdTH9K5Ao3UXynGcXaKI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/1lXy1Fs_M4kuq2EQDFl05z7AdTH9K5Ao3UXynGcXaKI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/1lXy1Fs_M4kuq2EQDFl05z7AdTH9K5Ao3UXynGcXaKI.png"
+   },
+   "clanLevel": 16,
+   "stars": 33,
+   "destructionPercentage": 76.333336
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20251230T230130.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 18,
+   "stars": 25,
+   "destructionPercentage": 91.9,
+   "expEarned": 170
+  },
+  "opponent": {
+   "tag": "#YRYYC9U9",
+   "name": "HAPPY FAMILY",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/s7dXJfZHrGdlniCPa1u-YKxJbxloFUZ_ZLOSysEaoEs.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/s7dXJfZHrGdlniCPa1u-YKxJbxloFUZ_ZLOSysEaoEs.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/s7dXJfZHrGdlniCPa1u-YKxJbxloFUZ_ZLOSysEaoEs.png"
+   },
+   "clanLevel": 22,
+   "stars": 30,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20251226T000414.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 22,
+   "stars": 43,
+   "destructionPercentage": 95.333336,
+   "expEarned": 237
+  },
+  "opponent": {
+   "tag": "#2G9P92G28",
+   "name": "Eclipse",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png"
+   },
+   "clanLevel": 11,
+   "stars": 43,
+   "destructionPercentage": 99.066666
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20251219T211959.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 27,
+   "stars": 40,
+   "destructionPercentage": 94.8,
+   "expEarned": 291
+  },
+  "opponent": {
+   "tag": "#2LGPRQV9J",
+   "name": "Deviants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png"
+   },
+   "clanLevel": 21,
+   "stars": 40,
+   "destructionPercentage": 93.13333
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20251211T204219.000Z",
+  "teamSize": 15,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 24,
+   "stars": 36,
+   "destructionPercentage": 87.86667,
+   "expEarned": 292
+  },
+  "opponent": {
+   "tag": "#22UGPPCYG",
+   "name": "لهيب الحرب 2019",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png"
+   },
+   "clanLevel": 22,
+   "stars": 23,
+   "destructionPercentage": 60.933334
+  }
+ },
+ {
+  "result": "lose",
+  "endTime": "20251205T091723.000Z",
+  "teamSize": 30,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 49,
+   "stars": 82,
+   "destructionPercentage": 94.8,
+   "expEarned": 409
+  },
+  "opponent": {
+   "tag": "#2G2QJPCV9",
+   "name": "从零开始的异世界生活",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/wMQAk-cICk1fUWEZ_DiU3HVVoBWSwhT1FEpXdsT9jkA.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/wMQAk-cICk1fUWEZ_DiU3HVVoBWSwhT1FEpXdsT9jkA.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/wMQAk-cICk1fUWEZ_DiU3HVVoBWSwhT1FEpXdsT9jkA.png"
+   },
+   "clanLevel": 23,
+   "stars": 90,
+   "destructionPercentage": 100.0
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20251129T193820.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 16,
+   "stars": 26,
+   "destructionPercentage": 90.8,
+   "expEarned": 218
+  },
+  "opponent": {
+   "tag": "#2YLLCCYJQ",
+   "name": "Grad Pandi",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/HibJ30RzfIhMq2WwFEX-La2ZcDvzXy7YebmWCR2a4HI.png"
+   },
+   "clanLevel": 23,
+   "stars": 25,
+   "destructionPercentage": 93.4
+  }
+ },
+ {
+  "result": "win",
+  "endTime": "20251122T230359.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/nhHM1rXXGH74NhhliXp51LwuGGMK-UjalRzZTBKVjVg.png"
+   },
+   "clanLevel": 16,
+   "attacks": 19,
+   "stars": 28,
+   "destructionPercentage": 94.9,
+   "expEarned": 220
+  },
+  "opponent": {
+   "tag": "#YV09Q2PV",
+   "name": "Castle Crasher",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/OJn4-J176gtcJXPsY9YuqS66eV4GtdyxWmJoUmFIooE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/OJn4-J176gtcJXPsY9YuqS66eV4GtdyxWmJoUmFIooE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/OJn4-J176gtcJXPsY9YuqS66eV4GtdyxWmJoUmFIooE.png"
+   },
+   "clanLevel": 22,
+   "stars": 22,
+   "destructionPercentage": 87.1
+  }
+ }
+]
