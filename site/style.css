@@ -198,6 +198,39 @@ tr.mine td:first-child { box-shadow: inset 3px 0 0 var(--series); }
 .status.tie, .status.live { color: var(--ink-2); }
 .date { color: var(--muted); font-size: 13px; }
 
+/* Verwaltung */
+.page-title { font-size: 22px; }
+.text { color: var(--ink-2); margin: 0 0 12px; max-width: 70ch; }
+.muted { color: var(--muted); font-size: 14px; margin: 4px 0; }
+.steps { margin: 0 0 14px; padding-left: 20px; color: var(--ink-2); font-size: 14px; display: grid; gap: 4px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 12px; }
+.row input[type="text"], .row input[type="password"] { flex: 1 1 200px; }
+input[type="text"], input[type="password"] {
+  font: inherit; font-size: 14px; padding: 7px 10px; border-radius: 8px; min-width: 0;
+  border: 1px solid var(--border); background: var(--page); color: var(--ink);
+}
+input:focus-visible, select:focus-visible, .btn:focus-visible { outline: 2px solid var(--series); outline-offset: 1px; }
+.btn {
+  font: inherit; font-size: 14px; padding: 7px 14px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--border); background: var(--raised); color: var(--ink);
+}
+.btn:hover { filter: brightness(1.08); }
+.btn:disabled { opacity: 0.5; cursor: default; }
+.btn.primary { background: var(--series); border-color: transparent; color: #fff; font-weight: 600; }
+.btn.small { font-size: 13px; padding: 3px 10px; }
+.list-block { margin-bottom: 14px; }
+.list-block h3 { margin-bottom: 6px; }
+.list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--border); }
+.list li {
+  display: grid; grid-template-columns: 1fr auto auto; gap: 12px; align-items: center;
+  padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 14px;
+}
+.check { display: flex; gap: 8px; align-items: center; margin-top: 14px; font-size: 14px; color: var(--ink-2); }
+.status-line { min-height: 1.4em; margin: 10px 0 0; font-size: 14px; }
+.problems { margin: 0 0 8px; font-size: 14px; color: var(--critical-text); }
+.problems ul { margin: 6px 0 0; padding-left: 20px; }
+.nav-settings { margin-left: auto; }
+
 @media (max-width: 600px) {
   .war > summary { grid-template-columns: 1fr auto; }
   .war .date { grid-column: 1 / -1; }

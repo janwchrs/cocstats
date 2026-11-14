@@ -7,15 +7,17 @@ die Daten versioniert unter `data/` und veröffentlicht das Dashboard auf GitHub
 
 1. **API-Key anlegen:** auf https://developer.clashofclans.com einloggen → *My Account* → *Create New Key*.
    Als erlaubte IP `45.79.218.79` eintragen (das ist der RoyaleAPI-Proxy, über den alle Abfragen laufen).
-2. **Tags eintragen:** in `config.json` unter `players` deine Spieler-Tags, optional unter `clans` weitere Clans.
-   Die Clans deiner Accounts werden automatisch mit erfasst (`includePlayerClans`).
-3. **Repo auf GitHub anlegen und pushen.**
-4. **Secret setzen:** *Settings → Secrets and variables → Actions → New repository secret*,
+   Das ist **nicht** das API-Token aus dem Spielprofil. Der Key gehört zum Developer-Konto und kann jeden Spieler und Clan abfragen.
+2. **Secret setzen:** *Settings → Secrets and variables → Actions → New repository secret*,
    Name `COC_API_TOKEN`, Wert = der API-Key.
-5. **Pages aktivieren:** *Settings → Pages → Source: GitHub Actions*.
-6. **Ersten Lauf starten:** *Actions → Daten aktualisieren → Run workflow*.
+3. **Pages aktivieren:** *Settings → Pages → Source: GitHub Actions*.
+4. **Ersten Lauf starten:** *Actions → Daten aktualisieren → Run workflow*. Danach ist das Dashboard unter
+   `https://<nutzer>.github.io/<repo>/` erreichbar.
+5. **Accounts eintragen:** im Dashboard unter *⚙ Verwalten*. Dort einmal mit einem GitHub-Token anmelden
+   (Fine-grained, nur dieses Repo, Berechtigungen *Contents* und *Actions* auf „Read and write“).
 
-Danach läuft alles automatisch. Das Dashboard liegt unter `https://<nutzer>.github.io/<repo>/`.
+Die Oberfläche speichert Änderungen als Commit in `config.json`. Jeder Commit startet sofort einen Abruf.
+Probleme beim Abruf (falscher Tag, ungültiger Key) werden ebenfalls unter *Verwalten* angezeigt.
 
 ## Lokal ausführen
 

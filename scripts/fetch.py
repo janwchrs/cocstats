@@ -4,6 +4,7 @@
 Es wird nur geschrieben, was sich geändert hat, damit die Git-Historie schlank bleibt.
 """
 import json
+import os
 import sys
 import threading
 from concurrent.futures import ThreadPoolExecutor
@@ -29,6 +30,16 @@ def note(path, did_change):
     if did_change:
         with lock:
             changed.append(str(path.relative_to(ROOT)))
+
+
+def describe(err):
+    if isinstance(err, ApiError):
+        if err.status == 404:
+            return "nicht gefunden (Tag prüfen)"
+        if err.status == 403:
+            return "Zugriff verweigert (API-Key oder dessen IP-Freigabe prüfen)"
+        return f"Fehler {err.status} ({err.reason})"
+    return str(err)
 
 
 def fail(what, err):
@@ -292,6 +303,15 @@ def main():
     cfg = read_json(ROOT / "config.json", {})
     players = list(dict.fromkeys(norm_tag(t) for t in cfg.get("players", [])))
     clans = [norm_tag(t) for t in cfg.get("clans", [])]
+    if not players and not clans:
+        write_json(DATA / "meta.json", {"updated": None, "players": [], "clans": []})
+        print("Noch keine Accounts eingetragen. Sie werden im Dashboard unter 'Verwalten' hinzugefügt.")
+        return
+    if not os.environ.get("COC_API_TOKEN"):
+        problem = "Das Secret COC_API_TOKEN fehlt (GitHub → Settings → Secrets and variables → Actions)."
+        write_json(DATA / "meta.json", {**read_json(DATA / "meta.json", {}), "players": players, "clans": clans,
+                                        "errors": [problem]})
+        sys.exit(problem)
 
     with ThreadPoolExecutor(8) as ex:
         gp = ex.submit(fetch_goldpass)
@@ -307,9 +327,11 @@ def main():
 
     fetch_rankings(players, clan_data)
 
-    if changed:
-        meta = {"updated": now_iso(), "players": players, "clans": clans}
-        write_json(DATA / "meta.json", meta)
+    # Die Listen immer aktuell halten, damit entfernte Accounts sofort aus dem Dashboard verschwinden.
+    old = read_json(DATA / "meta.json", {})
+    problems = [f"{what}: {describe(e)}" for what, e in errors]
+    write_json(DATA / "meta.json", {"updated": now_iso() if changed else old.get("updated"),
+                                    "players": players, "clans": clans, "errors": problems})
 
     print(f"{len(players)} Spieler, {len(clans)} Clans, {len(changed)} geänderte Dateien, {len(errors)} Fehler")
     for path in sorted(changed):

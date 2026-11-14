@@ -1,8 +1,5 @@
 {
-  "players": [
-    "#SPIELERTAG1",
-    "#SPIELERTAG2"
-  ],
+  "players": [],
   "clans": [],
   "includePlayerClans": true
 }

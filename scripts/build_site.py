@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Fasst data/ zu kompakten JSON-Dateien für das Dashboard zusammen (site/data/)."""
 import json
+import os
 import shutil
 from datetime import datetime, timezone
 
@@ -177,6 +178,9 @@ def main():
     clans = sorted((c for c in clans if c and tag_dir(c["tag"]) in c_order), key=lambda c: c_order[tag_dir(c["tag"])])
 
     write_out(OUT / "index.json", {"updated": meta.get("updated"), "players": players, "clans": clans,
+                                    "configured": {"players": meta.get("players", []), "clans": meta.get("clans", [])},
+                                    "repo": os.environ.get("GITHUB_REPOSITORY"),
+                                    "errors": meta.get("errors", []),
                                     "goldpass": read_json(DATA / "goldpass.json")})
     print(f"Dashboard-Daten: {len(players)} Spieler, {len(clans)} Clans -> {OUT.relative_to(ROOT)}")
 
