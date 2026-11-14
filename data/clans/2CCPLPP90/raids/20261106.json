@@ -111,7 +111,7 @@
      "name": "Capital Peak",
      "districtHallLevel": 3,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 5,
      "totalLooted": 4550,
      "attacks": [
@@ -162,7 +162,7 @@
      "name": "Barbarian Camp",
      "districtHallLevel": 1,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 3,
      "totalLooted": 2644,
      "attacks": [
@@ -197,7 +197,7 @@
      "name": "Wizard Valley",
      "districtHallLevel": 1,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 3,
      "totalLooted": 3625,
      "attacks": [
@@ -249,7 +249,7 @@
      "name": "Capital Peak",
      "districtHallLevel": 3,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 7,
      "totalLooted": 4555,
      "attacks": [
@@ -316,7 +316,7 @@
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 3,
      "totalLooted": 3271,
      "attacks": [
@@ -351,7 +351,7 @@
      "name": "Wizard Valley",
      "districtHallLevel": 1,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 2,
      "totalLooted": 2708,
      "attacks": [
@@ -395,7 +395,7 @@
      "name": "Capital Peak",
      "districtHallLevel": 3,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 6,
      "totalLooted": 4320,
      "attacks": [
@@ -454,7 +454,7 @@
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 3,
      "totalLooted": 3615,
      "attacks": [
@@ -489,7 +489,7 @@
      "name": "Wizard Valley",
      "districtHallLevel": 1,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 2,
      "totalLooted": 2109,
      "attacks": [
@@ -533,7 +533,7 @@
      "name": "Capital Peak",
      "districtHallLevel": 3,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 5,
      "totalLooted": 4474,
      "attacks": [
@@ -584,7 +584,7 @@
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 4,
      "totalLooted": 4003,
      "attacks": [
@@ -627,7 +627,7 @@
      "name": "Wizard Valley",
      "districtHallLevel": 1,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 4,
      "totalLooted": 3790,
      "attacks": [
@@ -687,7 +687,7 @@
      "name": "Capital Peak",
      "districtHallLevel": 3,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 4,
      "totalLooted": 4459,
      "attacks": [
@@ -730,7 +730,7 @@
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 3,
      "totalLooted": 3313,
      "attacks": [
@@ -765,7 +765,7 @@
      "name": "Wizard Valley",
      "districtHallLevel": 1,
      "destructionPercent": 100,
-     "stars": 0,
+     "stars": 3,
      "attackCount": 4,
      "totalLooted": 3712,
      "attacks": [
@@ -834,7 +834,7 @@
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
      "destructionPercent": 63,
-     "stars": 0,
+     "stars": 2,
      "attackCount": 1,
      "totalLooted": 1400,
      "attacks": [
