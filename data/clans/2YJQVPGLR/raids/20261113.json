@@ -2,13 +2,21 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 237545,
+ "capitalTotalLoot": 261276,
  "raidsCompleted": 3,
- "totalAttacks": 62,
- "enemyDistrictsDestroyed": 21,
+ "totalAttacks": 68,
+ "enemyDistrictsDestroyed": 23,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
+  {
+   "tag": "#89VRV2PP",
+   "name": "Nudeler",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 23731
+  },
   {
    "tag": "#R2CGJJLJ",
    "name": "Iris",
@@ -790,9 +798,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/lJCygb6_9_ZkAl3Da_O93OxwiyRl6ho0AOzXwHNk8YI.png"
     }
    },
-   "attackCount": 6,
+   "attackCount": 12,
    "districtCount": 9,
-   "districtsDestroyed": 3,
+   "districtsDestroyed": 5,
    "districts": [
     {
      "id": 70000000,
@@ -825,28 +833,82 @@
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 39,
+     "stars": 1,
+     "attackCount": 1,
+     "totalLooted": 3705,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 39,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000004,
      "name": "Builder's Workshop",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 9798,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 50,
+       "stars": 2
+      }
+     ]
     },
     {
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 10228,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 71,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 30,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000006,

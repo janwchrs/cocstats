@@ -85,19 +85,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 1123547,
+   "value": 1174056,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 1123547",
+   "completionInfo": "Total Gold looted: 1174056",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 1,
-   "value": 848689,
+   "value": 879198,
    "target": 1000000,
    "info": "Steal 1000000 elixir",
-   "completionInfo": "Total Elixir looted: 848689",
+   "completionInfo": "Total Elixir looted: 879198",
    "village": "home"
   },
   {
@@ -130,28 +130,28 @@
   {
    "name": "Humiliator",
    "stars": 1,
-   "value": 21,
+   "value": 22,
    "target": 100,
    "info": "Destroy 100 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 21",
+   "completionInfo": "Total Town Halls destroyed: 22",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 1,
-   "value": 45,
+   "value": 47,
    "target": 250,
    "info": "Destroy 250 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 45",
+   "completionInfo": "Total Builder's Huts destroyed: 47",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 0,
-   "value": 22,
+   "value": 23,
    "target": 25,
    "info": "Win 25 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 22",
+   "completionInfo": "Total multiplayer battles won: 23",
    "village": "home"
   },
   {
@@ -175,10 +175,10 @@
   {
    "name": "Mortar Mauler",
    "stars": 0,
-   "value": 11,
+   "value": 12,
    "target": 25,
    "info": "Destroy 25 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 11",
+   "completionInfo": "Total Mortars destroyed: 12",
    "village": "home"
   },
   {
@@ -579,6 +579,12 @@
    "name": "Wall Breaker",
    "level": 2,
    "maxLevel": 14,
+   "village": "home"
+  },
+  {
+   "name": "Balloon",
+   "level": 1,
+   "maxLevel": 13,
    "village": "home"
   },
   {

@@ -34,7 +34,15 @@
       "duration": 131
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#RQ9PRV",
+     "defenderTag": "#R2CGJJLJ",
+     "stars": 1,
+     "destructionPercentage": 89,
+     "order": 4,
+     "duration": 180
+    }
    },
    {
     "tag": "#Y200JJJ88",
@@ -48,7 +56,15 @@
     "name": "William Wallace",
     "townhallLevel": 18,
     "mapPosition": 1,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#RQ9PRV",
+     "defenderTag": "#R9YRLGGV",
+     "stars": 2,
+     "destructionPercentage": 98,
+     "order": 3,
+     "duration": 180
+    }
    },
    {
     "tag": "#L9PVP880Y",
@@ -85,15 +101,33 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/GabPFNwy1bFA3_1KJMSWcj4MyUiHycoItQHjFwAurXg.png"
   },
   "clanLevel": 19,
-  "attacks": 0,
-  "stars": 0,
-  "destructionPercentage": 0.0,
+  "attacks": 2,
+  "stars": 3,
+  "destructionPercentage": 37.4,
   "members": [
    {
     "tag": "#RQ9PRV",
     "name": "COXINH4PLK",
     "townhallLevel": 18,
     "mapPosition": 1,
+    "attacks": [
+     {
+      "attackerTag": "#RQ9PRV",
+      "defenderTag": "#R9YRLGGV",
+      "stars": 2,
+      "destructionPercentage": 98,
+      "order": 3,
+      "duration": 180
+     },
+     {
+      "attackerTag": "#RQ9PRV",
+      "defenderTag": "#R2CGJJLJ",
+      "stars": 1,
+      "destructionPercentage": 89,
+      "order": 4,
+      "duration": 180
+     }
+    ],
     "opponentAttacks": 0
    },
    {

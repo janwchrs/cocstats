@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 518,
+   "trophies": 547,
    "builderBaseTrophies": 4626,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -146,7 +146,7 @@
    "tag": "#RPV0YJ2Q",
    "name": "alex",
    "role": "member",
-   "townHallLevel": 17,
+   "townHallLevel": 18,
    "expLevel": 217,
    "league": {
     "id": 29000000,
@@ -168,7 +168,7 @@
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
-   "donations": 0,
+   "donations": 60,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -270,7 +270,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 127,
+   "trophies": 155,
    "builderBaseTrophies": 3335,
    "clanRank": 5,
    "previousClanRank": 5,
@@ -593,7 +593,7 @@
    "clanRank": 11,
    "previousClanRank": 11,
    "donations": 0,
-   "donationsReceived": 0,
+   "donationsReceived": 60,
    "playerHouse": {
     "elements": [
      {
@@ -1068,7 +1068,7 @@
    "trophies": 0,
    "builderBaseTrophies": 0,
    "clanRank": 20,
-   "previousClanRank": 0,
+   "previousClanRank": 19,
    "donations": 0,
    "donationsReceived": 0,
    "builderBaseLeague": {
@@ -1101,7 +1101,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2851,
    "clanRank": 21,
-   "previousClanRank": 19,
+   "previousClanRank": 20,
    "donations": 57,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1154,7 +1154,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2191,
    "clanRank": 22,
-   "previousClanRank": 20,
+   "previousClanRank": 21,
    "donations": 39,
    "donationsReceived": 119,
    "builderBaseLeague": {
@@ -1220,7 +1220,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2407,
    "clanRank": 24,
-   "previousClanRank": 21,
+   "previousClanRank": 22,
    "donations": 0,
    "donationsReceived": 191,
    "playerHouse": {
