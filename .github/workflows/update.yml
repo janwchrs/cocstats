@@ -1,0 +1,64 @@
+name: Daten aktualisieren
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/**", "config.json", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Daten abrufen
+        env:
+          COC_API_TOKEN: ${{ secrets.COC_API_TOKEN }}
+        run: python3 scripts/fetch.py
+
+      - name: Änderungen committen
+        id: commit
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Daten $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Dashboard bauen
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        run: python3 scripts/build_site.py
+
+      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/configure-pages@v5
+
+      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        id: deploy
+        uses: actions/deploy-pages@v4
