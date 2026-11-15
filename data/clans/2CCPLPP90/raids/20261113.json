@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 23995,
+ "capitalTotalLoot": 31478,
  "raidsCompleted": 2,
- "totalAttacks": 26,
- "enemyDistrictsDestroyed": 6,
+ "totalAttacks": 36,
+ "enemyDistrictsDestroyed": 8,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -28,10 +28,10 @@
   {
    "tag": "#LL2PQ8VJC",
    "name": "max",
-   "attacks": 1,
+   "attacks": 5,
    "attackLimit": 5,
    "bonusAttackLimit": 0,
-   "capitalResourcesLooted": 380
+   "capitalResourcesLooted": 2260
   },
   {
    "tag": "#Q8VC02UQL",
@@ -48,6 +48,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 3657
+  },
+  {
+   "tag": "#QU8QLPJVP",
+   "name": "KloppIhnUm",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 5603
   },
   {
    "tag": "#PLYYQ00YL",
@@ -370,28 +378,86 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/U7OLuMNbFu3TKAf2WMdhJCJm6ZE3uJAumZ067FMhvd4.png"
     }
    },
-   "attackCount": 1,
+   "attackCount": 11,
    "districtCount": 3,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 2,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 3,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 54,
+     "stars": 2,
+     "attackCount": 5,
+     "totalLooted": 2620,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 54,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 41,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 40,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#LL2PQ8VJC",
+        "name": "max"
+       },
+       "destructionPercent": 37,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 31,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
-     "destructionPercent": 52,
-     "stars": 2,
-     "attackCount": 1,
-     "totalLooted": 1345,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2866,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 76,
+       "stars": 2
+      },
       {
        "attacker": {
         "tag": "#YGGUGY0QV",
@@ -406,10 +472,36 @@
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 1,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3342,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 82,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#QU8QLPJVP",
+        "name": "KloppIhnUm"
+       },
+       "destructionPercent": 41,
+       "stars": 0
+      }
+     ]
     }
    ]
   }

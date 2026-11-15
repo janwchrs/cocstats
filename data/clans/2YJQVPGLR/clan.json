@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 89050,
- "clanBuilderBasePoints": 34801,
+ "clanBuilderBasePoints": 34781,
  "clanCapitalPoints": 2694,
  "capitalLeague": {
   "id": 85000013,
@@ -362,7 +362,7 @@
    "name": "Nemo",
    "role": "member",
    "townHallLevel": 18,
-   "expLevel": 191,
+   "expLevel": 192,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -380,7 +380,7 @@
     }
    },
    "trophies": 770,
-   "builderBaseTrophies": 3644,
+   "builderBaseTrophies": 3604,
    "clanRank": 7,
    "previousClanRank": 7,
    "donations": 0,
@@ -432,7 +432,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 700,
+   "trophies": 708,
    "builderBaseTrophies": 3187,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -644,7 +644,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
     }
    },
-   "trophies": 486,
+   "trophies": 497,
    "builderBaseTrophies": 2906,
    "clanRank": 12,
    "previousClanRank": 12,
@@ -1370,7 +1370,7 @@
    "name": "higge",
    "role": "member",
    "townHallLevel": 15,
-   "expLevel": 122,
+   "expLevel": 123,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1387,7 +1387,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png"
     }
    },
-   "trophies": 50,
+   "trophies": 64,
    "builderBaseTrophies": 1790,
    "clanRank": 26,
    "previousClanRank": 26,

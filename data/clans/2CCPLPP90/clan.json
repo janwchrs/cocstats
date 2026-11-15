@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 39500,
- "clanBuilderBasePoints": 24892,
+ "clanBuilderBasePoints": 25165,
  "clanCapitalPoints": 355,
  "capitalLeague": {
   "id": 85000001,
@@ -34,7 +34,7 @@
   "id": 48000011,
   "name": "Crystal League II"
  },
- "members": 25,
+ "members": 26,
  "memberList": [
   {
    "tag": "#9GJUL22LG",
@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 547,
+   "trophies": 557,
    "builderBaseTrophies": 4626,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -200,7 +200,7 @@
    "name": "wira nasa",
    "role": "admin",
    "townHallLevel": 17,
-   "expLevel": 237,
+   "expLevel": 238,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
     }
    },
-   "trophies": 481,
+   "trophies": 658,
    "builderBaseTrophies": 4856,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -270,7 +270,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 213,
+   "trophies": 228,
    "builderBaseTrophies": 3296,
    "clanRank": 5,
    "previousClanRank": 5,
@@ -429,7 +429,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 270,
+   "trophies": 298,
    "builderBaseTrophies": 3738,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 365,
+   "trophies": 393,
    "builderBaseTrophies": 2787,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -570,7 +570,7 @@
    "tag": "#LL2PQ8VJC",
    "name": "max",
    "role": "member",
-   "townHallLevel": 17,
+   "townHallLevel": 18,
    "expLevel": 137,
    "league": {
     "id": 29000000,
@@ -589,7 +589,7 @@
     }
    },
    "trophies": 363,
-   "builderBaseTrophies": 2436,
+   "builderBaseTrophies": 2509,
    "clanRank": 11,
    "previousClanRank": 11,
    "donations": 0,
@@ -730,7 +730,7 @@
    "name": "xTheDenny",
    "role": "leader",
    "townHallLevel": 13,
-   "expLevel": 135,
+   "expLevel": 136,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -751,7 +751,7 @@
    "builderBaseTrophies": 2466,
    "clanRank": 14,
    "previousClanRank": 14,
-   "donations": 548,
+   "donations": 632,
    "donationsReceived": 77,
    "playerHouse": {
     "elements": [
@@ -942,7 +942,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 6,
-   "expLevel": 19,
+   "expLevel": 20,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -963,7 +963,7 @@
    "builderBaseTrophies": 40,
    "clanRank": 18,
    "previousClanRank": 18,
-   "donations": 0,
+   "donations": 4,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -1047,8 +1047,8 @@
    "tag": "#R000LP9C8",
    "name": "jockersss",
    "role": "member",
-   "townHallLevel": 5,
-   "expLevel": 14,
+   "townHallLevel": 6,
+   "expLevel": 15,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1066,11 +1066,31 @@
     }
    },
    "trophies": 0,
-   "builderBaseTrophies": 0,
+   "builderBaseTrophies": 40,
    "clanRank": 20,
    "previousClanRank": 20,
    "donations": 0,
    "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000009
+     },
+     {
+      "type": "decoration",
+      "id": 82000058
+     }
+    ]
+   },
    "builderBaseLeague": {
     "id": 44000000,
     "name": "Wood League V"
@@ -1156,7 +1176,7 @@
    "clanRank": 22,
    "previousClanRank": 22,
    "donations": 39,
-   "donationsReceived": 119,
+   "donationsReceived": 207,
    "builderBaseLeague": {
     "id": 44000020,
     "name": "Brass League III"
@@ -1196,11 +1216,64 @@
    }
   },
   {
+   "tag": "#G8LLJQY2J",
+   "name": "ToliTV",
+   "role": "member",
+   "townHallLevel": 12,
+   "expLevel": 113,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2063,
+   "clanRank": 24,
+   "previousClanRank": 0,
+   "donations": 0,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000009
+     },
+     {
+      "type": "decoration",
+      "id": 82000058
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000020,
+    "name": "Brass League III"
+   }
+  },
+  {
    "tag": "#R82GG0YVJ",
    "name": "Tresor 2",
    "role": "member",
    "townHallLevel": 5,
-   "expLevel": 10,
+   "expLevel": 12,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1219,7 +1292,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 0,
-   "clanRank": 24,
+   "clanRank": 25,
    "previousClanRank": 0,
    "donations": 0,
    "donationsReceived": 0,
@@ -1252,7 +1325,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2407,
-   "clanRank": 25,
+   "clanRank": 26,
    "previousClanRank": 24,
    "donations": 0,
    "donationsReceived": 191,
