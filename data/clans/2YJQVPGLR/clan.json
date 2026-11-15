@@ -63,7 +63,7 @@
    "builderBaseTrophies": 3782,
    "clanRank": 1,
    "previousClanRank": 1,
-   "donations": 820,
+   "donations": 875,
    "donationsReceived": 472,
    "playerHouse": {
     "elements": [
@@ -117,7 +117,7 @@
    "clanRank": 2,
    "previousClanRank": 2,
    "donations": 57,
-   "donationsReceived": 236,
+   "donationsReceived": 295,
    "playerHouse": {
     "elements": [
      {
@@ -277,7 +277,7 @@
    "builderBaseTrophies": 3730,
    "clanRank": 5,
    "previousClanRank": 5,
-   "donations": 59,
+   "donations": 118,
    "donationsReceived": 534,
    "playerHouse": {
     "elements": [
@@ -490,7 +490,7 @@
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 449,
-   "donationsReceived": 1258,
+   "donationsReceived": 1313,
    "playerHouse": {
     "elements": [
      {
@@ -538,7 +538,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
     }
    },
-   "trophies": 180,
+   "trophies": 210,
    "builderBaseTrophies": 3331,
    "clanRank": 10,
    "previousClanRank": 10,
@@ -697,7 +697,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 157,
+   "trophies": 173,
    "builderBaseTrophies": 3090,
    "clanRank": 13,
    "previousClanRank": 13,
@@ -1015,7 +1015,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 245,
+   "trophies": 275,
    "builderBaseTrophies": 3007,
    "clanRank": 19,
    "previousClanRank": 19,
@@ -2092,7 +2092,7 @@
    "name": "Gorilla",
    "role": "member",
    "townHallLevel": 16,
-   "expLevel": 72,
+   "expLevel": 73,
    "league": {
     "id": 29000000,
     "name": "Unranked",

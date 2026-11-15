@@ -1408,9 +1408,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/dkVSMg8m9hgPQPBDjg8maSyeAfb2-E1FMPC6JASKuds.png"
     }
    },
-   "attackCount": 10,
+   "attackCount": 22,
    "districtCount": 9,
-   "districtsDestroyed": 1,
+   "districtsDestroyed": 8,
    "districts": [
     {
      "id": 70000000,
@@ -1460,29 +1460,81 @@
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 10115,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PU0UQ8JPL",
+        "name": "Adarsh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PU0UQ8JPL",
+        "name": "Adarsh"
+       },
+       "destructionPercent": 39,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11381,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PU0UQ8JPL",
+        "name": "Adarsh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QCP98RC09",
+        "name": "Tanishq. 007"
+       },
+       "destructionPercent": 96,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#QCP98RC09",
+        "name": "Tanishq. 007"
+       },
+       "destructionPercent": 50,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000004,
      "name": "Builder's Workshop",
      "districtHallLevel": 5,
-     "destructionPercent": 84,
-     "stars": 2,
-     "attackCount": 2,
-     "totalLooted": 9290,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11674,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#PU0UQ8JPL",
+        "name": "Adarsh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#29L9000V0",
@@ -1505,20 +1557,54 @@
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11445,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QCP98RC09",
+        "name": "Tanishq. 007"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QCP98RC09",
+        "name": "Tanishq. 007"
+       },
+       "destructionPercent": 78,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#QCP98RC09",
+        "name": "Tanishq. 007"
+       },
+       "destructionPercent": 47,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 78,
-     "stars": 2,
-     "attackCount": 2,
-     "totalLooted": 7750,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11266,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#PU0UQ8JPL",
+        "name": "Adarsh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#PPL0Y08VL",
@@ -1541,11 +1627,19 @@
      "id": 70000007,
      "name": "Skeleton Park",
      "districtHallLevel": 4,
-     "destructionPercent": 74,
-     "stars": 2,
-     "attackCount": 2,
-     "totalLooted": 7900,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11703,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#PU0UQ8JPL",
+        "name": "Adarsh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#29L9000V0",
@@ -1568,11 +1662,19 @@
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 41,
-     "stars": 0,
-     "attackCount": 1,
-     "totalLooted": 5455,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 11428,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#QL0RCQQPU",
+        "name": "Silver wing"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#PPL0Y08VL",
