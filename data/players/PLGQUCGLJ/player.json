@@ -4,7 +4,7 @@
  "townHallLevel": 16,
  "townHallWeaponLevel": 1,
  "expLevel": 210,
- "trophies": 360,
+ "trophies": 372,
  "bestTrophies": 5073,
  "warStars": 283,
  "attackWins": 0,
@@ -47,7 +47,7 @@
    "trophies": 5011
   },
   "currentSeason": {
-   "trophies": 360
+   "trophies": 372
   }
  },
  "currentLeagueGroupTag": "#92VURYJ",
@@ -1023,7 +1023,7 @@
   },
   {
    "name": "Phoenix",
-   "level": 5,
+   "level": 6,
    "maxLevel": 10,
    "village": "home"
   },
