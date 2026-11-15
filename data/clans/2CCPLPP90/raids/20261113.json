@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 31478,
- "raidsCompleted": 2,
- "totalAttacks": 36,
- "enemyDistrictsDestroyed": 8,
+ "capitalTotalLoot": 44846,
+ "raidsCompleted": 4,
+ "totalAttacks": 48,
+ "enemyDistrictsDestroyed": 12,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -16,6 +16,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 5704
+  },
+  {
+   "tag": "#LGR9CGL90",
+   "name": "Shish@ndo",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6845
   },
   {
    "tag": "#R8RYG9GUL",
@@ -40,6 +48,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 5052
+  },
+  {
+   "tag": "#RPV0YJ2Q",
+   "name": "alex",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6523
   },
   {
    "tag": "#2Q2VY2YPQ",
@@ -378,19 +394,27 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/U7OLuMNbFu3TKAf2WMdhJCJm6ZE3uJAumZ067FMhvd4.png"
     }
    },
-   "attackCount": 11,
+   "attackCount": 12,
    "districtCount": 3,
-   "districtsDestroyed": 2,
+   "districtsDestroyed": 3,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 3,
-     "destructionPercent": 54,
-     "stars": 2,
-     "attackCount": 5,
-     "totalLooted": 2620,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 6,
+     "totalLooted": 4487,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#LL2PQ8VJC",
@@ -502,6 +526,188 @@
        "stars": 0
       }
      ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2QPJ98092",
+    "name": "AE HÀ NỘI♡",
+    "level": 3,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/nc7fbXMy0pAToK6sbWDb5DBlCLlWTPjtwuovHBhclJU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/nc7fbXMy0pAToK6sbWDb5DBlCLlWTPjtwuovHBhclJU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/nc7fbXMy0pAToK6sbWDb5DBlCLlWTPjtwuovHBhclJU.png"
+    }
+   },
+   "attackCount": 11,
+   "districtCount": 3,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 4456,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LGR9CGL90",
+        "name": "Shish@ndo"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#LGR9CGL90",
+        "name": "Shish@ndo"
+       },
+       "destructionPercent": 82,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#LGR9CGL90",
+        "name": "Shish@ndo"
+       },
+       "destructionPercent": 58,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#LGR9CGL90",
+        "name": "Shish@ndo"
+       },
+       "destructionPercent": 43,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3264,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LGR9CGL90",
+        "name": "Shish@ndo"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#LGR9CGL90",
+        "name": "Shish@ndo"
+       },
+       "destructionPercent": 71,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 32,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3781,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 91,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 69,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#RPV0YJ2Q",
+        "name": "alex"
+       },
+       "destructionPercent": 37,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#2QY8882Q2",
+    "name": "RANTAU",
+    "level": 2,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png"
+    }
+   },
+   "attackCount": 0,
+   "districtCount": 3,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
     }
    ]
   }

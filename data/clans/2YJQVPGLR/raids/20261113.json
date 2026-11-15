@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 317887,
+ "capitalTotalLoot": 362655,
  "raidsCompleted": 5,
- "totalAttacks": 81,
- "enemyDistrictsDestroyed": 29,
+ "totalAttacks": 93,
+ "enemyDistrictsDestroyed": 33,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -48,6 +48,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 27834
+  },
+  {
+   "tag": "#G02QLCUYY",
+   "name": "lara",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 20008
   },
   {
    "tag": "#GRC9CL0Y0",
@@ -96,6 +104,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 24214
+  },
+  {
+   "tag": "#Q9PGY90L8",
+   "name": "Louis",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 24760
   },
   {
    "tag": "#QJLYV2R0Y",
@@ -1098,9 +1114,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/gPviJ5en1UfEFKJ0h5eMVoiRyIMISpgMdehdQJWvzTc.png"
     }
    },
-   "attackCount": 4,
+   "attackCount": 16,
    "districtCount": 9,
-   "districtsDestroyed": 2,
+   "districtsDestroyed": 6,
    "districts": [
     {
      "id": 70000000,
@@ -1115,19 +1131,47 @@
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 62,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 5320,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#G02QLCUYY",
+        "name": "lara"
+       },
+       "destructionPercent": 62,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#G02QLCUYY",
+        "name": "lara"
+       },
+       "destructionPercent": 37,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
+     "destructionPercent": 45,
      "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "attackCount": 1,
+     "totalLooted": 3610,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 45,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000003,
@@ -1187,37 +1231,117 @@
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 9907,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 60,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 9554,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 44,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000007,
      "name": "Skeleton Park",
      "districtHallLevel": 3,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 10084,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#G02QLCUYY",
+        "name": "lara"
+       },
+       "destructionPercent": 87,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#G02QLCUYY",
+        "name": "lara"
+       },
+       "destructionPercent": 39,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 6293,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#G02QLCUYY",
+        "name": "lara"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#G02QLCUYY",
+        "name": "lara"
+       },
+       "destructionPercent": 52,
+       "stars": 1
+      }
+     ]
     }
    ]
   }

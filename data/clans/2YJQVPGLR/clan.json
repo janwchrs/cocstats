@@ -273,7 +273,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 816,
+   "trophies": 832,
    "builderBaseTrophies": 3730,
    "clanRank": 5,
    "previousClanRank": 5,
@@ -326,7 +326,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 870,
+   "trophies": 891,
    "builderBaseTrophies": 3275,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -432,7 +432,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 708,
+   "trophies": 748,
    "builderBaseTrophies": 3187,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -1015,7 +1015,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 275,
+   "trophies": 304,
    "builderBaseTrophies": 3007,
    "clanRank": 19,
    "previousClanRank": 19,
@@ -2039,7 +2039,7 @@
    "name": "lara",
    "role": "member",
    "townHallLevel": 16,
-   "expLevel": 161,
+   "expLevel": 162,
    "league": {
     "id": 29000000,
     "name": "Unranked",
