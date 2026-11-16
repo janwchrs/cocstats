@@ -17,8 +17,8 @@
  },
  "clanLevel": 19,
  "clanPoints": 89050,
- "clanBuilderBasePoints": 34781,
- "clanCapitalPoints": 2694,
+ "clanBuilderBasePoints": 34776,
+ "clanCapitalPoints": 2671,
  "capitalLeague": {
   "id": 85000013,
   "name": "Master League III"
@@ -63,7 +63,7 @@
    "builderBaseTrophies": 3782,
    "clanRank": 1,
    "previousClanRank": 1,
-   "donations": 875,
+   "donations": 895,
    "donationsReceived": 472,
    "playerHouse": {
     "elements": [
@@ -309,7 +309,7 @@
    "name": "TSCHASDIN",
    "role": "admin",
    "townHallLevel": 18,
-   "expLevel": 212,
+   "expLevel": 213,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -327,7 +327,7 @@
     }
    },
    "trophies": 891,
-   "builderBaseTrophies": 3275,
+   "builderBaseTrophies": 3253,
    "clanRank": 6,
    "previousClanRank": 6,
    "donations": 192,
@@ -490,7 +490,7 @@
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 449,
-   "donationsReceived": 1313,
+   "donationsReceived": 1333,
    "playerHouse": {
     "elements": [
      {
@@ -2110,7 +2110,7 @@
     }
    },
    "trophies": 0,
-   "builderBaseTrophies": 1116,
+   "builderBaseTrophies": 1121,
    "clanRank": 40,
    "previousClanRank": 40,
    "donations": 0,

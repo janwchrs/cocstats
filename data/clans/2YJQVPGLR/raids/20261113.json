@@ -1,13 +1,13 @@
 {
- "state": "ongoing",
+ "state": "ended",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
  "capitalTotalLoot": 413076,
  "raidsCompleted": 6,
  "totalAttacks": 105,
  "enemyDistrictsDestroyed": 38,
- "offensiveReward": 0,
- "defensiveReward": 0,
+ "offensiveReward": 195,
+ "defensiveReward": 203,
  "members": [
   {
    "tag": "#89VRV2PP",
@@ -2240,9 +2240,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/nD8XHByDY-QpKksPVSYD4NH79hrIxVxmt6MGcIeBw7Q.png"
     }
    },
-   "attackCount": 2,
+   "attackCount": 8,
    "districtCount": 9,
-   "districtsDestroyed": 1,
+   "districtsDestroyed": 3,
    "districts": [
     {
      "id": 70000000,
@@ -2275,10 +2275,20 @@
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 55,
+     "stars": 1,
+     "attackCount": 1,
+     "totalLooted": 3515,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2J8J0JVVL",
+        "name": "• 暴風竜Veldora •™"
+       },
+       "destructionPercent": 55,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000004,
@@ -2302,10 +2312,36 @@
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11168,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2J8J0JVVL",
+        "name": "• 暴風竜Veldora •™"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2J8J0JVVL",
+        "name": "• 暴風竜Veldora •™"
+       },
+       "destructionPercent": 92,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2J8J0JVVL",
+        "name": "• 暴風竜Veldora •™"
+       },
+       "destructionPercent": 39,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000007,
@@ -2338,10 +2374,28 @@
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 11744,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2J8J0JVVL",
+        "name": "• 暴風竜Veldora •™"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2J8J0JVVL",
+        "name": "• 暴風竜Veldora •™"
+       },
+       "destructionPercent": 63,
+       "stars": 2
+      }
+     ]
     }
    ]
   }

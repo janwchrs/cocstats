@@ -1,14 +1,22 @@
 {
- "state": "ongoing",
+ "state": "ended",
  "startTime": "20261113T070000.000Z",
  "endTime": "20261116T070000.000Z",
- "capitalTotalLoot": 44846,
+ "capitalTotalLoot": 54082,
  "raidsCompleted": 4,
- "totalAttacks": 48,
- "enemyDistrictsDestroyed": 12,
- "offensiveReward": 0,
+ "totalAttacks": 57,
+ "enemyDistrictsDestroyed": 14,
+ "offensiveReward": 57,
  "defensiveReward": 0,
  "members": [
+  {
+   "tag": "#2P9G09YPU",
+   "name": "odin",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 6546
+  },
   {
    "tag": "#YGGUGY0QV",
    "name": "xTheDenny",
@@ -76,10 +84,10 @@
   {
    "tag": "#PLYYQ00YL",
    "name": "odin",
-   "attacks": 3,
+   "attacks": 6,
    "attackLimit": 5,
    "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 2888
+   "capitalResourcesLooted": 5578
   }
  ],
  "attackLog": [
@@ -678,36 +686,114 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png"
     }
    },
-   "attackCount": 0,
+   "attackCount": 9,
    "districtCount": 3,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 2,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 3,
-     "destructionPercent": 0,
+     "destructionPercent": 48,
      "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "attackCount": 2,
+     "totalLooted": 1450,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 48,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 23,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 4092,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 71,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 50,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PLYYQ00YL",
+        "name": "odin"
+       },
+       "destructionPercent": 25,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 1,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 3694,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 66,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#2P9G09YPU",
+        "name": "odin"
+       },
+       "destructionPercent": 27,
+       "stars": 0
+      }
+     ]
     }
    ]
   }

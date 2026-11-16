@@ -739,7 +739,7 @@
  "spells": [
   {
    "name": "Lightning Spell",
-   "level": 2,
+   "level": 3,
    "maxLevel": 13,
    "village": "home"
   }

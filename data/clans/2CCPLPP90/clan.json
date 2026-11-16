@@ -18,10 +18,10 @@
  "clanLevel": 3,
  "clanPoints": 39500,
  "clanBuilderBasePoints": 25183,
- "clanCapitalPoints": 355,
+ "clanCapitalPoints": 419,
  "capitalLeague": {
-  "id": 85000001,
-  "name": "Bronze League III"
+  "id": 85000002,
+  "name": "Bronze League II"
  },
  "requiredTrophies": 0,
  "warFrequency": "oncePerWeek",
@@ -115,7 +115,7 @@
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 1,
-   "donations": 270,
+   "donations": 327,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -270,7 +270,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 228,
+   "trophies": 268,
    "builderBaseTrophies": 3296,
    "clanRank": 5,
    "previousClanRank": 5,
@@ -323,7 +323,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 209,
+   "trophies": 230,
    "builderBaseTrophies": 3402,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -465,7 +465,7 @@
    "name": "x man seabo",
    "role": "member",
    "townHallLevel": 18,
-   "expLevel": 184,
+   "expLevel": 185,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1260,7 +1260,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2063,
    "clanRank": 24,
-   "previousClanRank": 0,
+   "previousClanRank": 24,
    "donations": 0,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1292,8 +1292,8 @@
    "tag": "#R82GG0YVJ",
    "name": "Tresor 2",
    "role": "member",
-   "townHallLevel": 6,
-   "expLevel": 14,
+   "townHallLevel": 7,
+   "expLevel": 15,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1313,7 +1313,7 @@
    "trophies": 0,
    "builderBaseTrophies": 121,
    "clanRank": 25,
-   "previousClanRank": 0,
+   "previousClanRank": 25,
    "donations": 0,
    "donationsReceived": 15,
    "builderBaseLeague": {
@@ -1346,9 +1346,9 @@
    "trophies": 0,
    "builderBaseTrophies": 2407,
    "clanRank": 26,
-   "previousClanRank": 24,
+   "previousClanRank": 26,
    "donations": 0,
-   "donationsReceived": 191,
+   "donationsReceived": 248,
    "playerHouse": {
     "elements": [
      {
