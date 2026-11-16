@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 39500,
- "clanBuilderBasePoints": 25179,
+ "clanBuilderBasePoints": 25183,
  "clanCapitalPoints": 355,
  "capitalLeague": {
   "id": 85000001,
@@ -429,7 +429,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 298,
+   "trophies": 328,
    "builderBaseTrophies": 3738,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -747,7 +747,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
     }
    },
-   "trophies": 178,
+   "trophies": 195,
    "builderBaseTrophies": 2466,
    "clanRank": 14,
    "previousClanRank": 14,
@@ -1186,8 +1186,8 @@
    "tag": "#RYCJ9QCC9",
    "name": "DonJaw",
    "role": "member",
-   "townHallLevel": 5,
-   "expLevel": 13,
+   "townHallLevel": 6,
+   "expLevel": 14,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1205,11 +1205,31 @@
     }
    },
    "trophies": 0,
-   "builderBaseTrophies": 0,
+   "builderBaseTrophies": 40,
    "clanRank": 23,
    "previousClanRank": 23,
    "donations": 0,
    "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000000
+     },
+     {
+      "type": "walls",
+      "id": 82000048
+     },
+     {
+      "type": "roof",
+      "id": 82000009
+     },
+     {
+      "type": "decoration",
+      "id": 82000058
+     }
+    ]
+   },
    "builderBaseLeague": {
     "id": 44000000,
     "name": "Wood League V"
