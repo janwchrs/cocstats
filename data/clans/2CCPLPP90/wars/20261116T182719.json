@@ -1,0 +1,179 @@
+{
+ "state": "preparation",
+ "teamSize": 10,
+ "attacksPerMember": 2,
+ "battleModifier": "none",
+ "preparationStartTime": "20261116T182719.000Z",
+ "startTime": "20261117T172719.000Z",
+ "endTime": "20261118T172719.000Z",
+ "clan": {
+  "tag": "#2CCPLPP90",
+  "name": "Clash of Ants",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+  },
+  "clanLevel": 3,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#YGGUGY0QV",
+    "name": "xTheDenny",
+    "townhallLevel": 13,
+    "mapPosition": 7,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#LGR9CGL90",
+    "name": "Shish@ndo",
+    "townhallLevel": 17,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R8RYG9GUL",
+    "name": "Pscxll",
+    "townhallLevel": 6,
+    "mapPosition": 8,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#8JRU99V0U",
+    "name": "wira nasa",
+    "townhallLevel": 17,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R000LP9C8",
+    "name": "jockersss",
+    "townhallLevel": 6,
+    "mapPosition": 9,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#LL2PQ8VJC",
+    "name": "max",
+    "townhallLevel": 18,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q8VC02UQL",
+    "name": "Niels2612",
+    "townhallLevel": 17,
+    "mapPosition": 6,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#2Q2VY2YPQ",
+    "name": "NotMansonG",
+    "townhallLevel": 17,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R82GG0YVJ",
+    "name": "Tresor 2",
+    "townhallLevel": 5,
+    "mapPosition": 10,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#PLYYQ00YL",
+    "name": "odin",
+    "townhallLevel": 17,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   }
+  ]
+ },
+ "opponent": {
+  "tag": "#2R88YGPY8",
+  "name": "the hunter",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png"
+  },
+  "clanLevel": 14,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#PY0CPLYRG",
+    "name": "Xx_Faiz_xX",
+    "townhallLevel": 14,
+    "mapPosition": 8,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Y9UQLPP2V",
+    "name": "subhojitoo7",
+    "townhallLevel": 13,
+    "mapPosition": 10,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GR9L8J2GU",
+    "name": "Ym",
+    "townhallLevel": 18,
+    "mapPosition": 6,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#QGVUQ0Y2U",
+    "name": "Tsukasa",
+    "townhallLevel": 13,
+    "mapPosition": 9,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#YYJUCJLY",
+    "name": "mkp",
+    "townhallLevel": 17,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#PJP9LV9RJ",
+    "name": "#AZAHAR #AA",
+    "townhallLevel": 18,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#G8UVV8RU2",
+    "name": "shotapdo",
+    "townhallLevel": 17,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Y22J8VRQV",
+    "name": "ahmed",
+    "townhallLevel": 17,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#QJYG9R988",
+    "name": "Aadil",
+    "townhallLevel": 15,
+    "mapPosition": 7,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#YV8JPVY98",
+    "name": "irfan",
+    "townhallLevel": 17,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   }
+  ]
+ }
+}

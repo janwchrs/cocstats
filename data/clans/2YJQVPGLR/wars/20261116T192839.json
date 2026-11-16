@@ -1,0 +1,179 @@
+{
+ "state": "preparation",
+ "teamSize": 10,
+ "attacksPerMember": 2,
+ "battleModifier": "none",
+ "preparationStartTime": "20261116T192839.000Z",
+ "startTime": "20261117T182839.000Z",
+ "endTime": "20261118T182839.000Z",
+ "clan": {
+  "tag": "#2YJQVPGLR",
+  "name": "Gesundheit",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+  },
+  "clanLevel": 19,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#89VRV2PP",
+    "name": "Nudeler",
+    "townhallLevel": 19,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R2CGJJLJ",
+    "name": "Iris",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Y200JJJ88",
+    "name": "Samu435",
+    "townhallLevel": 16,
+    "mapPosition": 10,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#LPUL0CQJQ",
+    "name": "[4k]Notuto",
+    "townhallLevel": 17,
+    "mapPosition": 9,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q0R92PVC",
+    "name": "kessmack",
+    "townhallLevel": 19,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R9YRLGGV",
+    "name": "William Wallace",
+    "townhallLevel": 18,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#L9PVP880Y",
+    "name": "Nemo",
+    "townhallLevel": 18,
+    "mapPosition": 8,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#YUR0LVGV",
+    "name": "OHG",
+    "townhallLevel": 19,
+    "mapPosition": 6,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#P0LG9JRGL",
+    "name": "TSCHASDIN",
+    "townhallLevel": 18,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q9PGY90L8",
+    "name": "Louis",
+    "townhallLevel": 18,
+    "mapPosition": 7,
+    "opponentAttacks": 0
+   }
+  ]
+ },
+ "opponent": {
+  "tag": "#JPCY20G2",
+  "name": "کهکشانیها",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png"
+  },
+  "clanLevel": 24,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#9LVJJ8QJR",
+    "name": "فرشته",
+    "townhallLevel": 18,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Y8GLYJVYC",
+    "name": "C R 7",
+    "townhallLevel": 18,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#8JVPR0PUJ",
+    "name": "alireza",
+    "townhallLevel": 19,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#P0YCPUVQP",
+    "name": "فتعلی شاه",
+    "townhallLevel": 18,
+    "mapPosition": 7,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GQRP8Y09V",
+    "name": "محمد امین",
+    "townhallLevel": 16,
+    "mapPosition": 10,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#YRVQP8UG9",
+    "name": ".:VIKING:.",
+    "townhallLevel": 18,
+    "mapPosition": 6,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#90YYPGPRG",
+    "name": "REZASHAH",
+    "townhallLevel": 19,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#8JRQ9CCL9",
+    "name": "God Of War",
+    "townhallLevel": 18,
+    "mapPosition": 8,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#JV2092U",
+    "name": "Lord of darknes",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#2V8YQL8UG",
+    "name": "r.bowler",
+    "townhallLevel": 19,
+    "mapPosition": 9,
+    "opponentAttacks": 0
+   }
+  ]
+ }
+}
