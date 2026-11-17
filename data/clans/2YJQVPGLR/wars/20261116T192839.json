@@ -1,5 +1,5 @@
 {
- "state": "preparation",
+ "state": "inWar",
  "teamSize": 10,
  "attacksPerMember": 2,
  "battleModifier": "none",
@@ -15,9 +15,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
   },
   "clanLevel": 19,
-  "attacks": 0,
-  "stars": 0,
-  "destructionPercentage": 0.0,
+  "attacks": 1,
+  "stars": 2,
+  "destructionPercentage": 9.7,
   "members": [
    {
     "tag": "#89VRV2PP",
@@ -52,7 +52,15 @@
     "name": "kessmack",
     "townhallLevel": 19,
     "mapPosition": 2,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#8JVPR0PUJ",
+     "defenderTag": "#Q0R92PVC",
+     "stars": 2,
+     "destructionPercentage": 69,
+     "order": 1,
+     "duration": 159
+    }
    },
    {
     "tag": "#R9YRLGGV",
@@ -87,6 +95,16 @@
     "name": "Louis",
     "townhallLevel": 18,
     "mapPosition": 7,
+    "attacks": [
+     {
+      "attackerTag": "#Q9PGY90L8",
+      "defenderTag": "#8JRQ9CCL9",
+      "stars": 2,
+      "destructionPercentage": 97,
+      "order": 2,
+      "duration": 120
+     }
+    ],
     "opponentAttacks": 0
    }
   ]
@@ -100,21 +118,21 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png"
   },
   "clanLevel": 24,
-  "attacks": 0,
-  "stars": 0,
-  "destructionPercentage": 0.0,
+  "attacks": 1,
+  "stars": 2,
+  "destructionPercentage": 6.9,
   "members": [
    {
     "tag": "#9LVJJ8QJR",
     "name": "فرشته",
-    "townhallLevel": 18,
+    "townhallLevel": 19,
     "mapPosition": 5,
     "opponentAttacks": 0
    },
    {
     "tag": "#Y8GLYJVYC",
     "name": "C R 7",
-    "townhallLevel": 18,
+    "townhallLevel": 19,
     "mapPosition": 4,
     "opponentAttacks": 0
    },
@@ -123,6 +141,16 @@
     "name": "alireza",
     "townhallLevel": 19,
     "mapPosition": 2,
+    "attacks": [
+     {
+      "attackerTag": "#8JVPR0PUJ",
+      "defenderTag": "#Q0R92PVC",
+      "stars": 2,
+      "destructionPercentage": 69,
+      "order": 1,
+      "duration": 159
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -158,12 +186,20 @@
     "name": "God Of War",
     "townhallLevel": 18,
     "mapPosition": 8,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Q9PGY90L8",
+     "defenderTag": "#8JRQ9CCL9",
+     "stars": 2,
+     "destructionPercentage": 97,
+     "order": 2,
+     "duration": 120
+    }
    },
    {
     "tag": "#JV2092U",
     "name": "Lord of darknes",
-    "townhallLevel": 18,
+    "townhallLevel": 19,
     "mapPosition": 3,
     "opponentAttacks": 0
    },

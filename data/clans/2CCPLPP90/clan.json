@@ -16,7 +16,7 @@
   "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
  },
  "clanLevel": 3,
- "clanPoints": 41000,
+ "clanPoints": 41100,
  "clanBuilderBasePoints": 25198,
  "clanCapitalPoints": 419,
  "capitalLeague": {
@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 392,
+   "trophies": 435,
    "builderBaseTrophies": 4626,
    "clanRank": 1,
    "previousClanRank": 2,
@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 0,
+   "trophies": 17,
    "builderBaseTrophies": 3728,
    "clanRank": 2,
    "previousClanRank": 1,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
     }
    },
-   "trophies": 12,
+   "trophies": 36,
    "builderBaseTrophies": 4856,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -323,7 +323,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 33,
+   "trophies": 73,
    "builderBaseTrophies": 3402,
    "clanRank": 6,
    "previousClanRank": 5,
@@ -376,10 +376,10 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 303,
+   "trophies": 318,
    "builderBaseTrophies": 2509,
    "clanRank": 7,
-   "previousClanRank": 8,
+   "previousClanRank": 7,
    "donations": 0,
    "donationsReceived": 75,
    "playerHouse": {
@@ -432,7 +432,7 @@
    "trophies": 0,
    "builderBaseTrophies": 2787,
    "clanRank": 8,
-   "previousClanRank": 7,
+   "previousClanRank": 8,
    "donations": 13,
    "donationsReceived": 464,
    "playerHouse": {
@@ -588,7 +588,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 202,
+   "trophies": 350,
    "builderBaseTrophies": 3326,
    "clanRank": 11,
    "previousClanRank": 11,
@@ -751,7 +751,7 @@
    "builderBaseTrophies": 2404,
    "clanRank": 14,
    "previousClanRank": 14,
-   "donations": 632,
+   "donations": 652,
    "donationsReceived": 77,
    "playerHouse": {
     "elements": [
@@ -783,7 +783,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 19,
+   "expLevel": 23,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -803,7 +803,7 @@
    "trophies": 40,
    "builderBaseTrophies": 299,
    "clanRank": 15,
-   "previousClanRank": 23,
+   "previousClanRank": 15,
    "donations": 0,
    "donationsReceived": 0,
    "playerHouse": {
@@ -832,6 +832,39 @@
    }
   },
   {
+   "tag": "#R82GG0YVJ",
+   "name": "Tresor 2",
+   "role": "member",
+   "townHallLevel": 7,
+   "expLevel": 18,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000001,
+    "name": "Skeleton League 1",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/CiSJYHyhMuloCpIIJ3n5-xCnRWrEd9vcq_zu6Ahkl3o.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/CiSJYHyhMuloCpIIJ3n5-xCnRWrEd9vcq_zu6Ahkl3o.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 121,
+   "clanRank": 16,
+   "previousClanRank": 25,
+   "donations": 0,
+   "donationsReceived": 35,
+   "builderBaseLeague": {
+    "id": 44000001,
+    "name": "Wood League IV"
+   }
+  },
+  {
    "tag": "#VGC0UJCP",
    "name": "Tolu",
    "role": "member",
@@ -855,8 +888,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2372,
-   "clanRank": 16,
-   "previousClanRank": 15,
+   "clanRank": 17,
+   "previousClanRank": 16,
    "donations": 0,
    "donationsReceived": 0,
    "playerHouse": {
@@ -908,8 +941,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 1329,
-   "clanRank": 17,
-   "previousClanRank": 16,
+   "clanRank": 18,
+   "previousClanRank": 17,
    "donations": 32,
    "donationsReceived": 5,
    "playerHouse": {
@@ -961,8 +994,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2902,
-   "clanRank": 18,
-   "previousClanRank": 17,
+   "clanRank": 19,
+   "previousClanRank": 18,
    "donations": 0,
    "donationsReceived": 184,
    "playerHouse": {
@@ -1014,8 +1047,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 40,
-   "clanRank": 19,
-   "previousClanRank": 18,
+   "clanRank": 20,
+   "previousClanRank": 19,
    "donations": 4,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1067,8 +1100,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 4174,
-   "clanRank": 20,
-   "previousClanRank": 19,
+   "clanRank": 21,
+   "previousClanRank": 20,
    "donations": 152,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1120,8 +1153,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 40,
-   "clanRank": 21,
-   "previousClanRank": 20,
+   "clanRank": 22,
+   "previousClanRank": 21,
    "donations": 0,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1173,8 +1206,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2851,
-   "clanRank": 22,
-   "previousClanRank": 21,
+   "clanRank": 23,
+   "previousClanRank": 22,
    "donations": 57,
    "donationsReceived": 0,
    "playerHouse": {
@@ -1226,8 +1259,8 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2191,
-   "clanRank": 23,
-   "previousClanRank": 22,
+   "clanRank": 24,
+   "previousClanRank": 23,
    "donations": 70,
    "donationsReceived": 238,
    "builderBaseLeague": {
@@ -1259,7 +1292,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2063,
-   "clanRank": 24,
+   "clanRank": 25,
    "previousClanRank": 24,
    "donations": 0,
    "donationsReceived": 0,
@@ -1286,39 +1319,6 @@
    "builderBaseLeague": {
     "id": 44000020,
     "name": "Brass League III"
-   }
-  },
-  {
-   "tag": "#R82GG0YVJ",
-   "name": "Tresor 2",
-   "role": "member",
-   "townHallLevel": 7,
-   "expLevel": 17,
-   "league": {
-    "id": 29000000,
-    "name": "Unranked",
-    "iconUrls": {
-     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-    }
-   },
-   "leagueTier": {
-    "id": 105000000,
-    "name": "Unranked",
-    "iconUrls": {
-     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
-     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
-    }
-   },
-   "trophies": 0,
-   "builderBaseTrophies": 121,
-   "clanRank": 25,
-   "previousClanRank": 25,
-   "donations": 0,
-   "donationsReceived": 15,
-   "builderBaseLeague": {
-    "id": 44000001,
-    "name": "Wood League IV"
    }
   },
   {

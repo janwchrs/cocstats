@@ -1,5 +1,5 @@
 {
- "state": "preparation",
+ "state": "inWar",
  "teamSize": 10,
  "attacksPerMember": 2,
  "battleModifier": "none",
@@ -15,9 +15,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
   },
   "clanLevel": 3,
-  "attacks": 0,
-  "stars": 0,
-  "destructionPercentage": 0.0,
+  "attacks": 3,
+  "stars": 2,
+  "destructionPercentage": 9.8,
   "members": [
    {
     "tag": "#YGGUGY0QV",
@@ -36,7 +36,7 @@
    {
     "tag": "#R8RYG9GUL",
     "name": "Pscxll",
-    "townhallLevel": 6,
+    "townhallLevel": 7,
     "mapPosition": 8,
     "opponentAttacks": 0
    },
@@ -52,6 +52,16 @@
     "name": "jockersss",
     "townhallLevel": 6,
     "mapPosition": 9,
+    "attacks": [
+     {
+      "attackerTag": "#R000LP9C8",
+      "defenderTag": "#Y9UQLPP2V",
+      "stars": 0,
+      "destructionPercentage": 3,
+      "order": 2,
+      "duration": 63
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -59,6 +69,16 @@
     "name": "max",
     "townhallLevel": 18,
     "mapPosition": 5,
+    "attacks": [
+     {
+      "attackerTag": "#LL2PQ8VJC",
+      "defenderTag": "#G8UVV8RU2",
+      "stars": 2,
+      "destructionPercentage": 84,
+      "order": 3,
+      "duration": 180
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -78,8 +98,18 @@
    {
     "tag": "#R82GG0YVJ",
     "name": "Tresor 2",
-    "townhallLevel": 5,
+    "townhallLevel": 7,
     "mapPosition": 10,
+    "attacks": [
+     {
+      "attackerTag": "#R82GG0YVJ",
+      "defenderTag": "#Y9UQLPP2V",
+      "stars": 0,
+      "destructionPercentage": 14,
+      "order": 1,
+      "duration": 72
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -116,7 +146,15 @@
     "name": "subhojitoo7",
     "townhallLevel": 13,
     "mapPosition": 10,
-    "opponentAttacks": 0
+    "opponentAttacks": 2,
+    "bestOpponentAttack": {
+     "attackerTag": "#R82GG0YVJ",
+     "defenderTag": "#Y9UQLPP2V",
+     "stars": 0,
+     "destructionPercentage": 14,
+     "order": 1,
+     "duration": 72
+    }
    },
    {
     "tag": "#GR9L8J2GU",
@@ -151,7 +189,15 @@
     "name": "shotapdo",
     "townhallLevel": 17,
     "mapPosition": 5,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#LL2PQ8VJC",
+     "defenderTag": "#G8UVV8RU2",
+     "stars": 2,
+     "destructionPercentage": 84,
+     "order": 3,
+     "duration": 180
+    }
    },
    {
     "tag": "#Y22J8VRQV",
