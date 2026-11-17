@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 40900,
- "clanBuilderBasePoints": 25210,
+ "clanBuilderBasePoints": 25195,
  "clanCapitalPoints": 419,
  "capitalLeague": {
   "id": 85000002,
@@ -748,7 +748,7 @@
     }
    },
    "trophies": 0,
-   "builderBaseTrophies": 2466,
+   "builderBaseTrophies": 2404,
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 632,
@@ -1048,7 +1048,7 @@
    "name": "jockersss",
    "role": "member",
    "townHallLevel": 6,
-   "expLevel": 16,
+   "expLevel": 17,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1186,8 +1186,8 @@
    "tag": "#RYCJ9QCC9",
    "name": "DonJaw",
    "role": "member",
-   "townHallLevel": 6,
-   "expLevel": 18,
+   "townHallLevel": 7,
+   "expLevel": 19,
    "league": {
     "id": 29000000,
     "name": "Unranked",

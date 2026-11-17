@@ -1,8 +1,8 @@
 {
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
- "townHallLevel": 6,
- "expLevel": 18,
+ "townHallLevel": 7,
+ "expLevel": 19,
  "trophies": 0,
  "bestTrophies": 0,
  "warStars": 0,
@@ -63,19 +63,19 @@
   {
    "name": "Bigger & Better",
    "stars": 2,
-   "value": 6,
+   "value": 7,
    "target": 8,
    "info": "Upgrade Town Hall to level 8",
-   "completionInfo": "Current Town Hall level: 6",
+   "completionInfo": "Current Town Hall level: 7",
    "village": "home"
   },
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 59,
+   "value": 60,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 59",
+   "completionInfo": "Total obstacles removed: 60",
    "village": "home"
   },
   {
@@ -90,19 +90,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 4942728,
+   "value": 7147176,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 4942728",
+   "completionInfo": "Total Gold looted: 7147176",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 2,
-   "value": 5042367,
+   "value": 6909448,
    "target": 100000000,
    "info": "Steal 100000000 elixir",
-   "completionInfo": "Total Elixir looted: 5042367",
+   "completionInfo": "Total Elixir looted: 6909448",
    "village": "home"
   },
   {
@@ -126,37 +126,37 @@
   {
    "name": "Wall Buster",
    "stars": 1,
-   "value": 25,
+   "value": 34,
    "target": 100,
    "info": "Destroy 100 Walls in Multiplayer battles",
-   "completionInfo": "Total Walls destroyed: 25",
+   "completionInfo": "Total Walls destroyed: 34",
    "village": "home"
   },
   {
    "name": "Humiliator",
    "stars": 1,
-   "value": 41,
+   "value": 46,
    "target": 100,
    "info": "Destroy 100 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 41",
+   "completionInfo": "Total Town Halls destroyed: 46",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 1,
-   "value": 93,
+   "value": 109,
    "target": 250,
    "info": "Destroy 250 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 93",
+   "completionInfo": "Total Builder's Huts destroyed: 109",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 1,
-   "value": 43,
+   "value": 50,
    "target": 250,
    "info": "Win 250 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 43",
+   "completionInfo": "Total multiplayer battles won: 50",
    "village": "home"
   },
   {
@@ -180,19 +180,19 @@
   {
    "name": "Mortar Mauler",
    "stars": 1,
-   "value": 35,
+   "value": 50,
    "target": 500,
    "info": "Destroy 500 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 35",
+   "completionInfo": "Total Mortars destroyed: 50",
    "village": "home"
   },
   {
    "name": "Heroic Heist",
    "stars": 0,
-   "value": 250,
+   "value": 1160,
    "target": 20000,
    "info": "Steal 20000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 250",
+   "completionInfo": "Total Dark Elixir looted: 1160",
    "village": "home"
   },
   {
@@ -234,10 +234,10 @@
   {
    "name": "Clan War Wealth",
    "stars": 1,
-   "value": 1156200,
+   "value": 1720000,
    "target": 15000000,
    "info": "Collect 15000000 Gold from the Clan Castle",
-   "completionInfo": "Total Gold collected in Clan War bonuses: 1156200",
+   "completionInfo": "Total Gold collected in Clan War bonuses: 1720000",
    "village": "home"
   },
   {
@@ -360,10 +360,10 @@
   {
    "name": "Well Seasoned",
    "stars": 0,
-   "value": 3800,
+   "value": 4170,
    "target": 5000,
    "info": "Earn 5000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 3800",
+   "completionInfo": "Total Season Challenges points: 4170",
    "village": "home"
   },
   {
@@ -745,7 +745,7 @@
  "spells": [
   {
    "name": "Lightning Spell",
-   "level": 3,
+   "level": 4,
    "maxLevel": 14,
    "village": "home"
   },
