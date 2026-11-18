@@ -4,7 +4,7 @@
  "townHallLevel": 7,
  "expLevel": 24,
  "trophies": 294,
- "bestTrophies": 254,
+ "bestTrophies": 294,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 63,
+   "value": 65,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 63",
+   "completionInfo": "Total obstacles removed: 65",
    "village": "home"
   },
   {
@@ -109,10 +109,10 @@
   {
    "name": "Sweet Victory!",
    "stars": 1,
-   "value": 254,
+   "value": 294,
    "target": 750,
    "info": "Achieve a total of 750 trophies in Multiplayer battles",
-   "completionInfo": "Trophy record: 254",
+   "completionInfo": "Trophy record: 294",
    "village": "home"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 5170,
+   "value": 5650,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 5170",
+   "completionInfo": "Total Season Challenges points: 5650",
    "village": "home"
   },
   {
@@ -633,7 +633,7 @@
   },
   {
    "name": "Minion",
-   "level": 1,
+   "level": 2,
    "maxLevel": 15,
    "village": "home"
   },
@@ -755,7 +755,7 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 1,
+   "level": 2,
    "maxLevel": 115,
    "village": "home"
   }

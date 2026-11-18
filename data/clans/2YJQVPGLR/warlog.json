@@ -1,5 +1,38 @@
 [
  {
+  "result": "lose",
+  "endTime": "20261118T185647.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 18,
+   "stars": 28,
+   "destructionPercentage": 97.5,
+   "expEarned": 181
+  },
+  "opponent": {
+   "tag": "#JPCY20G2",
+   "name": "کهکشانیها",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png"
+   },
+   "clanLevel": 24,
+   "stars": 28,
+   "destructionPercentage": 97.9
+  }
+ },
+ {
   "result": "win",
   "endTime": "20261114T174025.000Z",
   "teamSize": 5,

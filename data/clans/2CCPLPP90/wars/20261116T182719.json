@@ -1,11 +1,11 @@
 {
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 10,
  "attacksPerMember": 2,
  "battleModifier": "none",
  "preparationStartTime": "20261116T182719.000Z",
  "startTime": "20261117T172719.000Z",
- "endTime": "20261118T172719.000Z",
+ "endTime": "20261118T175527.000Z",
  "clan": {
   "tag": "#2CCPLPP90",
   "name": "Clash of Ants",
@@ -15,9 +15,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
   },
   "clanLevel": 3,
-  "attacks": 5,
-  "stars": 8,
-  "destructionPercentage": 28.4,
+  "attacks": 7,
+  "stars": 14,
+  "destructionPercentage": 48.4,
   "members": [
    {
     "tag": "#YGGUGY0QV",
@@ -42,7 +42,15 @@
       "duration": 164
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#PJP9LV9RJ",
+     "defenderTag": "#YGGUGY0QV",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 8,
+     "duration": 77
+    }
    },
    {
     "tag": "#LGR9CGL90",
@@ -56,14 +64,48 @@
     "name": "Pscxll",
     "townhallLevel": 7,
     "mapPosition": 8,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Y22J8VRQV",
+     "defenderTag": "#R8RYG9GUL",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 11,
+     "duration": 40
+    }
    },
    {
     "tag": "#8JRU99V0U",
     "name": "wira nasa",
     "townhallLevel": 17,
     "mapPosition": 2,
-    "opponentAttacks": 0
+    "attacks": [
+     {
+      "attackerTag": "#8JRU99V0U",
+      "defenderTag": "#YYJUCJLY",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 12,
+      "duration": 154
+     },
+     {
+      "attackerTag": "#8JRU99V0U",
+      "defenderTag": "#YV8JPVY98",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 13,
+      "duration": 148
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YV8JPVY98",
+     "defenderTag": "#8JRU99V0U",
+     "stars": 2,
+     "destructionPercentage": 99,
+     "order": 9,
+     "duration": 180
+    }
    },
    {
     "tag": "#R000LP9C8",
@@ -80,7 +122,15 @@
       "duration": 63
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Y22J8VRQV",
+     "defenderTag": "#R000LP9C8",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 10,
+     "duration": 38
+    }
    },
    {
     "tag": "#LL2PQ8VJC",
@@ -164,9 +214,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png"
   },
   "clanLevel": 14,
-  "attacks": 2,
-  "stars": 6,
-  "destructionPercentage": 20.0,
+  "attacks": 6,
+  "stars": 17,
+  "destructionPercentage": 59.9,
   "members": [
    {
     "tag": "#PY0CPLYRG",
@@ -217,7 +267,15 @@
     "name": "mkp",
     "townhallLevel": 17,
     "mapPosition": 1,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#8JRU99V0U",
+     "defenderTag": "#YYJUCJLY",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 12,
+     "duration": 154
+    }
    },
    {
     "tag": "#PJP9LV9RJ",
@@ -232,6 +290,14 @@
       "destructionPercentage": 100,
       "order": 6,
       "duration": 138
+     },
+     {
+      "attackerTag": "#PJP9LV9RJ",
+      "defenderTag": "#YGGUGY0QV",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 8,
+      "duration": 77
      }
     ],
     "opponentAttacks": 0
@@ -256,6 +322,24 @@
     "name": "ahmed",
     "townhallLevel": 17,
     "mapPosition": 3,
+    "attacks": [
+     {
+      "attackerTag": "#Y22J8VRQV",
+      "defenderTag": "#R000LP9C8",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 10,
+      "duration": 38
+     },
+     {
+      "attackerTag": "#Y22J8VRQV",
+      "defenderTag": "#R8RYG9GUL",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 11,
+      "duration": 40
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -278,9 +362,25 @@
       "destructionPercentage": 100,
       "order": 5,
       "duration": 68
+     },
+     {
+      "attackerTag": "#YV8JPVY98",
+      "defenderTag": "#8JRU99V0U",
+      "stars": 2,
+      "destructionPercentage": 99,
+      "order": 9,
+      "duration": 180
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#8JRU99V0U",
+     "defenderTag": "#YV8JPVY98",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 13,
+     "duration": 148
+    }
    }
   ]
  }

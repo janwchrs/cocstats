@@ -1,5 +1,38 @@
 [
  {
+  "result": "lose",
+  "endTime": "20261118T175528.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+   },
+   "clanLevel": 3,
+   "attacks": 7,
+   "stars": 14,
+   "destructionPercentage": 48.4,
+   "expEarned": 71
+  },
+  "opponent": {
+   "tag": "#2R88YGPY8",
+   "name": "the hunter",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png"
+   },
+   "clanLevel": 14,
+   "stars": 17,
+   "destructionPercentage": 59.9
+  }
+ },
+ {
   "result": "tie",
   "endTime": "20261109T203952.000Z",
   "teamSize": 15,
