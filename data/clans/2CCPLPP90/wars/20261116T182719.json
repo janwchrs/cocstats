@@ -15,15 +15,25 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
   },
   "clanLevel": 3,
-  "attacks": 3,
-  "stars": 2,
-  "destructionPercentage": 9.8,
+  "attacks": 4,
+  "stars": 5,
+  "destructionPercentage": 18.4,
   "members": [
    {
     "tag": "#YGGUGY0QV",
     "name": "xTheDenny",
     "townhallLevel": 13,
     "mapPosition": 7,
+    "attacks": [
+     {
+      "attackerTag": "#YGGUGY0QV",
+      "defenderTag": "#Y9UQLPP2V",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 4,
+      "duration": 81
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -93,7 +103,15 @@
     "name": "NotMansonG",
     "townhallLevel": 17,
     "mapPosition": 4,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YV8JPVY98",
+     "defenderTag": "#2Q2VY2YPQ",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 5,
+     "duration": 68
+    }
    },
    {
     "tag": "#R82GG0YVJ",
@@ -130,9 +148,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png"
   },
   "clanLevel": 14,
-  "attacks": 0,
-  "stars": 0,
-  "destructionPercentage": 0.0,
+  "attacks": 1,
+  "stars": 3,
+  "destructionPercentage": 10.0,
   "members": [
    {
     "tag": "#PY0CPLYRG",
@@ -146,14 +164,14 @@
     "name": "subhojitoo7",
     "townhallLevel": 13,
     "mapPosition": 10,
-    "opponentAttacks": 2,
+    "opponentAttacks": 3,
     "bestOpponentAttack": {
-     "attackerTag": "#R82GG0YVJ",
+     "attackerTag": "#YGGUGY0QV",
      "defenderTag": "#Y9UQLPP2V",
-     "stars": 0,
-     "destructionPercentage": 14,
-     "order": 1,
-     "duration": 72
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 4,
+     "duration": 81
     }
    },
    {
@@ -218,6 +236,16 @@
     "name": "irfan",
     "townhallLevel": 17,
     "mapPosition": 2,
+    "attacks": [
+     {
+      "attackerTag": "#YV8JPVY98",
+      "defenderTag": "#2Q2VY2YPQ",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 5,
+      "duration": 68
+     }
+    ],
     "opponentAttacks": 0
    }
   ]

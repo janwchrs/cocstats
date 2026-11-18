@@ -15,9 +15,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
   },
   "clanLevel": 19,
-  "attacks": 1,
-  "stars": 2,
-  "destructionPercentage": 9.7,
+  "attacks": 3,
+  "stars": 7,
+  "destructionPercentage": 25.3,
   "members": [
    {
     "tag": "#89VRV2PP",
@@ -38,7 +38,33 @@
     "name": "Samu435",
     "townhallLevel": 16,
     "mapPosition": 10,
-    "opponentAttacks": 0
+    "attacks": [
+     {
+      "attackerTag": "#Y200JJJ88",
+      "defenderTag": "#GQRP8Y09V",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 3,
+      "duration": 114
+     },
+     {
+      "attackerTag": "#Y200JJJ88",
+      "defenderTag": "#2V8YQL8UG",
+      "stars": 2,
+      "destructionPercentage": 56,
+      "order": 4,
+      "duration": 130
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#GQRP8Y09V",
+     "defenderTag": "#Y200JJJ88",
+     "stars": 2,
+     "destructionPercentage": 50,
+     "order": 5,
+     "duration": 74
+    }
    },
    {
     "tag": "#LPUL0CQJQ",
@@ -118,9 +144,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/4FtjfNJTpdFlbSSPMU2pW-aqkN3fvczRGv1LkJt0zTM.png"
   },
   "clanLevel": 24,
-  "attacks": 1,
-  "stars": 2,
-  "destructionPercentage": 6.9,
+  "attacks": 2,
+  "stars": 4,
+  "destructionPercentage": 11.9,
   "members": [
    {
     "tag": "#9LVJJ8QJR",
@@ -165,7 +191,25 @@
     "name": "محمد امین",
     "townhallLevel": 16,
     "mapPosition": 10,
-    "opponentAttacks": 0
+    "attacks": [
+     {
+      "attackerTag": "#GQRP8Y09V",
+      "defenderTag": "#Y200JJJ88",
+      "stars": 2,
+      "destructionPercentage": 50,
+      "order": 5,
+      "duration": 74
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Y200JJJ88",
+     "defenderTag": "#GQRP8Y09V",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 3,
+     "duration": 114
+    }
    },
    {
     "tag": "#YRVQP8UG9",
@@ -208,7 +252,15 @@
     "name": "r.bowler",
     "townhallLevel": 19,
     "mapPosition": 9,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Y200JJJ88",
+     "defenderTag": "#2V8YQL8UG",
+     "stars": 2,
+     "destructionPercentage": 56,
+     "order": 4,
+     "duration": 130
+    }
    }
   ]
  }
