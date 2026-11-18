@@ -3,7 +3,7 @@
  "name": "DonJaw",
  "townHallLevel": 7,
  "expLevel": 24,
- "trophies": 254,
+ "trophies": 294,
  "bestTrophies": 254,
  "warStars": 0,
  "attackWins": 0,
@@ -163,10 +163,10 @@
   {
    "name": "Unbreakable",
    "stars": 0,
-   "value": 1,
+   "value": 3,
    "target": 10,
    "info": "Successfully defend against 10 attacks",
-   "completionInfo": "Total defenses won: 1",
+   "completionInfo": "Total defenses won: 3",
    "village": "home"
   },
   {
@@ -627,7 +627,7 @@
   },
   {
    "name": "Dragon",
-   "level": 1,
+   "level": 2,
    "maxLevel": 14,
    "village": "home"
   },

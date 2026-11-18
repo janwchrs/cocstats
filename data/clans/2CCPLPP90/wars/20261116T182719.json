@@ -15,9 +15,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
   },
   "clanLevel": 3,
-  "attacks": 4,
-  "stars": 5,
-  "destructionPercentage": 18.4,
+  "attacks": 5,
+  "stars": 8,
+  "destructionPercentage": 28.4,
   "members": [
    {
     "tag": "#YGGUGY0QV",
@@ -32,6 +32,14 @@
       "destructionPercentage": 100,
       "order": 4,
       "duration": 81
+     },
+     {
+      "attackerTag": "#YGGUGY0QV",
+      "defenderTag": "#QGVUQ0Y2U",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 7,
+      "duration": 164
      }
     ],
     "opponentAttacks": 0
@@ -135,7 +143,15 @@
     "name": "odin",
     "townhallLevel": 17,
     "mapPosition": 3,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#PJP9LV9RJ",
+     "defenderTag": "#PLYYQ00YL",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 6,
+     "duration": 138
+    }
    }
   ]
  },
@@ -148,9 +164,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/Qvw0Ymeh6p5FEuYYzXiZ2L99BzvHKrJ7mBiodNwzwOc.png"
   },
   "clanLevel": 14,
-  "attacks": 1,
-  "stars": 3,
-  "destructionPercentage": 10.0,
+  "attacks": 2,
+  "stars": 6,
+  "destructionPercentage": 20.0,
   "members": [
    {
     "tag": "#PY0CPLYRG",
@@ -186,7 +202,15 @@
     "name": "Tsukasa",
     "townhallLevel": 13,
     "mapPosition": 9,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#YGGUGY0QV",
+     "defenderTag": "#QGVUQ0Y2U",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 7,
+     "duration": 164
+    }
    },
    {
     "tag": "#YYJUCJLY",
@@ -200,6 +224,16 @@
     "name": "#AZAHAR #AA",
     "townhallLevel": 18,
     "mapPosition": 4,
+    "attacks": [
+     {
+      "attackerTag": "#PJP9LV9RJ",
+      "defenderTag": "#PLYYQ00YL",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 6,
+      "duration": 138
+     }
+    ],
     "opponentAttacks": 0
    },
    {
