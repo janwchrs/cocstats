@@ -2,15 +2,15 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 25,
+ "expLevel": 26,
  "trophies": 294,
  "bestTrophies": 294,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 3,
- "builderBaseTrophies": 360,
- "bestBuilderBaseTrophies": 360,
+ "builderBaseTrophies": 439,
+ "bestBuilderBaseTrophies": 439,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000003,
-  "name": "Wood League II"
+  "id": 44000004,
+  "name": "Wood League I"
  },
  "currentLeagueGroupTag": "#98RCQ0P",
  "currentLeagueSeasonId": 1794805200,
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 11,
+   "value": 16,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 11",
+   "completionInfo": "Total Builder Halls destroyed: 16",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 360,
+   "value": 439,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 360",
+   "completionInfo": "Builder Trophy record: 439",
    "village": "builderBase"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 6460,
+   "value": 6730,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 6460",
+   "completionInfo": "Total Season Challenges points: 6730",
    "village": "home"
   },
   {
@@ -609,7 +609,7 @@
   },
   {
    "name": "Balloon",
-   "level": 3,
+   "level": 4,
    "maxLevel": 14,
    "village": "home"
   },
@@ -669,7 +669,7 @@
   },
   {
    "name": "Sneaky Archer",
-   "level": 1,
+   "level": 2,
    "maxLevel": 20,
    "village": "builderBase"
   },

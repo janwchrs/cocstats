@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 37600,
- "clanBuilderBasePoints": 23789,
+ "clanBuilderBasePoints": 23802,
  "clanCapitalPoints": 419,
  "capitalLeague": {
   "id": 85000002,
@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 521,
+   "trophies": 541,
    "builderBaseTrophies": 4626,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -270,7 +270,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 113,
+   "trophies": 141,
    "builderBaseTrophies": 3402,
    "clanRank": 5,
    "previousClanRank": 6,
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 213,
+   "trophies": 239,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 10,
@@ -535,7 +535,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 447,
+   "trophies": 476,
    "builderBaseTrophies": 3326,
    "clanRank": 10,
    "previousClanRank": 11,
@@ -694,8 +694,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
     }
    },
-   "trophies": 37,
-   "builderBaseTrophies": 2533,
+   "trophies": 56,
+   "builderBaseTrophies": 2548,
    "clanRank": 13,
    "previousClanRank": 14,
    "donations": 652,
@@ -730,7 +730,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 25,
+   "expLevel": 26,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -748,7 +748,7 @@
     }
    },
    "trophies": 294,
-   "builderBaseTrophies": 360,
+   "builderBaseTrophies": 439,
    "clanRank": 14,
    "previousClanRank": 15,
    "donations": 0,
@@ -774,8 +774,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000003,
-    "name": "Wood League II"
+    "id": 44000004,
+    "name": "Wood League I"
    }
   },
   {
@@ -1133,7 +1133,7 @@
    "tag": "#GJ2V0RCV9",
    "name": "Bastisteiner",
    "role": "admin",
-   "townHallLevel": 17,
+   "townHallLevel": 18,
    "expLevel": 189,
    "league": {
     "id": 29000000,
