@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 6100,
+   "value": 6460,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 6100",
+   "completionInfo": "Total Season Challenges points: 6460",
    "village": "home"
   },
   {
@@ -669,6 +669,18 @@
   },
   {
    "name": "Sneaky Archer",
+   "level": 1,
+   "maxLevel": 20,
+   "village": "builderBase"
+  },
+  {
+   "name": "Beta Minion",
+   "level": 1,
+   "maxLevel": 20,
+   "village": "builderBase"
+  },
+  {
+   "name": "Boxer Giant",
    "level": 1,
    "maxLevel": 20,
    "village": "builderBase"

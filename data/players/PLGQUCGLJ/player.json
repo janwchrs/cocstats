@@ -1004,6 +1004,12 @@
    "village": "home"
   },
   {
+   "name": "Giant Wizard Squad",
+   "level": 1,
+   "maxLevel": 3,
+   "village": "home"
+  },
+  {
    "name": "L.A.S.S.I",
    "level": 6,
    "maxLevel": 15,
