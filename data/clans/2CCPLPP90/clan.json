@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 41100,
- "clanBuilderBasePoints": 25230,
+ "clanBuilderBasePoints": 25227,
  "clanCapitalPoints": 419,
  "capitalLeague": {
   "id": 85000002,
@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 488,
+   "trophies": 506,
    "builderBaseTrophies": 4626,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
     }
    },
-   "trophies": 316,
+   "trophies": 331,
    "builderBaseTrophies": 4856,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -271,7 +271,7 @@
     }
    },
    "trophies": 284,
-   "builderBaseTrophies": 3284,
+   "builderBaseTrophies": 3263,
    "clanRank": 5,
    "previousClanRank": 5,
    "donations": 272,
@@ -588,7 +588,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 419,
+   "trophies": 447,
    "builderBaseTrophies": 3326,
    "clanRank": 11,
    "previousClanRank": 11,
@@ -783,7 +783,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 24,
+   "expLevel": 25,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -801,7 +801,7 @@
     }
    },
    "trophies": 294,
-   "builderBaseTrophies": 299,
+   "builderBaseTrophies": 360,
    "clanRank": 15,
    "previousClanRank": 15,
    "donations": 0,
@@ -827,8 +827,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000002,
-    "name": "Wood League III"
+    "id": 44000003,
+    "name": "Wood League II"
    }
   },
   {

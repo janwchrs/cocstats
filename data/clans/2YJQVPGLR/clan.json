@@ -224,7 +224,7 @@
    "builderBaseTrophies": 4186,
    "clanRank": 4,
    "previousClanRank": 4,
-   "donations": 1403,
+   "donations": 1492,
    "donationsReceived": 867,
    "playerHouse": {
     "elements": [
@@ -432,7 +432,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 105,
+   "trophies": 114,
    "builderBaseTrophies": 3187,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -490,7 +490,7 @@
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 504,
-   "donationsReceived": 1890,
+   "donationsReceived": 1979,
    "playerHouse": {
     "elements": [
      {
@@ -1631,59 +1631,6 @@
    }
   },
   {
-   "tag": "#Q8CQCY2PY",
-   "name": "bruv",
-   "role": "member",
-   "townHallLevel": 14,
-   "expLevel": 166,
-   "league": {
-    "id": 29000000,
-    "name": "Unranked",
-    "iconUrls": {
-     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-    }
-   },
-   "leagueTier": {
-    "id": 105000014,
-    "name": "Valkyrie League 14",
-    "iconUrls": {
-     "small": "https://api-assets.clashofclans.com/leaguetiers/125/7AbbZbiV6whmfa6CZtqt6Ml4NgFH1B-UqCxc59ziqfk.png",
-     "large": "https://api-assets.clashofclans.com/leaguetiers/326/7AbbZbiV6whmfa6CZtqt6Ml4NgFH1B-UqCxc59ziqfk.png"
-    }
-   },
-   "trophies": 0,
-   "builderBaseTrophies": 2607,
-   "clanRank": 31,
-   "previousClanRank": 31,
-   "donations": 57,
-   "donationsReceived": 0,
-   "playerHouse": {
-    "elements": [
-     {
-      "type": "ground",
-      "id": 82000001
-     },
-     {
-      "type": "walls",
-      "id": 82000052
-     },
-     {
-      "type": "roof",
-      "id": 82000010
-     },
-     {
-      "type": "decoration",
-      "id": 82000066
-     }
-    ]
-   },
-   "builderBaseLeague": {
-    "id": 44000023,
-    "name": "Iron League III"
-   }
-  },
-  {
    "tag": "#GYQVQQCJU",
    "name": "TaddlAndCat",
    "role": "member",
@@ -1707,7 +1654,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2465,
-   "clanRank": 32,
+   "clanRank": 31,
    "previousClanRank": 32,
    "donations": 0,
    "donationsReceived": 0,
@@ -1760,7 +1707,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 1814,
-   "clanRank": 33,
+   "clanRank": 32,
    "previousClanRank": 33,
    "donations": 0,
    "donationsReceived": 0,
@@ -1813,7 +1760,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 1702,
-   "clanRank": 34,
+   "clanRank": 33,
    "previousClanRank": 34,
    "donations": 0,
    "donationsReceived": 0,
@@ -1846,7 +1793,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2334,
-   "clanRank": 35,
+   "clanRank": 34,
    "previousClanRank": 35,
    "donations": 0,
    "donationsReceived": 0,
@@ -1899,7 +1846,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2134,
-   "clanRank": 36,
+   "clanRank": 35,
    "previousClanRank": 36,
    "donations": 0,
    "donationsReceived": 0,
@@ -1952,7 +1899,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 1896,
-   "clanRank": 37,
+   "clanRank": 36,
    "previousClanRank": 37,
    "donations": 0,
    "donationsReceived": 0,
@@ -2005,7 +1952,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2582,
-   "clanRank": 38,
+   "clanRank": 37,
    "previousClanRank": 38,
    "donations": 59,
    "donationsReceived": 568,
@@ -2058,7 +2005,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2461,
-   "clanRank": 39,
+   "clanRank": 38,
    "previousClanRank": 39,
    "donations": 0,
    "donationsReceived": 0,
@@ -2111,7 +2058,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 1121,
-   "clanRank": 40,
+   "clanRank": 39,
    "previousClanRank": 40,
    "donations": 0,
    "donationsReceived": 0,
@@ -2164,7 +2111,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2585,
-   "clanRank": 41,
+   "clanRank": 40,
    "previousClanRank": 41,
    "donations": 0,
    "donationsReceived": 0,
@@ -2191,6 +2138,59 @@
    "builderBaseLeague": {
     "id": 44000022,
     "name": "Brass League I"
+   }
+  },
+  {
+   "tag": "#Q8CQCY2PY",
+   "name": "bruv",
+   "role": "member",
+   "townHallLevel": 14,
+   "expLevel": 166,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2607,
+   "clanRank": 41,
+   "previousClanRank": 31,
+   "donations": 57,
+   "donationsReceived": 0,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000001
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000010
+     },
+     {
+      "type": "decoration",
+      "id": 82000066
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000023,
+    "name": "Iron League III"
    }
   },
   {

@@ -2,15 +2,15 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 24,
+ "expLevel": 25,
  "trophies": 294,
  "bestTrophies": 294,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 3,
- "builderBaseTrophies": 299,
- "bestBuilderBaseTrophies": 304,
+ "builderBaseTrophies": 360,
+ "bestBuilderBaseTrophies": 360,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000002,
-  "name": "Wood League III"
+  "id": 44000003,
+  "name": "Wood League II"
  },
  "currentLeagueGroupTag": "#98RCQ0P",
  "currentLeagueSeasonId": 1794805200,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 65,
+   "value": 66,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 65",
+   "completionInfo": "Total obstacles removed: 66",
    "village": "home"
   },
   {
@@ -91,19 +91,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 11186317,
+   "value": 11721916,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 11186317",
+   "completionInfo": "Total Gold looted: 11721916",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 2,
-   "value": 10890774,
+   "value": 11511637,
    "target": 100000000,
    "info": "Steal 100000000 elixir",
-   "completionInfo": "Total Elixir looted: 10890774",
+   "completionInfo": "Total Elixir looted: 11511637",
    "village": "home"
   },
   {
@@ -136,28 +136,28 @@
   {
    "name": "Humiliator",
    "stars": 1,
-   "value": 59,
+   "value": 60,
    "target": 100,
    "info": "Destroy 100 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 59",
+   "completionInfo": "Total Town Halls destroyed: 60",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 1,
-   "value": 143,
+   "value": 146,
    "target": 250,
    "info": "Destroy 250 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 143",
+   "completionInfo": "Total Builder's Huts destroyed: 146",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 1,
-   "value": 65,
+   "value": 66,
    "target": 250,
    "info": "Win 250 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 65",
+   "completionInfo": "Total multiplayer battles won: 66",
    "village": "home"
   },
   {
@@ -181,19 +181,19 @@
   {
    "name": "Mortar Mauler",
    "stars": 1,
-   "value": 89,
+   "value": 92,
    "target": 500,
    "info": "Destroy 500 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 89",
+   "completionInfo": "Total Mortars destroyed: 92",
    "village": "home"
   },
   {
    "name": "Heroic Heist",
    "stars": 0,
-   "value": 7589,
+   "value": 10402,
    "target": 20000,
    "info": "Steal 20000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 7589",
+   "completionInfo": "Total Dark Elixir looted: 10402",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 9,
+   "value": 11,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 9",
+   "completionInfo": "Total Builder Halls destroyed: 11",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 304,
+   "value": 360,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 304",
+   "completionInfo": "Builder Trophy record: 360",
    "village": "builderBase"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 5650,
+   "value": 6100,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 5650",
+   "completionInfo": "Total Season Challenges points: 6100",
    "village": "home"
   },
   {
@@ -585,7 +585,7 @@
   },
   {
    "name": "Archer",
-   "level": 3,
+   "level": 4,
    "maxLevel": 15,
    "village": "home"
   },
@@ -755,7 +755,7 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 2,
+   "level": 3,
    "maxLevel": 115,
    "village": "home"
   }
