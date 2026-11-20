@@ -2,13 +2,54 @@
  "state": "ongoing",
  "startTime": "20261120T070000.000Z",
  "endTime": "20261123T070000.000Z",
- "capitalTotalLoot": 0,
+ "capitalTotalLoot": 81020,
  "raidsCompleted": 0,
- "totalAttacks": 0,
- "enemyDistrictsDestroyed": 0,
+ "totalAttacks": 21,
+ "enemyDistrictsDestroyed": 7,
  "offensiveReward": 0,
  "defensiveReward": 0,
- "members": [],
+ "members": [
+  {
+   "tag": "#Q0R92PVC",
+   "name": "kessmack",
+   "attacks": 2,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 10535
+  },
+  {
+   "tag": "#L9PVP880Y",
+   "name": "Nemo",
+   "attacks": 5,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 20963
+  },
+  {
+   "tag": "#98VUCPJ9V",
+   "name": "Mr. T",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 23736
+  },
+  {
+   "tag": "#Q9PGY90L8",
+   "name": "Louis",
+   "attacks": 3,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 15183
+  },
+  {
+   "tag": "#QJLYV2R0Y",
+   "name": "Nemo",
+   "attacks": 5,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 10603
+  }
+ ],
  "attackLog": [
   {
    "defender": {
@@ -21,9 +62,291 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/zPZdN9qwobuxN5O0mrCHclInYscOTy7idCAo-q11GWM.png"
     }
    },
-   "attackCount": 0,
+   "attackCount": 21,
    "districtCount": 9,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 7,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 10,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 5,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 10535,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q0R92PVC",
+        "name": "kessmack"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#Q0R92PVC",
+        "name": "kessmack"
+       },
+       "destructionPercent": 63,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000003,
+     "name": "Balloon Lagoon",
+     "districtHallLevel": 5,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11820,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#98VUCPJ9V",
+        "name": "Mr. T"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#98VUCPJ9V",
+        "name": "Mr. T"
+       },
+       "destructionPercent": 91,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#98VUCPJ9V",
+        "name": "Mr. T"
+       },
+       "destructionPercent": 43,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#QJLYV2R0Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 0,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000004,
+     "name": "Builder's Workshop",
+     "districtHallLevel": 5,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11939,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QJLYV2R0Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#L9PVP880Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 75,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#L9PVP880Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 41,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000005,
+     "name": "Dragon Cliffs",
+     "districtHallLevel": 5,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11408,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#L9PVP880Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#QJLYV2R0Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 61,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#L9PVP880Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 34,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000006,
+     "name": "Golem Quarry",
+     "districtHallLevel": 5,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11916,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#98VUCPJ9V",
+        "name": "Mr. T"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#98VUCPJ9V",
+        "name": "Mr. T"
+       },
+       "destructionPercent": 82,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#98VUCPJ9V",
+        "name": "Mr. T"
+       },
+       "destructionPercent": 40,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#QJLYV2R0Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 0,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000007,
+     "name": "Skeleton Park",
+     "districtHallLevel": 4,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11789,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QJLYV2R0Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#L9PVP880Y",
+        "name": "Nemo"
+       },
+       "destructionPercent": 79,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 29,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000008,
+     "name": "Goblin Mines",
+     "districtHallLevel": 4,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 11613,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#Q9PGY90L8",
+        "name": "Louis"
+       },
+       "destructionPercent": 32,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "defenseLog": [
+  {
+   "attacker": {
+    "tag": "#VYP00QP",
+    "name": "Pilipinas.ph5",
+    "level": 30,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/8VW5-PC6hwjOM0Ws_Paka4g7TOMnUBjzoWz65xaMzcI.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/8VW5-PC6hwjOM0Ws_Paka4g7TOMnUBjzoWz65xaMzcI.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/8VW5-PC6hwjOM0Ws_Paka4g7TOMnUBjzoWz65xaMzcI.png"
+    }
+   },
+   "attackCount": 4,
+   "districtCount": 9,
+   "districtsDestroyed": 1,
    "districts": [
     {
      "id": 70000000,
@@ -83,10 +406,36 @@
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 10895,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#88JL0CYUJ",
+        "name": "darkroma"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#88JL0CYUJ",
+        "name": "darkroma"
+       },
+       "destructionPercent": 75,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#88JL0CYUJ",
+        "name": "darkroma"
+       },
+       "destructionPercent": 32,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000007,
@@ -101,13 +450,22 @@
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 51,
+     "stars": 2,
+     "attackCount": 1,
+     "totalLooted": 5135,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#88JL0CYUJ",
+        "name": "darkroma"
+       },
+       "destructionPercent": 51,
+       "stars": 2
+      }
+     ]
     }
    ]
   }
- ],
- "defenseLog": []
+ ]
 }

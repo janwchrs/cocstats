@@ -9,8 +9,8 @@
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 3,
- "builderBaseTrophies": 490,
- "bestBuilderBaseTrophies": 483,
+ "builderBaseTrophies": 659,
+ "bestBuilderBaseTrophies": 677,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000004,
-  "name": "Wood League I"
+  "id": 44000006,
+  "name": "Clay League IV"
  },
  "currentLeagueGroupTag": "#98RCQ0P",
  "currentLeagueSeasonId": 1794805200,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 66,
+   "value": 135,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 66",
+   "completionInfo": "Total obstacles removed: 135",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 18,
+   "value": 25,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 18",
+   "completionInfo": "Total Builder Halls destroyed: 25",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 483,
+   "value": 677,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 483",
+   "completionInfo": "Builder Trophy record: 677",
    "village": "builderBase"
   },
   {
@@ -315,8 +315,8 @@
   },
   {
    "name": "Hidden Treasures",
-   "stars": 0,
-   "value": 0,
+   "stars": 1,
+   "value": 1,
    "target": 1,
    "info": "Rebuild Gem Mine",
    "completionInfo": null,
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 6730,
+   "value": 7000,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 6730",
+   "completionInfo": "Total Season Challenges points: 7000",
    "village": "home"
   },
   {
@@ -621,7 +621,7 @@
   },
   {
    "name": "Healer",
-   "level": 1,
+   "level": 2,
    "maxLevel": 12,
    "village": "home"
   },
@@ -767,7 +767,7 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 4,
+   "level": 5,
    "maxLevel": 115,
    "village": "home"
   }
