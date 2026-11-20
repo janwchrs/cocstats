@@ -2,15 +2,15 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 26,
+ "expLevel": 27,
  "trophies": 294,
  "bestTrophies": 294,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 3,
- "builderBaseTrophies": 439,
- "bestBuilderBaseTrophies": 439,
+ "builderBaseTrophies": 490,
+ "bestBuilderBaseTrophies": 483,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -235,10 +235,10 @@
   {
    "name": "Clan War Wealth",
    "stars": 1,
-   "value": 2014225,
+   "value": 2615539,
    "target": 15000000,
    "info": "Collect 15000000 Gold from the Clan Castle",
-   "completionInfo": "Total Gold collected in Clan War bonuses: 2014225",
+   "completionInfo": "Total Gold collected in Clan War bonuses: 2615539",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 16,
+   "value": 18,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 16",
+   "completionInfo": "Total Builder Halls destroyed: 18",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 439,
+   "value": 483,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 439",
+   "completionInfo": "Builder Trophy record: 483",
    "village": "builderBase"
   },
   {

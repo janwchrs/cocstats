@@ -4,7 +4,7 @@
  "townHallLevel": 16,
  "townHallWeaponLevel": 1,
  "expLevel": 210,
- "trophies": 189,
+ "trophies": 219,
  "bestTrophies": 5073,
  "warStars": 283,
  "attackWins": 0,
@@ -47,7 +47,7 @@
    "trophies": 5011
   },
   "currentSeason": {
-   "trophies": 189
+   "trophies": 219
   }
  },
  "currentLeagueGroupTag": "#98PYJ92",
@@ -85,10 +85,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 3,
-   "value": 5526,
+   "value": 5531,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 5526",
+   "completionInfo": "Total obstacles removed: 5531",
    "village": "home"
   },
   {
