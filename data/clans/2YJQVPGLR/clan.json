@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 90750,
- "clanBuilderBasePoints": 34733,
+ "clanBuilderBasePoints": 34736,
  "clanCapitalPoints": 2671,
  "capitalLeague": {
   "id": 85000013,
@@ -113,7 +113,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
     }
    },
-   "trophies": 386,
+   "trophies": 426,
    "builderBaseTrophies": 3680,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -256,7 +256,7 @@
    "name": "LordGünther",
    "role": "admin",
    "townHallLevel": 18,
-   "expLevel": 210,
+   "expLevel": 211,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -327,7 +327,7 @@
     }
    },
    "trophies": 604,
-   "builderBaseTrophies": 3304,
+   "builderBaseTrophies": 3318,
    "clanRank": 6,
    "previousClanRank": 6,
    "donations": 281,
@@ -432,7 +432,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 248,
+   "trophies": 263,
    "builderBaseTrophies": 3187,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -485,12 +485,12 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 314,
+   "trophies": 327,
    "builderBaseTrophies": 3518,
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 559,
-   "donationsReceived": 2362,
+   "donationsReceived": 2396,
    "playerHouse": {
     "elements": [
      {
@@ -595,7 +595,7 @@
    "builderBaseTrophies": 2906,
    "clanRank": 11,
    "previousClanRank": 11,
-   "donations": 89,
+   "donations": 123,
    "donationsReceived": 695,
    "playerHouse": {
     "elements": [

@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 37600,
- "clanBuilderBasePoints": 23832,
+ "clanBuilderBasePoints": 23819,
  "clanCapitalPoints": 419,
  "capitalLeague": {
   "id": 85000002,
@@ -147,7 +147,7 @@
    "name": "alex",
    "role": "member",
    "townHallLevel": 18,
-   "expLevel": 217,
+   "expLevel": 218,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -589,7 +589,7 @@
     }
    },
    "trophies": 0,
-   "builderBaseTrophies": 2932,
+   "builderBaseTrophies": 2906,
    "clanRank": 11,
    "previousClanRank": 11,
    "donations": 32,
@@ -1081,7 +1081,7 @@
    "name": "jockersss",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 22,
+   "expLevel": 24,
    "league": {
     "id": 29000000,
     "name": "Unranked",

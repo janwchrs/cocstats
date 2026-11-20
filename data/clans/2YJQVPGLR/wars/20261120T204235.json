@@ -1,0 +1,109 @@
+{
+ "state": "preparation",
+ "teamSize": 5,
+ "attacksPerMember": 2,
+ "battleModifier": "none",
+ "preparationStartTime": "20261120T204235.000Z",
+ "startTime": "20261121T194235.000Z",
+ "endTime": "20261122T194235.000Z",
+ "clan": {
+  "tag": "#2YJQVPGLR",
+  "name": "Gesundheit",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+  },
+  "clanLevel": 19,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#R2CGJJLJ",
+    "name": "Iris",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q0R92PVC",
+    "name": "kessmack",
+    "townhallLevel": 19,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R9YRLGGV",
+    "name": "William Wallace",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q9PGY90L8",
+    "name": "Louis",
+    "townhallLevel": 18,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GQRJVGRQY",
+    "name": "Pizza-Bär",
+    "townhallLevel": 14,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   }
+  ]
+ },
+ "opponent": {
+  "tag": "#88UPPCCQ",
+  "name": "ogres occitans",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png"
+  },
+  "clanLevel": 29,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#20YUC0GGY",
+    "name": "¥lipstick¥",
+    "townhallLevel": 17,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#2GPGJR8R0",
+    "name": "tine la maligne",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GQRJYLUC",
+    "name": "Loiya",
+    "townhallLevel": 16,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#CP8U298U",
+    "name": "padagsid",
+    "townhallLevel": 19,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#G9G2YRG",
+    "name": "sid le kid",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   }
+  ]
+ }
+}
