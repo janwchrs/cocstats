@@ -61,7 +61,7 @@
    "trophies": 643,
    "builderBaseTrophies": 3728,
    "clanRank": 1,
-   "previousClanRank": 2,
+   "previousClanRank": 1,
    "donations": 133,
    "donationsReceived": 321,
    "playerHouse": {
@@ -114,7 +114,7 @@
    "trophies": 580,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
-   "previousClanRank": 1,
+   "previousClanRank": 2,
    "donations": 532,
    "donationsReceived": 0,
    "playerHouse": {
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 101,
+   "trophies": 119,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -323,7 +323,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 348,
+   "trophies": 359,
    "builderBaseTrophies": 2509,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -381,7 +381,7 @@
    "clanRank": 7,
    "previousClanRank": 7,
    "donations": 13,
-   "donationsReceived": 512,
+   "donationsReceived": 514,
    "playerHouse": {
     "elements": [
      {
@@ -694,11 +694,11 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
     }
    },
-   "trophies": 274,
+   "trophies": 286,
    "builderBaseTrophies": 2548,
    "clanRank": 13,
    "previousClanRank": 13,
-   "donations": 653,
+   "donations": 655,
    "donationsReceived": 77,
    "playerHouse": {
     "elements": [
@@ -1273,7 +1273,7 @@
    "name": "luca dorf op",
    "role": "admin",
    "townHallLevel": 17,
-   "expLevel": 210,
+   "expLevel": 211,
    "league": {
     "id": 29000000,
     "name": "Unranked",

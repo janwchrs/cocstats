@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261120T070000.000Z",
  "endTime": "20261123T070000.000Z",
- "capitalTotalLoot": 128475,
- "raidsCompleted": 1,
- "totalAttacks": 32,
- "enemyDistrictsDestroyed": 11,
+ "capitalTotalLoot": 183106,
+ "raidsCompleted": 2,
+ "totalAttacks": 46,
+ "enemyDistrictsDestroyed": 16,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -36,10 +36,18 @@
   {
    "tag": "#GG9VVRUJ0",
    "name": "LordGünther",
-   "attacks": 1,
+   "attacks": 6,
    "attackLimit": 5,
    "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 7018
+   "capitalResourcesLooted": 34351
+  },
+  {
+   "tag": "#GYJ0LULJP",
+   "name": "Emilie",
+   "attacks": 5,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 14595
   },
   {
    "tag": "#98VUCPJ9V",
@@ -68,10 +76,10 @@
   {
    "tag": "#GQRJVGRQY",
    "name": "Pizza-Bär",
-   "attacks": 1,
+   "attacks": 5,
    "attackLimit": 5,
    "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 7247
+   "capitalResourcesLooted": 19950
   }
  ],
  "attackLog": [
@@ -426,9 +434,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/nm1hksLLsBXNgJPPbCtSi7lQn3dQto4FtmnTQAGPd94.png"
     }
    },
-   "attackCount": 4,
+   "attackCount": 18,
    "districtCount": 9,
-   "districtsDestroyed": 2,
+   "districtsDestroyed": 7,
    "districts": [
     {
      "id": 70000000,
@@ -452,19 +460,71 @@
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 10591,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GQRJVGRQY",
+        "name": "Pizza-Bär"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GYJ0LULJP",
+        "name": "Emilie"
+       },
+       "destructionPercent": 95,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#GYJ0LULJP",
+        "name": "Emilie"
+       },
+       "destructionPercent": 56,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#GYJ0LULJP",
+        "name": "Emilie"
+       },
+       "destructionPercent": 30,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 11044,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GQRJVGRQY",
+        "name": "Pizza-Bär"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GG9VVRUJ0",
+        "name": "LordGünther"
+       },
+       "destructionPercent": 55,
+       "stars": 2
+      }
+     ]
     },
     {
      "id": 70000004,
@@ -497,28 +557,98 @@
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11418,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GQRJVGRQY",
+        "name": "Pizza-Bär"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GQRJVGRQY",
+        "name": "Pizza-Bär"
+       },
+       "destructionPercent": 96,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#GYJ0LULJP",
+        "name": "Emilie"
+       },
+       "destructionPercent": 53,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#GYJ0LULJP",
+        "name": "Emilie"
+       },
+       "destructionPercent": 30,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 10343,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GG9VVRUJ0",
+        "name": "LordGünther"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GG9VVRUJ0",
+        "name": "LordGünther"
+       },
+       "destructionPercent": 42,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000007,
      "name": "Skeleton Park",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 11235,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GG9VVRUJ0",
+        "name": "LordGünther"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GG9VVRUJ0",
+        "name": "LordGünther"
+       },
+       "destructionPercent": 40,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000008,
@@ -562,18 +692,52 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/8VW5-PC6hwjOM0Ws_Paka4g7TOMnUBjzoWz65xaMzcI.png"
     }
    },
-   "attackCount": 22,
+   "attackCount": 28,
    "districtCount": 9,
-   "districtsDestroyed": 7,
+   "districtsDestroyed": 9,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 10,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 13424,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LQQ8RC8G",
+        "name": "WARSHOCK"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#LQQ8RC8G",
+        "name": "WARSHOCK"
+       },
+       "destructionPercent": 79,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#LQQ8RC8G",
+        "name": "WARSHOCK"
+       },
+       "destructionPercent": 70,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#LQQ8RC8G",
+        "name": "WARSHOCK"
+       },
+       "destructionPercent": 64,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000001,
@@ -719,11 +883,27 @@
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 5,
-     "destructionPercent": 62,
-     "stars": 2,
-     "attackCount": 2,
-     "totalLooted": 5350,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11718,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#LQQ8RC8G",
+        "name": "WARSHOCK"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#G0GG0VL92",
+        "name": "dark king"
+       },
+       "destructionPercent": 96,
+       "stars": 2
+      },
       {
        "attacker": {
         "tag": "#8JV2U9CUC",

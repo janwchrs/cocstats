@@ -4,7 +4,7 @@
  "townHallLevel": 16,
  "townHallWeaponLevel": 1,
  "expLevel": 210,
- "trophies": 379,
+ "trophies": 400,
  "bestTrophies": 5073,
  "warStars": 283,
  "attackWins": 0,
@@ -14,8 +14,8 @@
  "bestBuilderBaseTrophies": 5119,
  "role": "member",
  "warPreference": "out",
- "donations": 142,
- "donationsReceived": 166,
+ "donations": 175,
+ "donationsReceived": 219,
  "clanCapitalContributions": 2288896,
  "clan": {
   "tag": "#2YJQVPGLR",
@@ -47,7 +47,7 @@
    "trophies": 5011
   },
   "currentSeason": {
-   "trophies": 379
+   "trophies": 400
   }
  },
  "currentLeagueGroupTag": "#98PYJ92",
@@ -265,10 +265,10 @@
   {
    "name": "Sharing is caring",
    "stars": 1,
-   "value": 282,
+   "value": 285,
    "target": 2000,
    "info": "Donate 2000 Spell storage capacity worth of Spells",
-   "completionInfo": "Total Spell capacity donated: 282",
+   "completionInfo": "Total Spell capacity donated: 285",
    "village": "home"
   },
   {
@@ -418,10 +418,10 @@
   {
    "name": "Siege Sharer",
    "stars": 1,
-   "value": 55,
+   "value": 56,
    "target": 1000,
    "info": "Donate 1000 Siege Machines",
-   "completionInfo": "Total Siege Machines donated: 55",
+   "completionInfo": "Total Siege Machines donated: 56",
    "village": "home"
   },
   {
