@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 90750,
- "clanBuilderBasePoints": 34736,
+ "clanBuilderBasePoints": 34656,
  "clanCapitalPoints": 2671,
  "capitalLeague": {
   "id": 85000013,
@@ -117,7 +117,7 @@
    "builderBaseTrophies": 3680,
    "clanRank": 2,
    "previousClanRank": 2,
-   "donations": 571,
+   "donations": 575,
    "donationsReceived": 57,
    "playerHouse": {
     "elements": [
@@ -379,8 +379,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 575,
-   "builderBaseTrophies": 3453,
+   "trophies": 628,
+   "builderBaseTrophies": 3133,
    "clanRank": 7,
    "previousClanRank": 7,
    "donations": 0,
@@ -406,8 +406,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000027,
-    "name": "Steel League II"
+    "id": 44000025,
+    "name": "Iron League I"
    }
   },
   {
@@ -485,12 +485,12 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 368,
+   "trophies": 419,
    "builderBaseTrophies": 3518,
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 559,
-   "donationsReceived": 2539,
+   "donationsReceived": 2543,
    "playerHouse": {
     "elements": [
      {
@@ -1122,7 +1122,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png"
     }
    },
-   "trophies": 400,
+   "trophies": 462,
    "builderBaseTrophies": 4711,
    "clanRank": 21,
    "previousClanRank": 21,
@@ -1281,7 +1281,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png"
     }
    },
-   "trophies": 90,
+   "trophies": 117,
    "builderBaseTrophies": 3252,
    "clanRank": 24,
    "previousClanRank": 24,

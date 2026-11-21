@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 37600,
- "clanBuilderBasePoints": 23819,
+ "clanBuilderBasePoints": 23833,
  "clanCapitalPoints": 419,
  "capitalLeague": {
   "id": 85000002,
@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 580,
+   "trophies": 609,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 264,
+   "trophies": 402,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -535,7 +535,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 476,
+   "trophies": 505,
    "builderBaseTrophies": 3326,
    "clanRank": 10,
    "previousClanRank": 10,
@@ -747,8 +747,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/CiSJYHyhMuloCpIIJ3n5-xCnRWrEd9vcq_zu6Ahkl3o.png"
     }
    },
-   "trophies": 294,
-   "builderBaseTrophies": 659,
+   "trophies": 303,
+   "builderBaseTrophies": 781,
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 0,
@@ -774,8 +774,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000006,
-    "name": "Clay League IV"
+    "id": 44000007,
+    "name": "Clay League III"
    }
   },
   {

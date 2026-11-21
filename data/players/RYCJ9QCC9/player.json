@@ -3,14 +3,14 @@
  "name": "DonJaw",
  "townHallLevel": 7,
  "expLevel": 28,
- "trophies": 294,
- "bestTrophies": 294,
+ "trophies": 303,
+ "bestTrophies": 303,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
- "builderHallLevel": 3,
- "builderBaseTrophies": 659,
- "bestBuilderBaseTrophies": 677,
+ "builderHallLevel": 4,
+ "builderBaseTrophies": 781,
+ "bestBuilderBaseTrophies": 781,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000006,
-  "name": "Clay League IV"
+  "id": 44000007,
+  "name": "Clay League III"
  },
  "currentLeagueGroupTag": "#98RCQ0P",
  "currentLeagueSeasonId": 1794805200,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 136,
+   "value": 139,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 136",
+   "completionInfo": "Total obstacles removed: 139",
    "village": "home"
   },
   {
@@ -109,10 +109,10 @@
   {
    "name": "Sweet Victory!",
    "stars": 1,
-   "value": 294,
+   "value": 303,
    "target": 750,
    "info": "Achieve a total of 750 trophies in Multiplayer battles",
-   "completionInfo": "Trophy record: 294",
+   "completionInfo": "Trophy record: 303",
    "village": "home"
   },
   {
@@ -271,10 +271,10 @@
   {
    "name": "Master Engineering",
    "stars": 1,
-   "value": 3,
+   "value": 4,
    "target": 5,
    "info": "Upgrade Builder Hall to level 5",
-   "completionInfo": "Current Builder Hall level: 3",
+   "completionInfo": "Current Builder Hall level: 4",
    "village": "builderBase"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 25,
+   "value": 29,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 25",
+   "completionInfo": "Total Builder Halls destroyed: 29",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 677,
+   "value": 781,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 677",
+   "completionInfo": "Builder Trophy record: 781",
    "village": "builderBase"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 7000,
+   "value": 7270,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 7000",
+   "completionInfo": "Total Season Challenges points: 7270",
    "village": "home"
   },
   {
@@ -669,7 +669,7 @@
   },
   {
    "name": "Sneaky Archer",
-   "level": 3,
+   "level": 4,
    "maxLevel": 20,
    "village": "builderBase"
   },
@@ -767,7 +767,7 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 5,
+   "level": 6,
    "maxLevel": 115,
    "village": "home"
   }
@@ -788,7 +788,7 @@
   },
   {
    "name": "Rage Spell",
-   "level": 1,
+   "level": 2,
    "maxLevel": 7,
    "village": "home"
   }

@@ -1,0 +1,120 @@
+{
+ "state": "ongoing",
+ "startTime": "20261120T070000.000Z",
+ "endTime": "20261123T070000.000Z",
+ "capitalTotalLoot": 5462,
+ "raidsCompleted": 0,
+ "totalAttacks": 6,
+ "enemyDistrictsDestroyed": 2,
+ "offensiveReward": 0,
+ "defensiveReward": 0,
+ "members": [
+  {
+   "tag": "#2Q2VY2YPQ",
+   "name": "NotMansonG",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 5462
+  }
+ ],
+ "attackLog": [
+  {
+   "defender": {
+    "tag": "#CPRPV8R9",
+    "name": "Ab Dalla",
+    "level": 9,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png"
+    }
+   },
+   "attackCount": 6,
+   "districtCount": 3,
+   "districtsDestroyed": 2,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2722,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 38,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 15,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 2740,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 73,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#2Q2VY2YPQ",
+        "name": "NotMansonG"
+       },
+       "destructionPercent": 25,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "defenseLog": []
+}

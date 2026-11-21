@@ -8,88 +8,6 @@
  "enemyDistrictsDestroyed": 14,
  "offensiveReward": 57,
  "defensiveReward": 0,
- "members": [
-  {
-   "tag": "#2P9G09YPU",
-   "name": "odin",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 6546
-  },
-  {
-   "tag": "#YGGUGY0QV",
-   "name": "xTheDenny",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 5704
-  },
-  {
-   "tag": "#LGR9CGL90",
-   "name": "Shish@ndo",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 6845
-  },
-  {
-   "tag": "#R8RYG9GUL",
-   "name": "Pscxll",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 6314
-  },
-  {
-   "tag": "#LL2PQ8VJC",
-   "name": "max",
-   "attacks": 5,
-   "attackLimit": 5,
-   "bonusAttackLimit": 0,
-   "capitalResourcesLooted": 2260
-  },
-  {
-   "tag": "#Q8VC02UQL",
-   "name": "Niels2612",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 5052
-  },
-  {
-   "tag": "#RPV0YJ2Q",
-   "name": "alex",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 6523
-  },
-  {
-   "tag": "#2Q2VY2YPQ",
-   "name": "NotMansonG",
-   "attacks": 4,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 3657
-  },
-  {
-   "tag": "#QU8QLPJVP",
-   "name": "KloppIhnUm",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 5603
-  },
-  {
-   "tag": "#PLYYQ00YL",
-   "name": "odin",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 5578
-  }
- ],
  "attackLog": [
   {
    "defender": {
@@ -113,49 +31,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 5,
-     "totalLooted": 4672,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#Q8VC02UQL",
-        "name": "Niels2612"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#Q8VC02UQL",
-        "name": "Niels2612"
-       },
-       "destructionPercent": 93,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#Q8VC02UQL",
-        "name": "Niels2612"
-       },
-       "destructionPercent": 50,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#2Q2VY2YPQ",
-        "name": "NotMansonG"
-       },
-       "destructionPercent": 36,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#2Q2VY2YPQ",
-        "name": "NotMansonG"
-       },
-       "destructionPercent": 19,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 4672
     },
     {
      "id": 70000001,
@@ -164,33 +40,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 2888,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#PLYYQ00YL",
-        "name": "odin"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#PLYYQ00YL",
-        "name": "odin"
-       },
-       "destructionPercent": 84,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#PLYYQ00YL",
-        "name": "odin"
-       },
-       "destructionPercent": 52,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 2888
     },
     {
      "id": 70000002,
@@ -199,41 +49,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 3682,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#2Q2VY2YPQ",
-        "name": "NotMansonG"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#2Q2VY2YPQ",
-        "name": "NotMansonG"
-       },
-       "destructionPercent": 52,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#R8RYG9GUL",
-        "name": "Pscxll"
-       },
-       "destructionPercent": 35,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#LL2PQ8VJC",
-        "name": "max"
-       },
-       "destructionPercent": 10,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3682
     }
    ]
   },
@@ -259,49 +75,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 5,
-     "totalLooted": 4359,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#YGGUGY0QV",
-        "name": "xTheDenny"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#YGGUGY0QV",
-        "name": "xTheDenny"
-       },
-       "destructionPercent": 57,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#YGGUGY0QV",
-        "name": "xTheDenny"
-       },
-       "destructionPercent": 43,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#YGGUGY0QV",
-        "name": "xTheDenny"
-       },
-       "destructionPercent": 41,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#YGGUGY0QV",
-        "name": "xTheDenny"
-       },
-       "destructionPercent": 31,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 4359
     },
     {
      "id": 70000001,
@@ -310,41 +84,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 3560,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R8RYG9GUL",
-        "name": "Pscxll"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#Q8VC02UQL",
-        "name": "Niels2612"
-       },
-       "destructionPercent": 66,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#Q8VC02UQL",
-        "name": "Niels2612"
-       },
-       "destructionPercent": 50,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#Q8VC02UQL",
-        "name": "Niels2612"
-       },
-       "destructionPercent": 19,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3560
     },
     {
      "id": 70000002,
@@ -353,41 +93,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 3489,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R8RYG9GUL",
-        "name": "Pscxll"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#R8RYG9GUL",
-        "name": "Pscxll"
-       },
-       "destructionPercent": 93,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#R8RYG9GUL",
-        "name": "Pscxll"
-       },
-       "destructionPercent": 59,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#R8RYG9GUL",
-        "name": "Pscxll"
-       },
-       "destructionPercent": 34,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3489
     }
    ]
   },
@@ -413,57 +119,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 6,
-     "totalLooted": 4487,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#RPV0YJ2Q",
-        "name": "alex"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#LL2PQ8VJC",
-        "name": "max"
-       },
-       "destructionPercent": 54,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#LL2PQ8VJC",
-        "name": "max"
-       },
-       "destructionPercent": 41,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#LL2PQ8VJC",
-        "name": "max"
-       },
-       "destructionPercent": 40,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#LL2PQ8VJC",
-        "name": "max"
-       },
-       "destructionPercent": 37,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#QU8QLPJVP",
-        "name": "KloppIhnUm"
-       },
-       "destructionPercent": 31,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 4487
     },
     {
      "id": 70000001,
@@ -472,33 +128,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 2866,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#QU8QLPJVP",
-        "name": "KloppIhnUm"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#QU8QLPJVP",
-        "name": "KloppIhnUm"
-       },
-       "destructionPercent": 76,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#YGGUGY0QV",
-        "name": "xTheDenny"
-       },
-       "destructionPercent": 52,
-       "stars": 2
-      }
-     ]
+     "totalLooted": 2866
     },
     {
      "id": 70000002,
@@ -507,33 +137,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 3342,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#QU8QLPJVP",
-        "name": "KloppIhnUm"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#QU8QLPJVP",
-        "name": "KloppIhnUm"
-       },
-       "destructionPercent": 82,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#QU8QLPJVP",
-        "name": "KloppIhnUm"
-       },
-       "destructionPercent": 41,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3342
     }
    ]
   },
@@ -559,41 +163,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 4456,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#LGR9CGL90",
-        "name": "Shish@ndo"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#LGR9CGL90",
-        "name": "Shish@ndo"
-       },
-       "destructionPercent": 82,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#LGR9CGL90",
-        "name": "Shish@ndo"
-       },
-       "destructionPercent": 58,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#LGR9CGL90",
-        "name": "Shish@ndo"
-       },
-       "destructionPercent": 43,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 4456
     },
     {
      "id": 70000001,
@@ -602,33 +172,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 3264,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#LGR9CGL90",
-        "name": "Shish@ndo"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#LGR9CGL90",
-        "name": "Shish@ndo"
-       },
-       "destructionPercent": 71,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#RPV0YJ2Q",
-        "name": "alex"
-       },
-       "destructionPercent": 32,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3264
     },
     {
      "id": 70000002,
@@ -637,41 +181,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 3781,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#RPV0YJ2Q",
-        "name": "alex"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#RPV0YJ2Q",
-        "name": "alex"
-       },
-       "destructionPercent": 91,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#RPV0YJ2Q",
-        "name": "alex"
-       },
-       "destructionPercent": 69,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#RPV0YJ2Q",
-        "name": "alex"
-       },
-       "destructionPercent": 37,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3781
     }
    ]
   },
@@ -697,25 +207,7 @@
      "destructionPercent": 48,
      "stars": 0,
      "attackCount": 2,
-     "totalLooted": 1450,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#2P9G09YPU",
-        "name": "odin"
-       },
-       "destructionPercent": 48,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#2P9G09YPU",
-        "name": "odin"
-       },
-       "destructionPercent": 23,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 1450
     },
     {
      "id": 70000001,
@@ -724,41 +216,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 4092,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#2P9G09YPU",
-        "name": "odin"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#PLYYQ00YL",
-        "name": "odin"
-       },
-       "destructionPercent": 71,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#PLYYQ00YL",
-        "name": "odin"
-       },
-       "destructionPercent": 50,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#PLYYQ00YL",
-        "name": "odin"
-       },
-       "destructionPercent": 25,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 4092
     },
     {
      "id": 70000002,
@@ -767,33 +225,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 3694,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#2P9G09YPU",
-        "name": "odin"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#2P9G09YPU",
-        "name": "odin"
-       },
-       "destructionPercent": 66,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#2P9G09YPU",
-        "name": "odin"
-       },
-       "destructionPercent": 27,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 3694
     }
    ]
   }

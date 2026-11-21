@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261120T070000.000Z",
  "endTime": "20261123T070000.000Z",
- "capitalTotalLoot": 183106,
+ "capitalTotalLoot": 197213,
  "raidsCompleted": 2,
- "totalAttacks": 46,
- "enemyDistrictsDestroyed": 16,
+ "totalAttacks": 50,
+ "enemyDistrictsDestroyed": 17,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -56,6 +56,22 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 23736
+  },
+  {
+   "tag": "#GJPY9CYC",
+   "name": "jv2703",
+   "attacks": 1,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 2050
+  },
+  {
+   "tag": "#G22P88JVG",
+   "name": "Jay",
+   "attacks": 3,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 12057
   },
   {
    "tag": "#Q9PGY90L8",
@@ -434,27 +450,63 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/nm1hksLLsBXNgJPPbCtSi7lQn3dQto4FtmnTQAGPd94.png"
     }
    },
-   "attackCount": 18,
+   "attackCount": 22,
    "districtCount": 9,
-   "districtsDestroyed": 7,
+   "districtsDestroyed": 8,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 10,
-     "destructionPercent": 0,
+     "destructionPercent": 21,
      "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "attackCount": 1,
+     "totalLooted": 2050,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GJPY9CYC",
+        "name": "jv2703"
+       },
+       "destructionPercent": 21,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 12057,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#G22P88JVG",
+        "name": "Jay"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#G22P88JVG",
+        "name": "Jay"
+       },
+       "destructionPercent": 93,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#G22P88JVG",
+        "name": "Jay"
+       },
+       "destructionPercent": 39,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000002,
@@ -1016,6 +1068,182 @@
        },
        "destructionPercent": 51,
        "stars": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "attacker": {
+    "tag": "#28GQC090G",
+    "name": "ROKING GUYES",
+    "level": 25,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/XEixYnctInx7A-Fq6XrK_gB2JJlezEZH2Ph8Dxvcp94.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/XEixYnctInx7A-Fq6XrK_gB2JJlezEZH2Ph8Dxvcp94.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/XEixYnctInx7A-Fq6XrK_gB2JJlezEZH2Ph8Dxvcp94.png"
+    }
+   },
+   "attackCount": 9,
+   "districtCount": 9,
+   "districtsDestroyed": 3,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 10,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000003,
+     "name": "Balloon Lagoon",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000004,
+     "name": "Builder's Workshop",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000005,
+     "name": "Dragon Cliffs",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000006,
+     "name": "Golem Quarry",
+     "districtHallLevel": 5,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11051,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8UYU9282L",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GVU8JVQJ9",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 52,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#GVU8JVQJ9",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 35,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000007,
+     "name": "Skeleton Park",
+     "districtHallLevel": 4,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11590,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8UYU9282L",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8UYU9282L",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 70,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#GVU8JVQJ9",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 41,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000008,
+     "name": "Goblin Mines",
+     "districtHallLevel": 4,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11822,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PR8VLLVYG",
+        "name": "Godzilla"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8UYU9282L",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 82,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#GVU8JVQJ9",
+        "name": "SUKHENDU"
+       },
+       "destructionPercent": 44,
+       "stars": 0
       }
      ]
     }
