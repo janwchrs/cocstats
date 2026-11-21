@@ -562,9 +562,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/8VW5-PC6hwjOM0Ws_Paka4g7TOMnUBjzoWz65xaMzcI.png"
     }
    },
-   "attackCount": 10,
+   "attackCount": 22,
    "districtCount": 9,
-   "districtsDestroyed": 4,
+   "districtsDestroyed": 7,
    "districts": [
     {
      "id": 70000000,
@@ -579,28 +579,114 @@
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11403,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#PR9R8Y09P",
+        "name": "tHe bEaSt"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PR9R8Y09P",
+        "name": "tHe bEaSt"
+       },
+       "destructionPercent": 69,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PR9R8Y09P",
+        "name": "tHe bEaSt"
+       },
+       "destructionPercent": 45,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#PR9R8Y09P",
+        "name": "tHe bEaSt"
+       },
+       "destructionPercent": 33,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 10283,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8JV2U9CUC",
+        "name": "january"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#PR9R8Y09P",
+        "name": "tHe bEaSt"
+       },
+       "destructionPercent": 53,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#PR9R8Y09P",
+        "name": "tHe bEaSt"
+       },
+       "destructionPercent": 28,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11211,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8JV2U9CUC",
+        "name": "january"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8JV2U9CUC",
+        "name": "january"
+       },
+       "destructionPercent": 90,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#8JV2U9CUC",
+        "name": "january"
+       },
+       "destructionPercent": 48,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000004,
@@ -633,10 +719,28 @@
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 62,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 5350,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8JV2U9CUC",
+        "name": "january"
+       },
+       "destructionPercent": 62,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#8JV2U9CUC",
+        "name": "january"
+       },
+       "destructionPercent": 44,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000006,

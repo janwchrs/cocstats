@@ -2,7 +2,7 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 27,
+ "expLevel": 28,
  "trophies": 294,
  "bestTrophies": 294,
  "warStars": 0,
@@ -46,10 +46,10 @@
   {
    "name": "Bigger Coffers",
    "stars": 3,
-   "value": 10,
+   "value": 11,
    "target": 10,
    "info": "Upgrade a Gold Storage to level 10",
-   "completionInfo": "Highest Gold Storage level: 10",
+   "completionInfo": "Highest Gold Storage level: 11",
    "village": "home"
   },
   {
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 135,
+   "value": 136,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 135",
+   "completionInfo": "Total obstacles removed: 136",
    "village": "home"
   },
   {
@@ -91,19 +91,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 12893102,
+   "value": 13653534,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 12893102",
+   "completionInfo": "Total Gold looted: 13653534",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 2,
-   "value": 12681791,
+   "value": 13172223,
    "target": 100000000,
    "info": "Steal 100000000 elixir",
-   "completionInfo": "Total Elixir looted: 12681791",
+   "completionInfo": "Total Elixir looted: 13172223",
    "village": "home"
   },
   {
@@ -127,37 +127,37 @@
   {
    "name": "Wall Buster",
    "stars": 1,
-   "value": 49,
+   "value": 50,
    "target": 100,
    "info": "Destroy 100 Walls in Multiplayer battles",
-   "completionInfo": "Total Walls destroyed: 49",
+   "completionInfo": "Total Walls destroyed: 50",
    "village": "home"
   },
   {
    "name": "Humiliator",
    "stars": 1,
-   "value": 62,
+   "value": 63,
    "target": 100,
    "info": "Destroy 100 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 62",
+   "completionInfo": "Total Town Halls destroyed: 63",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 1,
-   "value": 151,
+   "value": 153,
    "target": 250,
    "info": "Destroy 250 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 151",
+   "completionInfo": "Total Builder's Huts destroyed: 153",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 1,
-   "value": 68,
+   "value": 69,
    "target": 250,
    "info": "Win 250 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 68",
+   "completionInfo": "Total multiplayer battles won: 69",
    "village": "home"
   },
   {
@@ -181,19 +181,19 @@
   {
    "name": "Mortar Mauler",
    "stars": 1,
-   "value": 96,
+   "value": 98,
    "target": 500,
    "info": "Destroy 500 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 96",
+   "completionInfo": "Total Mortars destroyed: 98",
    "village": "home"
   },
   {
    "name": "Heroic Heist",
    "stars": 0,
-   "value": 11951,
+   "value": 12581,
    "target": 20000,
    "info": "Steal 20000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 11951",
+   "completionInfo": "Total Dark Elixir looted: 12581",
    "village": "home"
   },
   {
@@ -235,10 +235,10 @@
   {
    "name": "Clan War Wealth",
    "stars": 1,
-   "value": 2615539,
+   "value": 3646909,
    "target": 15000000,
    "info": "Collect 15000000 Gold from the Clan Castle",
-   "completionInfo": "Total Gold collected in Clan War bonuses: 2615539",
+   "completionInfo": "Total Gold collected in Clan War bonuses: 3646909",
    "village": "home"
   },
   {
@@ -591,7 +591,7 @@
   },
   {
    "name": "Goblin",
-   "level": 3,
+   "level": 4,
    "maxLevel": 11,
    "village": "home"
   },
@@ -669,7 +669,7 @@
   },
   {
    "name": "Sneaky Archer",
-   "level": 2,
+   "level": 3,
    "maxLevel": 20,
    "village": "builderBase"
   },
@@ -784,6 +784,12 @@
    "name": "Healing Spell",
    "level": 1,
    "maxLevel": 13,
+   "village": "home"
+  },
+  {
+   "name": "Rage Spell",
+   "level": 1,
+   "maxLevel": 7,
    "village": "home"
   }
  ]
