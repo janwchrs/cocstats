@@ -2,13 +2,21 @@
  "state": "ongoing",
  "startTime": "20261120T070000.000Z",
  "endTime": "20261123T070000.000Z",
- "capitalTotalLoot": 22407,
+ "capitalTotalLoot": 30506,
  "raidsCompleted": 2,
- "totalAttacks": 23,
- "enemyDistrictsDestroyed": 6,
+ "totalAttacks": 33,
+ "enemyDistrictsDestroyed": 8,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
+  {
+   "tag": "#YGGUGY0QV",
+   "name": "xTheDenny",
+   "attacks": 4,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 2720
+  },
   {
    "tag": "#LGR9CGL90",
    "name": "Shish@ndo",
@@ -24,6 +32,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 5953
+  },
+  {
+   "tag": "#R000LP9C8",
+   "name": "jockersss",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 5379
   },
   {
    "tag": "#Q8VC02UQL",
@@ -322,28 +338,78 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/Ogaf-VZ3fvjjA4odXW6XcYln3Tt5yJXuizh5Fs-viR8.png"
     }
    },
-   "attackCount": 2,
+   "attackCount": 12,
    "districtCount": 3,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 2,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 3,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 64,
+     "stars": 2,
+     "attackCount": 4,
+     "totalLooted": 2720,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 64,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 47,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 36,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#YGGUGY0QV",
+        "name": "xTheDenny"
+       },
+       "destructionPercent": 24,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 2,
-     "destructionPercent": 49,
-     "stars": 0,
-     "attackCount": 2,
-     "totalLooted": 1265,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 2896,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#R000LP9C8",
+        "name": "jockersss"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#R000LP9C8",
+        "name": "jockersss"
+       },
+       "destructionPercent": 95,
+       "stars": 2
+      },
       {
        "attacker": {
         "tag": "#Q8VC02UQL",
@@ -366,10 +432,44 @@
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 1,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 3748,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#R000LP9C8",
+        "name": "jockersss"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#R000LP9C8",
+        "name": "jockersss"
+       },
+       "destructionPercent": 71,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#R000LP9C8",
+        "name": "jockersss"
+       },
+       "destructionPercent": 42,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#R000LP9C8",
+        "name": "jockersss"
+       },
+       "destructionPercent": 22,
+       "stars": 0
+      }
+     ]
     }
    ]
   }

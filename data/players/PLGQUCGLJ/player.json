@@ -15,7 +15,7 @@
  "role": "member",
  "warPreference": "out",
  "donations": 175,
- "donationsReceived": 219,
+ "donationsReceived": 272,
  "clanCapitalContributions": 2288896,
  "clan": {
   "tag": "#2YJQVPGLR",
@@ -85,10 +85,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 3,
-   "value": 5533,
+   "value": 5534,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 5533",
+   "completionInfo": "Total obstacles removed: 5534",
    "village": "home"
   },
   {
@@ -373,10 +373,10 @@
   {
    "name": "Well Seasoned",
    "stars": 3,
-   "value": 150080,
+   "value": 150130,
    "target": 50000,
    "info": "Earn 50000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 150080",
+   "completionInfo": "Total Season Challenges points: 150130",
    "village": "home"
   },
   {

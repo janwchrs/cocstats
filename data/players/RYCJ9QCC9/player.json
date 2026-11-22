@@ -2,7 +2,7 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 29,
+ "expLevel": 30,
  "trophies": 303,
  "bestTrophies": 303,
  "warStars": 0,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 140,
+   "value": 143,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 140",
+   "completionInfo": "Total obstacles removed: 143",
    "village": "home"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 7320,
+   "value": 7520,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 7320",
+   "completionInfo": "Total Season Challenges points: 7520",
    "village": "home"
   },
   {
@@ -767,7 +767,7 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 6,
+   "level": 7,
    "maxLevel": 115,
    "village": "home"
   }

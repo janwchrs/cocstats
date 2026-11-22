@@ -1,5 +1,5 @@
 {
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 5,
  "attacksPerMember": 2,
  "battleModifier": "none",
@@ -15,7 +15,7 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
   },
   "clanLevel": 19,
-  "attacks": 6,
+  "attacks": 7,
   "stars": 12,
   "destructionPercentage": 86.8,
   "members": [
@@ -140,6 +140,16 @@
     "name": "Pizza-Bär",
     "townhallLevel": 14,
     "mapPosition": 5,
+    "attacks": [
+     {
+      "attackerTag": "#GQRJVGRQY",
+      "defenderTag": "#GQRJYLUC",
+      "stars": 2,
+      "destructionPercentage": 50,
+      "order": 17,
+      "duration": 180
+     }
+    ],
     "opponentAttacks": 1,
     "bestOpponentAttack": {
      "attackerTag": "#GQRJYLUC",
@@ -254,7 +264,7 @@
       "duration": 180
      }
     ],
-    "opponentAttacks": 2,
+    "opponentAttacks": 3,
     "bestOpponentAttack": {
      "attackerTag": "#R9YRLGGV",
      "defenderTag": "#GQRJYLUC",

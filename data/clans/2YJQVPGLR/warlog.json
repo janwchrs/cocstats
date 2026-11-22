@@ -1,6 +1,39 @@
 [
  {
   "result": "lose",
+  "endTime": "20261122T194236.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 7,
+   "stars": 12,
+   "destructionPercentage": 86.8,
+   "expEarned": 109
+  },
+  "opponent": {
+   "tag": "#88UPPCCQ",
+   "name": "ogres occitans",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png"
+   },
+   "clanLevel": 29,
+   "stars": 13,
+   "destructionPercentage": 88.6
+  }
+ },
+ {
+  "result": "lose",
   "endTime": "20261118T185647.000Z",
   "teamSize": 10,
   "attacksPerMember": 2,
