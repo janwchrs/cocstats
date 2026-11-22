@@ -15,9 +15,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
   },
   "clanLevel": 19,
-  "attacks": 4,
-  "stars": 7,
-  "destructionPercentage": 52.4,
+  "attacks": 6,
+  "stars": 12,
+  "destructionPercentage": 86.8,
   "members": [
    {
     "tag": "#R2CGJJLJ",
@@ -34,14 +34,14 @@
       "duration": 117
      }
     ],
-    "opponentAttacks": 1,
+    "opponentAttacks": 2,
     "bestOpponentAttack": {
-     "attackerTag": "#GQRJYLUC",
+     "attackerTag": "#20YUC0GGY",
      "defenderTag": "#R2CGJJLJ",
-     "stars": 1,
-     "destructionPercentage": 91,
-     "order": 2,
-     "duration": 180
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 11,
+     "duration": 132
     }
    },
    {
@@ -49,7 +49,25 @@
     "name": "kessmack",
     "townhallLevel": 19,
     "mapPosition": 1,
-    "opponentAttacks": 0
+    "attacks": [
+     {
+      "attackerTag": "#Q0R92PVC",
+      "defenderTag": "#CP8U298U",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 12,
+      "duration": 168
+     }
+    ],
+    "opponentAttacks": 3,
+    "bestOpponentAttack": {
+     "attackerTag": "#G9G2YRG",
+     "defenderTag": "#Q0R92PVC",
+     "stars": 2,
+     "destructionPercentage": 80,
+     "order": 16,
+     "duration": 110
+    }
    },
    {
     "tag": "#R9YRLGGV",
@@ -74,7 +92,15 @@
       "duration": 180
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 3,
+    "bestOpponentAttack": {
+     "attackerTag": "#2GPGJR8R0",
+     "defenderTag": "#R9YRLGGV",
+     "stars": 2,
+     "destructionPercentage": 63,
+     "order": 8,
+     "duration": 116
+    }
    },
    {
     "tag": "#Q9PGY90L8",
@@ -89,9 +115,25 @@
       "destructionPercentage": 94,
       "order": 3,
       "duration": 159
+     },
+     {
+      "attackerTag": "#Q9PGY90L8",
+      "defenderTag": "#2GPGJR8R0",
+      "stars": 2,
+      "destructionPercentage": 72,
+      "order": 7,
+      "duration": 121
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#20YUC0GGY",
+     "defenderTag": "#Q9PGY90L8",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 10,
+     "duration": 85
+    }
    },
    {
     "tag": "#GQRJVGRQY",
@@ -119,15 +161,33 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png"
   },
   "clanLevel": 29,
-  "attacks": 2,
-  "stars": 4,
-  "destructionPercentage": 38.2,
+  "attacks": 10,
+  "stars": 13,
+  "destructionPercentage": 88.6,
   "members": [
    {
     "tag": "#20YUC0GGY",
     "name": "¥lipstick¥",
     "townhallLevel": 17,
     "mapPosition": 4,
+    "attacks": [
+     {
+      "attackerTag": "#20YUC0GGY",
+      "defenderTag": "#Q9PGY90L8",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 10,
+      "duration": 85
+     },
+     {
+      "attackerTag": "#20YUC0GGY",
+      "defenderTag": "#R2CGJJLJ",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 11,
+      "duration": 132
+     }
+    ],
     "opponentAttacks": 1,
     "bestOpponentAttack": {
      "attackerTag": "#R2CGJJLJ",
@@ -143,7 +203,33 @@
     "name": "tine la maligne",
     "townhallLevel": 18,
     "mapPosition": 2,
-    "opponentAttacks": 0
+    "attacks": [
+     {
+      "attackerTag": "#2GPGJR8R0",
+      "defenderTag": "#R9YRLGGV",
+      "stars": 2,
+      "destructionPercentage": 63,
+      "order": 8,
+      "duration": 116
+     },
+     {
+      "attackerTag": "#2GPGJR8R0",
+      "defenderTag": "#Q0R92PVC",
+      "stars": 2,
+      "destructionPercentage": 57,
+      "order": 9,
+      "duration": 116
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Q9PGY90L8",
+     "defenderTag": "#2GPGJR8R0",
+     "stars": 2,
+     "destructionPercentage": 72,
+     "order": 7,
+     "duration": 121
+    }
    },
    {
     "tag": "#GQRJYLUC",
@@ -183,13 +269,57 @@
     "name": "padagsid",
     "townhallLevel": 19,
     "mapPosition": 1,
-    "opponentAttacks": 0
+    "attacks": [
+     {
+      "attackerTag": "#CP8U298U",
+      "defenderTag": "#Q0R92PVC",
+      "stars": 1,
+      "destructionPercentage": 69,
+      "order": 13,
+      "duration": 102
+     },
+     {
+      "attackerTag": "#CP8U298U",
+      "defenderTag": "#R9YRLGGV",
+      "stars": 1,
+      "destructionPercentage": 45,
+      "order": 14,
+      "duration": 78
+     }
+    ],
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#Q0R92PVC",
+     "defenderTag": "#CP8U298U",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 12,
+     "duration": 168
+    }
    },
    {
     "tag": "#G9G2YRG",
     "name": "sid le kid",
     "townhallLevel": 18,
     "mapPosition": 3,
+    "attacks": [
+     {
+      "attackerTag": "#G9G2YRG",
+      "defenderTag": "#R9YRLGGV",
+      "stars": 2,
+      "destructionPercentage": 59,
+      "order": 15,
+      "duration": 119
+     },
+     {
+      "attackerTag": "#G9G2YRG",
+      "defenderTag": "#Q0R92PVC",
+      "stars": 2,
+      "destructionPercentage": 80,
+      "order": 16,
+      "duration": 110
+     }
+    ],
     "opponentAttacks": 1,
     "bestOpponentAttack": {
      "attackerTag": "#R9YRLGGV",

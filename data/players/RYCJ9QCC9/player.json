@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 7270,
+   "value": 7320,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 7270",
+   "completionInfo": "Total Season Challenges points: 7320",
    "village": "home"
   },
   {
@@ -603,7 +603,7 @@
   },
   {
    "name": "Wall Breaker",
-   "level": 3,
+   "level": 4,
    "maxLevel": 15,
    "village": "home"
   },

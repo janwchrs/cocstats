@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 90750,
- "clanBuilderBasePoints": 34656,
+ "clanBuilderBasePoints": 34708,
  "clanCapitalPoints": 2671,
  "capitalLeague": {
   "id": 85000013,
@@ -34,7 +34,7 @@
   "id": 48000013,
   "name": "Master League III"
  },
- "members": 48,
+ "members": 49,
  "memberList": [
   {
    "tag": "#G22P88JVG",
@@ -63,7 +63,7 @@
    "builderBaseTrophies": 3782,
    "clanRank": 1,
    "previousClanRank": 1,
-   "donations": 1302,
+   "donations": 1379,
    "donationsReceived": 531,
    "playerHouse": {
     "elements": [
@@ -432,7 +432,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 320,
+   "trophies": 352,
    "builderBaseTrophies": 3187,
    "clanRank": 8,
    "previousClanRank": 8,
@@ -486,11 +486,11 @@
     }
    },
    "trophies": 419,
-   "builderBaseTrophies": 3518,
+   "builderBaseTrophies": 3527,
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 559,
-   "donationsReceived": 2543,
+   "donationsReceived": 2723,
    "playerHouse": {
     "elements": [
      {
@@ -538,7 +538,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
     }
    },
-   "trophies": 163,
+   "trophies": 320,
    "builderBaseTrophies": 2907,
    "clanRank": 10,
    "previousClanRank": 10,
@@ -644,11 +644,11 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
     }
    },
-   "trophies": 147,
+   "trophies": 166,
    "builderBaseTrophies": 3331,
    "clanRank": 12,
    "previousClanRank": 12,
-   "donations": 806,
+   "donations": 863,
    "donationsReceived": 208,
    "playerHouse": {
     "elements": [
@@ -860,7 +860,7 @@
    "builderBaseTrophies": 3090,
    "clanRank": 16,
    "previousClanRank": 16,
-   "donations": 590,
+   "donations": 625,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -913,7 +913,7 @@
    "builderBaseTrophies": 2854,
    "clanRank": 17,
    "previousClanRank": 17,
-   "donations": 0,
+   "donations": 54,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -1015,7 +1015,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 495,
+   "trophies": 515,
    "builderBaseTrophies": 3007,
    "clanRank": 19,
    "previousClanRank": 19,
@@ -1232,7 +1232,7 @@
    "builderBaseTrophies": 3506,
    "clanRank": 23,
    "previousClanRank": 23,
-   "donations": 0,
+   "donations": 34,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -2302,6 +2302,59 @@
    }
   },
   {
+   "tag": "#GY80CUJPP",
+   "name": "boss",
+   "role": "member",
+   "townHallLevel": 16,
+   "expLevel": 82,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 1621,
+   "clanRank": 44,
+   "previousClanRank": 0,
+   "donations": 0,
+   "donationsReceived": 77,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000052
+     },
+     {
+      "type": "roof",
+      "id": 82000034
+     },
+     {
+      "type": "decoration",
+      "id": 82000138
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000016,
+    "name": "Copper League IV"
+   }
+  },
+  {
    "tag": "#GJPY9CYC",
    "name": "jv2703",
    "role": "member",
@@ -2325,7 +2378,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 3400,
-   "clanRank": 44,
+   "clanRank": 45,
    "previousClanRank": 44,
    "donations": 0,
    "donationsReceived": 0,
@@ -2378,7 +2431,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2504,
-   "clanRank": 45,
+   "clanRank": 46,
    "previousClanRank": 45,
    "donations": 340,
    "donationsReceived": 0,
@@ -2431,7 +2484,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2974,
-   "clanRank": 46,
+   "clanRank": 47,
    "previousClanRank": 46,
    "donations": 0,
    "donationsReceived": 0,
@@ -2484,7 +2537,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2452,
-   "clanRank": 47,
+   "clanRank": 48,
    "previousClanRank": 47,
    "donations": 0,
    "donationsReceived": 0,
@@ -2537,7 +2590,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 2814,
-   "clanRank": 48,
+   "clanRank": 49,
    "previousClanRank": 48,
    "donations": 143,
    "donationsReceived": 0,
