@@ -2,15 +2,15 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 28,
+ "expLevel": 29,
  "trophies": 303,
  "bestTrophies": 303,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 4,
- "builderBaseTrophies": 781,
- "bestBuilderBaseTrophies": 781,
+ "builderBaseTrophies": 902,
+ "bestBuilderBaseTrophies": 902,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000007,
-  "name": "Clay League III"
+  "id": 44000009,
+  "name": "Clay League I"
  },
  "currentLeagueGroupTag": "#98RCQ0P",
  "currentLeagueSeasonId": 1794805200,
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 29,
+   "value": 33,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 29",
+   "completionInfo": "Total Builder Halls destroyed: 33",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 781,
+   "value": 902,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 781",
+   "completionInfo": "Builder Trophy record: 902",
    "village": "builderBase"
   },
   {

@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 37600,
- "clanBuilderBasePoints": 23833,
+ "clanBuilderBasePoints": 23848,
  "clanCapitalPoints": 419,
  "capitalLeague": {
   "id": 85000002,
@@ -168,7 +168,7 @@
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
-   "donations": 60,
+   "donations": 147,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -487,7 +487,7 @@
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 0,
-   "donationsReceived": 612,
+   "donationsReceived": 699,
    "playerHouse": {
     "elements": [
      {
@@ -730,7 +730,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 28,
+   "expLevel": 29,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -748,7 +748,7 @@
     }
    },
    "trophies": 303,
-   "builderBaseTrophies": 781,
+   "builderBaseTrophies": 902,
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 0,
@@ -774,8 +774,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000007,
-    "name": "Clay League III"
+    "id": 44000009,
+    "name": "Clay League I"
    }
   },
   {

@@ -1084,9 +1084,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/XEixYnctInx7A-Fq6XrK_gB2JJlezEZH2Ph8Dxvcp94.png"
     }
    },
-   "attackCount": 9,
+   "attackCount": 14,
    "districtCount": 9,
-   "districtsDestroyed": 3,
+   "districtsDestroyed": 5,
    "districts": [
     {
      "id": 70000000,
@@ -1119,19 +1119,63 @@
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11088,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#YRLU00L82",
+        "name": "saurabh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#YRLU00L82",
+        "name": "saurabh"
+       },
+       "destructionPercent": 74,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#YRLU00L82",
+        "name": "saurabh"
+       },
+       "destructionPercent": 51,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000004,
      "name": "Builder's Workshop",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 11066,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#YRLU00L82",
+        "name": "saurabh"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#YRLU00L82",
+        "name": "saurabh"
+       },
+       "destructionPercent": 52,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000005,
