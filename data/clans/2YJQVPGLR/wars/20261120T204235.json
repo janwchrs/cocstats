@@ -15,15 +15,25 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
   },
   "clanLevel": 19,
-  "attacks": 1,
-  "stars": 1,
-  "destructionPercentage": 18.8,
+  "attacks": 4,
+  "stars": 7,
+  "destructionPercentage": 52.4,
   "members": [
    {
     "tag": "#R2CGJJLJ",
     "name": "Iris",
     "townhallLevel": 18,
     "mapPosition": 3,
+    "attacks": [
+     {
+      "attackerTag": "#R2CGJJLJ",
+      "defenderTag": "#20YUC0GGY",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 4,
+      "duration": 117
+     }
+    ],
     "opponentAttacks": 1,
     "bestOpponentAttack": {
      "attackerTag": "#GQRJYLUC",
@@ -46,6 +56,24 @@
     "name": "William Wallace",
     "townhallLevel": 18,
     "mapPosition": 2,
+    "attacks": [
+     {
+      "attackerTag": "#R9YRLGGV",
+      "defenderTag": "#G9G2YRG",
+      "stars": 2,
+      "destructionPercentage": 67,
+      "order": 5,
+      "duration": 141
+     },
+     {
+      "attackerTag": "#R9YRLGGV",
+      "defenderTag": "#GQRJYLUC",
+      "stars": 2,
+      "destructionPercentage": 95,
+      "order": 6,
+      "duration": 180
+     }
+    ],
     "opponentAttacks": 0
    },
    {
@@ -100,7 +128,15 @@
     "name": "¥lipstick¥",
     "townhallLevel": 17,
     "mapPosition": 4,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#R2CGJJLJ",
+     "defenderTag": "#20YUC0GGY",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 4,
+     "duration": 117
+    }
    },
    {
     "tag": "#2GPGJR8R0",
@@ -132,14 +168,14 @@
       "duration": 180
      }
     ],
-    "opponentAttacks": 1,
+    "opponentAttacks": 2,
     "bestOpponentAttack": {
-     "attackerTag": "#Q9PGY90L8",
+     "attackerTag": "#R9YRLGGV",
      "defenderTag": "#GQRJYLUC",
-     "stars": 1,
-     "destructionPercentage": 94,
-     "order": 3,
-     "duration": 159
+     "stars": 2,
+     "destructionPercentage": 95,
+     "order": 6,
+     "duration": 180
     }
    },
    {
@@ -154,7 +190,15 @@
     "name": "sid le kid",
     "townhallLevel": 18,
     "mapPosition": 3,
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#R9YRLGGV",
+     "defenderTag": "#G9G2YRG",
+     "stars": 2,
+     "destructionPercentage": 67,
+     "order": 5,
+     "duration": 141
+    }
    }
   ]
  }

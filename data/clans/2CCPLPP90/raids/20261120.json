@@ -2,13 +2,21 @@
  "state": "ongoing",
  "startTime": "20261120T070000.000Z",
  "endTime": "20261123T070000.000Z",
- "capitalTotalLoot": 5462,
- "raidsCompleted": 0,
- "totalAttacks": 6,
- "enemyDistrictsDestroyed": 2,
+ "capitalTotalLoot": 11415,
+ "raidsCompleted": 1,
+ "totalAttacks": 12,
+ "enemyDistrictsDestroyed": 3,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
+  {
+   "tag": "#LYPGJ8Q90",
+   "name": "x man seabo",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 5953
+  },
   {
    "tag": "#2Q2VY2YPQ",
    "name": "NotMansonG",
@@ -30,18 +38,52 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/s1Cg1o258DxyjX-krYAsNgRGc_zDYZl_o4LVfAoAIkM.png"
     }
    },
-   "attackCount": 6,
+   "attackCount": 10,
    "districtCount": 3,
-   "districtsDestroyed": 2,
+   "districtsDestroyed": 3,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 3,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 4513,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LYPGJ8Q90",
+        "name": "x man seabo"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#LYPGJ8Q90",
+        "name": "x man seabo"
+       },
+       "destructionPercent": 93,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#LYPGJ8Q90",
+        "name": "x man seabo"
+       },
+       "destructionPercent": 68,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#LYPGJ8Q90",
+        "name": "x man seabo"
+       },
+       "destructionPercent": 40,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
@@ -109,6 +151,68 @@
         "name": "NotMansonG"
        },
        "destructionPercent": 25,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "defender": {
+    "tag": "#22YJUGP2U",
+    "name": "NekoPoi",
+    "level": 9,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/PM0D2VgKrFFKWnwW9PNwFyFCZHTfxAeq9OG8ZK9LEJs.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/PM0D2VgKrFFKWnwW9PNwFyFCZHTfxAeq9OG8ZK9LEJs.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/PM0D2VgKrFFKWnwW9PNwFyFCZHTfxAeq9OG8ZK9LEJs.png"
+    }
+   },
+   "attackCount": 2,
+   "districtCount": 3,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 3,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 2,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 1,
+     "destructionPercent": 57,
+     "stars": 1,
+     "attackCount": 2,
+     "totalLooted": 1440,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LYPGJ8Q90",
+        "name": "x man seabo"
+       },
+       "destructionPercent": 57,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#LYPGJ8Q90",
+        "name": "x man seabo"
+       },
+       "destructionPercent": 35,
        "stars": 0
       }
      ]

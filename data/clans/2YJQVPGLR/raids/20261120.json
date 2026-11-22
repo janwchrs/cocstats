@@ -1084,9 +1084,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/XEixYnctInx7A-Fq6XrK_gB2JJlezEZH2Ph8Dxvcp94.png"
     }
    },
-   "attackCount": 14,
+   "attackCount": 20,
    "districtCount": 9,
-   "districtsDestroyed": 5,
+   "districtsDestroyed": 7,
    "districts": [
     {
      "id": 70000000,
@@ -1110,10 +1110,28 @@
      "id": 70000002,
      "name": "Wizard Valley",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 2,
+     "totalLooted": 10085,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#YUGUPLQCG",
+        "name": "Baadsha"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#YUGUPLQCG",
+        "name": "Baadsha"
+       },
+       "destructionPercent": 45,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000003,
@@ -1181,10 +1199,44 @@
      "id": 70000005,
      "name": "Dragon Cliffs",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11628,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#92Q20Q092",
+        "name": "choco"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#92Q20Q092",
+        "name": "choco"
+       },
+       "destructionPercent": 84,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#92Q20Q092",
+        "name": "choco"
+       },
+       "destructionPercent": 75,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#92Q20Q092",
+        "name": "choco"
+       },
+       "destructionPercent": 58,
+       "stars": 2
+      }
+     ]
     },
     {
      "id": 70000006,
