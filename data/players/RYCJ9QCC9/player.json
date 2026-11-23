@@ -2,15 +2,15 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 30,
+ "expLevel": 31,
  "trophies": 0,
  "bestTrophies": 303,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 4,
- "builderBaseTrophies": 902,
- "bestBuilderBaseTrophies": 902,
+ "builderBaseTrophies": 990,
+ "bestBuilderBaseTrophies": 993,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 143,
+   "value": 145,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 143",
+   "completionInfo": "Total obstacles removed: 145",
    "village": "home"
   },
   {
@@ -91,19 +91,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 14625347,
+   "value": 15537171,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 14625347",
+   "completionInfo": "Total Gold looted: 15537171",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 2,
-   "value": 14147378,
+   "value": 15083509,
    "target": 100000000,
    "info": "Steal 100000000 elixir",
-   "completionInfo": "Total Elixir looted: 14147378",
+   "completionInfo": "Total Elixir looted: 15083509",
    "village": "home"
   },
   {
@@ -127,46 +127,46 @@
   {
    "name": "Wall Buster",
    "stars": 1,
-   "value": 52,
+   "value": 53,
    "target": 100,
    "info": "Destroy 100 Walls in Multiplayer battles",
-   "completionInfo": "Total Walls destroyed: 52",
+   "completionInfo": "Total Walls destroyed: 53",
    "village": "home"
   },
   {
    "name": "Humiliator",
    "stars": 1,
-   "value": 64,
+   "value": 66,
    "target": 100,
    "info": "Destroy 100 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 64",
+   "completionInfo": "Total Town Halls destroyed: 66",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 1,
-   "value": 156,
+   "value": 162,
    "target": 250,
    "info": "Destroy 250 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 156",
+   "completionInfo": "Total Builder's Huts destroyed: 162",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 1,
-   "value": 71,
+   "value": 73,
    "target": 250,
    "info": "Win 250 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 71",
+   "completionInfo": "Total multiplayer battles won: 73",
    "village": "home"
   },
   {
    "name": "Unbreakable",
    "stars": 0,
-   "value": 3,
+   "value": 4,
    "target": 10,
    "info": "Successfully defend against 10 attacks",
-   "completionInfo": "Total defenses won: 3",
+   "completionInfo": "Total defenses won: 4",
    "village": "home"
   },
   {
@@ -181,19 +181,19 @@
   {
    "name": "Mortar Mauler",
    "stars": 1,
-   "value": 104,
+   "value": 110,
    "target": 500,
    "info": "Destroy 500 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 104",
+   "completionInfo": "Total Mortars destroyed: 110",
    "village": "home"
   },
   {
    "name": "Heroic Heist",
    "stars": 0,
-   "value": 15499,
+   "value": 18773,
    "target": 20000,
    "info": "Steal 20000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 15499",
+   "completionInfo": "Total Dark Elixir looted: 18773",
    "village": "home"
   },
   {
@@ -235,10 +235,10 @@
   {
    "name": "Clan War Wealth",
    "stars": 1,
-   "value": 4332478,
+   "value": 5394830,
    "target": 15000000,
    "info": "Collect 15000000 Gold from the Clan Castle",
-   "completionInfo": "Total Gold collected in Clan War bonuses: 4332478",
+   "completionInfo": "Total Gold collected in Clan War bonuses: 5394830",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 33,
+   "value": 37,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 33",
+   "completionInfo": "Total Builder Halls destroyed: 37",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 1,
-   "value": 902,
+   "value": 993,
    "target": 1000,
    "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 902",
+   "completionInfo": "Builder Trophy record: 993",
    "village": "builderBase"
   },
   {
@@ -325,10 +325,10 @@
   {
    "name": "Games Champion",
    "stars": 0,
-   "value": 0,
+   "value": 1700,
    "target": 10000,
    "info": "Earn 10000 points in Clan Games",
-   "completionInfo": "Total Clan Games points: 0",
+   "completionInfo": "Total Clan Games points: 1700",
    "village": "home"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 7520,
+   "value": 8170,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 7520",
+   "completionInfo": "Total Season Challenges points: 8170",
    "village": "home"
   },
   {
@@ -523,7 +523,7 @@
   {
    "name": "League Master",
    "stars": 0,
-   "value": 1,
+   "value": 2,
    "target": 32,
    "info": "Reach League Electro 32",
    "completionInfo": null,
@@ -638,6 +638,12 @@
    "village": "home"
   },
   {
+   "name": "Hog Rider",
+   "level": 1,
+   "maxLevel": 16,
+   "village": "home"
+  },
+  {
    "name": "Super Barbarian",
    "level": 1,
    "maxLevel": 10,
@@ -663,7 +669,7 @@
   },
   {
    "name": "Raged Barbarian",
-   "level": 2,
+   "level": 3,
    "maxLevel": 20,
    "village": "builderBase"
   },
