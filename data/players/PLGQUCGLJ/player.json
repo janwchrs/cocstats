@@ -3,8 +3,8 @@
  "name": "jajaja",
  "townHallLevel": 16,
  "townHallWeaponLevel": 1,
- "expLevel": 210,
- "trophies": 562,
+ "expLevel": 211,
+ "trophies": 0,
  "bestTrophies": 5073,
  "warStars": 283,
  "attackWins": 0,
@@ -28,11 +28,11 @@
   }
  },
  "leagueTier": {
-  "id": 105000021,
-  "name": "Golem League 21",
+  "id": 105000022,
+  "name": "P.E.K.K.A League 22",
   "iconUrls": {
-   "small": "https://api-assets.clashofclans.com/leaguetiers/125/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
-   "large": "https://api-assets.clashofclans.com/leaguetiers/326/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png"
+   "small": "https://api-assets.clashofclans.com/leaguetiers/125/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png",
+   "large": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png"
   }
  },
  "builderBaseLeague": {
@@ -47,13 +47,13 @@
    "trophies": 5011
   },
   "currentSeason": {
-   "trophies": 562
+   "trophies": 0
   }
  },
- "currentLeagueGroupTag": "#98PYJ92",
- "currentLeagueSeasonId": 1794805200,
- "previousLeagueGroupTag": "#92VURYJ",
- "previousLeagueSeasonId": 1794200400,
+ "currentLeagueGroupTag": "#98R2LUJ",
+ "currentLeagueSeasonId": 1795410000,
+ "previousLeagueGroupTag": "#98PYJ92",
+ "previousLeagueSeasonId": 1794805200,
  "achievements": [
   {
    "name": "Bigger Coffers",

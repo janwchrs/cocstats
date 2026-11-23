@@ -3,7 +3,7 @@
  "name": "DonJaw",
  "townHallLevel": 7,
  "expLevel": 30,
- "trophies": 303,
+ "trophies": 0,
  "bestTrophies": 303,
  "warStars": 0,
  "attackWins": 0,
@@ -27,21 +27,21 @@
   }
  },
  "leagueTier": {
-  "id": 105000001,
-  "name": "Skeleton League 1",
+  "id": 105000002,
+  "name": "Skeleton League 2",
   "iconUrls": {
-   "small": "https://api-assets.clashofclans.com/leaguetiers/125/CiSJYHyhMuloCpIIJ3n5-xCnRWrEd9vcq_zu6Ahkl3o.png",
-   "large": "https://api-assets.clashofclans.com/leaguetiers/326/CiSJYHyhMuloCpIIJ3n5-xCnRWrEd9vcq_zu6Ahkl3o.png"
+   "small": "https://api-assets.clashofclans.com/leaguetiers/125/CmM-Tihn6ojPGJstmTK_HC-QairrpYLyRhdKhQjkacQ.png",
+   "large": "https://api-assets.clashofclans.com/leaguetiers/326/CmM-Tihn6ojPGJstmTK_HC-QairrpYLyRhdKhQjkacQ.png"
   }
  },
  "builderBaseLeague": {
   "id": 44000009,
   "name": "Clay League I"
  },
- "currentLeagueGroupTag": "#98RCQ0P",
- "currentLeagueSeasonId": 1794805200,
- "previousLeagueGroupTag": "#0",
- "previousLeagueSeasonId": 1794922048,
+ "currentLeagueGroupTag": "#98JUC8L",
+ "currentLeagueSeasonId": 1795410000,
+ "previousLeagueGroupTag": "#98RCQ0P",
+ "previousLeagueSeasonId": 1794805200,
  "achievements": [
   {
    "name": "Bigger Coffers",

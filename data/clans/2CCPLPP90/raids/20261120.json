@@ -1,12 +1,12 @@
 {
- "state": "ongoing",
+ "state": "ended",
  "startTime": "20261120T070000.000Z",
  "endTime": "20261123T070000.000Z",
  "capitalTotalLoot": 30506,
  "raidsCompleted": 2,
  "totalAttacks": 33,
  "enemyDistrictsDestroyed": 8,
- "offensiveReward": 0,
+ "offensiveReward": 55,
  "defensiveReward": 0,
  "members": [
   {
