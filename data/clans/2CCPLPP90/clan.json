@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23740,
+ "clanBuilderBasePoints": 23745,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -58,11 +58,11 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 0,
+   "trophies": 19,
    "builderBaseTrophies": 3728,
    "clanRank": 1,
    "previousClanRank": 1,
-   "donations": 208,
+   "donations": 209,
    "donationsReceived": 321,
    "playerHouse": {
     "elements": [
@@ -111,11 +111,11 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 40,
+   "trophies": 436,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 2,
-   "donations": 532,
+   "donations": 562,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 28,
+   "trophies": 39,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -217,8 +217,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 96,
-   "builderBaseTrophies": 3256,
+   "trophies": 125,
+   "builderBaseTrophies": 3271,
    "clanRank": 4,
    "previousClanRank": 5,
    "donations": 366,
@@ -323,12 +323,12 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 299,
+   "trophies": 331,
    "builderBaseTrophies": 2787,
    "clanRank": 6,
    "previousClanRank": 7,
    "donations": 13,
-   "donationsReceived": 607,
+   "donationsReceived": 638,
    "playerHouse": {
     "elements": [
      {
@@ -376,8 +376,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 0,
-   "builderBaseTrophies": 3402,
+   "trophies": 15,
+   "builderBaseTrophies": 3398,
    "clanRank": 7,
    "previousClanRank": 6,
    "donations": 51,
@@ -403,8 +403,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000027,
-    "name": "Steel League II"
+    "id": 44000026,
+    "name": "Steel League III"
    }
   },
   {
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 14,
+   "trophies": 166,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 10,
@@ -747,7 +747,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/CmM-Tihn6ojPGJstmTK_HC-QairrpYLyRhdKhQjkacQ.png"
     }
    },
-   "trophies": 0,
+   "trophies": 160,
    "builderBaseTrophies": 990,
    "clanRank": 14,
    "previousClanRank": 14,
@@ -783,7 +783,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 24,
+   "expLevel": 25,
    "league": {
     "id": 29000000,
     "name": "Unranked",

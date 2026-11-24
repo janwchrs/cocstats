@@ -1,0 +1,179 @@
+{
+ "state": "preparation",
+ "teamSize": 10,
+ "attacksPerMember": 2,
+ "battleModifier": "none",
+ "preparationStartTime": "20261124T140055.000Z",
+ "startTime": "20261125T130055.000Z",
+ "endTime": "20261126T130055.000Z",
+ "clan": {
+  "tag": "#2CCPLPP90",
+  "name": "Clash of Ants",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+  },
+  "clanLevel": 3,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#2P9G09YPU",
+    "name": "odin",
+    "townhallLevel": 17,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#YGGUGY0QV",
+    "name": "xTheDenny",
+    "townhallLevel": 13,
+    "mapPosition": 8,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#LGR9CGL90",
+    "name": "Shish@ndo",
+    "townhallLevel": 18,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R8RYG9GUL",
+    "name": "Pscxll",
+    "townhallLevel": 7,
+    "mapPosition": 10,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#LL2PQ8VJC",
+    "name": "max",
+    "townhallLevel": 18,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q8VC02UQL",
+    "name": "Niels2612",
+    "townhallLevel": 17,
+    "mapPosition": 6,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#2Q2VY2YPQ",
+    "name": "NotMansonG",
+    "townhallLevel": 17,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GQ9Y80PQR",
+    "name": "Fritti rush",
+    "townhallLevel": 17,
+    "mapPosition": 7,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#RYCJ9QCC9",
+    "name": "DonJaw",
+    "townhallLevel": 7,
+    "mapPosition": 9,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#PLYYQ00YL",
+    "name": "odin",
+    "townhallLevel": 17,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   }
+  ]
+ },
+ "opponent": {
+  "tag": "#2JLY2G0G0",
+  "name": "СердечЬники",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png"
+  },
+  "clanLevel": 9,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#G82UVVQVU",
+    "name": "nurasil2009",
+    "townhallLevel": 18,
+    "mapPosition": 7,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GL80JJL90",
+    "name": "Zii",
+    "townhallLevel": 11,
+    "mapPosition": 9,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GPQR9YJ0R",
+    "name": "Jan Lu",
+    "townhallLevel": 15,
+    "mapPosition": 8,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GRYY20CRL",
+    "name": "Светлана",
+    "townhallLevel": 17,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GJP9VL92C",
+    "name": "Міхалич",
+    "townhallLevel": 17,
+    "mapPosition": 6,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GRYC9RLRC",
+    "name": "михаил999",
+    "townhallLevel": 17,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#G8LGCRYVJ",
+    "name": "дилуш",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R89QRRG9C",
+    "name": "red>>doyi",
+    "townhallLevel": 17,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R8VGP0L8U",
+    "name": "Hu1й",
+    "townhallLevel": 10,
+    "mapPosition": 10,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#2CLYYRYY9",
+    "name": "Никтаринка",
+    "townhallLevel": 17,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   }
+  ]
+ }
+}
