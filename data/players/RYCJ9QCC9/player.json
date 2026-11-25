@@ -235,10 +235,10 @@
   {
    "name": "Clan War Wealth",
    "stars": 1,
-   "value": 5394830,
+   "value": 7102030,
    "target": 15000000,
    "info": "Collect 15000000 Gold from the Clan Castle",
-   "completionInfo": "Total Gold collected in Clan War bonuses: 5394830",
+   "completionInfo": "Total Gold collected in Clan War bonuses: 7102030",
    "village": "home"
   },
   {
@@ -615,7 +615,7 @@
   },
   {
    "name": "Wizard",
-   "level": 3,
+   "level": 4,
    "maxLevel": 15,
    "village": "home"
   },
