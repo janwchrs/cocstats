@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23779,
+ "clanBuilderBasePoints": 23789,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 465,
+   "trophies": 494,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 113,
+   "trophies": 128,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -253,7 +253,7 @@
    "name": "max",
    "role": "member",
    "townHallLevel": 18,
-   "expLevel": 138,
+   "expLevel": 139,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -588,7 +588,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 244,
+   "trophies": 263,
    "builderBaseTrophies": 2914,
    "clanRank": 11,
    "previousClanRank": 11,
@@ -676,7 +676,7 @@
    "tag": "#YGGUGY0QV",
    "name": "xTheDenny",
    "role": "leader",
-   "townHallLevel": 13,
+   "townHallLevel": 14,
    "expLevel": 139,
    "league": {
     "id": 29000000,
@@ -748,7 +748,7 @@
     }
    },
    "trophies": 160,
-   "builderBaseTrophies": 1017,
+   "builderBaseTrophies": 1000,
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 0,
@@ -783,7 +783,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 25,
+   "expLevel": 26,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -801,7 +801,7 @@
     }
    },
    "trophies": 11,
-   "builderBaseTrophies": 223,
+   "builderBaseTrophies": 324,
    "clanRank": 15,
    "previousClanRank": 15,
    "donations": 6,
@@ -827,8 +827,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000002,
-    "name": "Wood League III"
+    "id": 44000003,
+    "name": "Wood League II"
    }
   },
   {

@@ -9,8 +9,8 @@
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 4,
- "builderBaseTrophies": 1017,
- "bestBuilderBaseTrophies": 1017,
+ "builderBaseTrophies": 1000,
+ "bestBuilderBaseTrophies": 1045,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 150,
+   "value": 152,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 150",
+   "completionInfo": "Total obstacles removed: 152",
    "village": "home"
   },
   {
@@ -163,10 +163,10 @@
   {
    "name": "Unbreakable",
    "stars": 0,
-   "value": 4,
+   "value": 5,
    "target": 10,
    "info": "Successfully defend against 10 attacks",
-   "completionInfo": "Total defenses won: 4",
+   "completionInfo": "Total defenses won: 5",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 38,
+   "value": 40,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 38",
+   "completionInfo": "Total Builder Halls destroyed: 40",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 2,
-   "value": 1017,
+   "value": 1045,
    "target": 3000,
    "info": "Achieve a total of 3000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 1017",
+   "completionInfo": "Builder Trophy record: 1045",
    "village": "builderBase"
   },
   {
@@ -325,10 +325,10 @@
   {
    "name": "Games Champion",
    "stars": 0,
-   "value": 2650,
+   "value": 2850,
    "target": 10000,
    "info": "Earn 10000 points in Clan Games",
-   "completionInfo": "Total Clan Games points: 2650",
+   "completionInfo": "Total Clan Games points: 2850",
    "village": "home"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 8620,
+   "value": 9070,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 8620",
+   "completionInfo": "Total Season Challenges points: 9070",
    "village": "home"
   },
   {
@@ -773,7 +773,7 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 7,
+   "level": 8,
    "maxLevel": 115,
    "village": "home"
   }

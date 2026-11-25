@@ -1,0 +1,109 @@
+{
+ "state": "preparation",
+ "teamSize": 5,
+ "attacksPerMember": 2,
+ "battleModifier": "none",
+ "preparationStartTime": "20261125T214404.000Z",
+ "startTime": "20261126T204404.000Z",
+ "endTime": "20261127T204404.000Z",
+ "clan": {
+  "tag": "#2YJQVPGLR",
+  "name": "Gesundheit",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+  },
+  "clanLevel": 19,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#R2CGJJLJ",
+    "name": "Iris",
+    "townhallLevel": 18,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Y200JJJ88",
+    "name": "Samu435",
+    "townhallLevel": 16,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#R9YRLGGV",
+    "name": "William Wallace",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#GY80CUJPP",
+    "name": "boss",
+    "townhallLevel": 16,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#Q9PGY90L8",
+    "name": "Louis",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   }
+  ]
+ },
+ "opponent": {
+  "tag": "#2RQLGRRV2",
+  "name": "ts61",
+  "badgeUrls": {
+   "small": "https://api-assets.clashofclans.com/badges/70/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+   "large": "https://api-assets.clashofclans.com/badges/512/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+   "medium": "https://api-assets.clashofclans.com/badges/200/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png"
+  },
+  "clanLevel": 8,
+  "attacks": 0,
+  "stars": 0,
+  "destructionPercentage": 0.0,
+  "members": [
+   {
+    "tag": "#GGJ90CLQC",
+    "name": "Murat7",
+    "townhallLevel": 16,
+    "mapPosition": 5,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#PV8GV8QRL",
+    "name": "Murat Bilaloğlu",
+    "townhallLevel": 18,
+    "mapPosition": 3,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#8RRV9YLCQ",
+    "name": "ömür",
+    "townhallLevel": 18,
+    "mapPosition": 2,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#LVR9RL9C9",
+    "name": "cemre",
+    "townhallLevel": 16,
+    "mapPosition": 4,
+    "opponentAttacks": 0
+   },
+   {
+    "tag": "#9PR0CQ2RV",
+    "name": "jacksınwild",
+    "townhallLevel": 18,
+    "mapPosition": 1,
+    "opponentAttacks": 0
+   }
+  ]
+ }
+}
