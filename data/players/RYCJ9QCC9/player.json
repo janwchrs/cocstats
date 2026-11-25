@@ -2,15 +2,15 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 7,
- "expLevel": 31,
+ "expLevel": 32,
  "trophies": 160,
  "bestTrophies": 303,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 4,
- "builderBaseTrophies": 990,
- "bestBuilderBaseTrophies": 993,
+ "builderBaseTrophies": 1017,
+ "bestBuilderBaseTrophies": 1017,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000009,
-  "name": "Clay League I"
+  "id": 44000010,
+  "name": "Stone League V"
  },
  "currentLeagueGroupTag": "#98JUC8L",
  "currentLeagueSeasonId": 1795410000,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 149,
+   "value": 150,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 149",
+   "completionInfo": "Total obstacles removed: 150",
    "village": "home"
   },
   {
@@ -91,19 +91,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 16838671,
+   "value": 17356671,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 16838671",
+   "completionInfo": "Total Gold looted: 17356671",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 2,
-   "value": 16386509,
+   "value": 16468509,
    "target": 100000000,
    "info": "Steal 100000000 elixir",
-   "completionInfo": "Total Elixir looted: 16386509",
+   "completionInfo": "Total Elixir looted: 16468509",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 37,
+   "value": 38,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 37",
+   "completionInfo": "Total Builder Halls destroyed: 38",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
-   "stars": 1,
-   "value": 993,
-   "target": 1000,
-   "info": "Achieve a total of 1000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 993",
+   "stars": 2,
+   "value": 1017,
+   "target": 3000,
+   "info": "Achieve a total of 3000 trophies in Builder Battles",
+   "completionInfo": "Builder Trophy record: 1017",
    "village": "builderBase"
   },
   {
@@ -325,10 +325,10 @@
   {
    "name": "Games Champion",
    "stars": 0,
-   "value": 2500,
+   "value": 2650,
    "target": 10000,
    "info": "Earn 10000 points in Clan Games",
-   "completionInfo": "Total Clan Games points: 2500",
+   "completionInfo": "Total Clan Games points: 2650",
    "village": "home"
   },
   {
@@ -669,7 +669,7 @@
   },
   {
    "name": "Raged Barbarian",
-   "level": 3,
+   "level": 4,
    "maxLevel": 20,
    "village": "builderBase"
   },

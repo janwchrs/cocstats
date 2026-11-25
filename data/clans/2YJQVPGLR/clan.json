@@ -16,8 +16,8 @@
   "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
  },
  "clanLevel": 19,
- "clanPoints": 91350,
- "clanBuilderBasePoints": 34558,
+ "clanPoints": 91100,
+ "clanBuilderBasePoints": 34556,
  "clanCapitalPoints": 2597,
  "capitalLeague": {
   "id": 85000012,
@@ -64,7 +64,7 @@
    "clanRank": 1,
    "previousClanRank": 1,
    "donations": 1438,
-   "donationsReceived": 708,
+   "donationsReceived": 767,
    "playerHouse": {
     "elements": [
      {
@@ -88,59 +88,6 @@
    "builderBaseLeague": {
     "id": 44000028,
     "name": "Steel League I"
-   }
-  },
-  {
-   "tag": "#JL09Q2RJ",
-   "name": "Жако",
-   "role": "leader",
-   "townHallLevel": 19,
-   "expLevel": 245,
-   "league": {
-    "id": 29000000,
-    "name": "Unranked",
-    "iconUrls": {
-     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-    }
-   },
-   "leagueTier": {
-    "id": 105000033,
-    "name": "Electro League 33",
-    "iconUrls": {
-     "small": "https://api-assets.clashofclans.com/leaguetiers/125/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-     "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
-    }
-   },
-   "trophies": 0,
-   "builderBaseTrophies": 2828,
-   "clanRank": 2,
-   "previousClanRank": 2,
-   "donations": 95,
-   "donationsReceived": 414,
-   "playerHouse": {
-    "elements": [
-     {
-      "type": "ground",
-      "id": 82000002
-     },
-     {
-      "type": "walls",
-      "id": 82000079
-     },
-     {
-      "type": "roof",
-      "id": 82000033
-     },
-     {
-      "type": "decoration",
-      "id": 82000080
-     }
-    ]
-   },
-   "builderBaseLeague": {
-    "id": 44000024,
-    "name": "Iron League II"
    }
   },
   {
@@ -168,7 +115,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 4186,
-   "clanRank": 3,
+   "clanRank": 2,
    "previousClanRank": 3,
    "donations": 1605,
    "donationsReceived": 867,
@@ -221,7 +168,7 @@
    },
    "trophies": 0,
    "builderBaseTrophies": 3730,
-   "clanRank": 4,
+   "clanRank": 3,
    "previousClanRank": 4,
    "donations": 318,
    "donationsReceived": 534,
@@ -272,9 +219,9 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 107,
+   "trophies": 129,
    "builderBaseTrophies": 3318,
-   "clanRank": 5,
+   "clanRank": 4,
    "previousClanRank": 5,
    "donations": 281,
    "donationsReceived": 0,
@@ -325,9 +272,9 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 39,
-   "builderBaseTrophies": 3187,
-   "clanRank": 6,
+   "trophies": 60,
+   "builderBaseTrophies": 3179,
+   "clanRank": 5,
    "previousClanRank": 6,
    "donations": 168,
    "donationsReceived": 801,
@@ -354,6 +301,59 @@
    "builderBaseLeague": {
     "id": 44000025,
     "name": "Iron League I"
+   }
+  },
+  {
+   "tag": "#JL09Q2RJ",
+   "name": "Жако",
+   "role": "leader",
+   "townHallLevel": 19,
+   "expLevel": 245,
+   "league": {
+    "id": 29000000,
+    "name": "Unranked",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+     "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+    }
+   },
+   "leagueTier": {
+    "id": 105000032,
+    "name": "Electro League 32",
+    "iconUrls": {
+     "small": "https://api-assets.clashofclans.com/leaguetiers/125/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
+     "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
+    }
+   },
+   "trophies": 0,
+   "builderBaseTrophies": 2828,
+   "clanRank": 6,
+   "previousClanRank": 2,
+   "donations": 95,
+   "donationsReceived": 414,
+   "playerHouse": {
+    "elements": [
+     {
+      "type": "ground",
+      "id": 82000002
+     },
+     {
+      "type": "walls",
+      "id": 82000079
+     },
+     {
+      "type": "roof",
+      "id": 82000033
+     },
+     {
+      "type": "decoration",
+      "id": 82000080
+     }
+    ]
+   },
+   "builderBaseLeague": {
+    "id": 44000024,
+    "name": "Iron League II"
    }
   },
   {
@@ -485,7 +485,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 126,
+   "trophies": 174,
    "builderBaseTrophies": 3499,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -860,7 +860,7 @@
    "builderBaseTrophies": 3090,
    "clanRank": 16,
    "previousClanRank": 16,
-   "donations": 625,
+   "donations": 684,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -909,7 +909,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 19,
+   "trophies": 59,
    "builderBaseTrophies": 2996,
    "clanRank": 17,
    "previousClanRank": 17,
@@ -1068,7 +1068,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png"
     }
    },
-   "trophies": 294,
+   "trophies": 334,
    "builderBaseTrophies": 4711,
    "clanRank": 20,
    "previousClanRank": 20,
