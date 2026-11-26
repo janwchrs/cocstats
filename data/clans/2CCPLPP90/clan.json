@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 128,
+   "trophies": 305,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -694,7 +694,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
     }
    },
-   "trophies": 269,
+   "trophies": 286,
    "builderBaseTrophies": 2709,
    "clanRank": 13,
    "previousClanRank": 13,
@@ -729,8 +729,8 @@
    "tag": "#RYCJ9QCC9",
    "name": "DonJaw",
    "role": "member",
-   "townHallLevel": 7,
-   "expLevel": 32,
+   "townHallLevel": 8,
+   "expLevel": 33,
    "league": {
     "id": 29000000,
     "name": "Unranked",

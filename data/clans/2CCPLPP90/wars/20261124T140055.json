@@ -57,7 +57,15 @@
       "duration": 53
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#GRYY20CRL",
+     "defenderTag": "#YGGUGY0QV",
+     "stars": 3,
+     "destructionPercentage": 100,
+     "order": 12,
+     "duration": 80
+    }
    },
    {
     "tag": "#LGR9CGL90",
@@ -114,7 +122,15 @@
       "duration": 77
      }
     ],
-    "opponentAttacks": 0
+    "opponentAttacks": 1,
+    "bestOpponentAttack": {
+     "attackerTag": "#GRYY20CRL",
+     "defenderTag": "#LL2PQ8VJC",
+     "stars": 1,
+     "destructionPercentage": 81,
+     "order": 13,
+     "duration": 137
+    }
    },
    {
     "tag": "#Q8VC02UQL",
@@ -194,9 +210,9 @@
    "medium": "https://api-assets.clashofclans.com/badges/200/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png"
   },
   "clanLevel": 9,
-  "attacks": 6,
-  "stars": 15,
-  "destructionPercentage": 53.0,
+  "attacks": 8,
+  "stars": 19,
+  "destructionPercentage": 71.1,
   "members": [
    {
     "tag": "#G82UVVQVU",
@@ -266,6 +282,24 @@
     "name": "Светлана",
     "townhallLevel": 17,
     "mapPosition": 4,
+    "attacks": [
+     {
+      "attackerTag": "#GRYY20CRL",
+      "defenderTag": "#YGGUGY0QV",
+      "stars": 3,
+      "destructionPercentage": 100,
+      "order": 12,
+      "duration": 80
+     },
+     {
+      "attackerTag": "#GRYY20CRL",
+      "defenderTag": "#LL2PQ8VJC",
+      "stars": 1,
+      "destructionPercentage": 81,
+      "order": 13,
+      "duration": 137
+     }
+    ],
     "opponentAttacks": 0
    },
    {

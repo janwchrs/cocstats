@@ -517,10 +517,10 @@
   {
    "name": "Crafting Connoisseur",
    "stars": 1,
-   "value": 11,
+   "value": 12,
    "target": 25,
    "info": "Upgrade Crafted Defenses 25 times",
-   "completionInfo": "Total Crafted Defense upgrades: 11",
+   "completionInfo": "Total Crafted Defense upgrades: 12",
    "village": "home"
   },
   {
@@ -586,206 +586,6 @@
     "small": "https://api-assets.clashofclans.com/labels/64/u-VKK5y0hj0U8B1xdawjxNcXciv-fwMK3VqEBWCn1oM.png",
     "medium": "https://api-assets.clashofclans.com/labels/128/u-VKK5y0hj0U8B1xdawjxNcXciv-fwMK3VqEBWCn1oM.png"
    }
-  }
- ],
- "heroEquipment": [
-  {
-   "name": "Giant Gauntlet",
-   "level": 20,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Spiky Ball",
-   "level": 23,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Frozen Arrow",
-   "level": 20,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Heroic Torch",
-   "level": 15,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Fireball",
-   "level": 15,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Snake Bracelet",
-   "level": 17,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Dark Crown",
-   "level": 16,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Magic Mirror",
-   "level": 15,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Action Figure",
-   "level": 16,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Rocket Backpack",
-   "level": 20,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Barbarian Puppet",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Rage Vial",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Archer Puppet",
-   "level": 17,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Invisibility Vial",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Eternal Tome",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Life Gem",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Seeking Shield",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Royal Gem",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Earthquake Boots",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Hog Rider Puppet",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Vampstache",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Haste Vial",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Giant Arrow",
-   "level": 9,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Healer Puppet",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Rage Gem",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Healing Tome",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Henchmen Puppet",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Dark Orb",
-   "level": 17,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Metal Pants",
-   "level": 5,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Noble Iron",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Fire Heart",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Stun Blaster",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Flame Blower",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
   }
  ],
  "troops": [
@@ -1413,6 +1213,206 @@
      "village": "home"
     }
    ],
+   "village": "home"
+  }
+ ],
+ "heroEquipment": [
+  {
+   "name": "Giant Gauntlet",
+   "level": 20,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Spiky Ball",
+   "level": 23,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Frozen Arrow",
+   "level": 20,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Heroic Torch",
+   "level": 15,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Fireball",
+   "level": 15,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Snake Bracelet",
+   "level": 17,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Dark Crown",
+   "level": 16,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Magic Mirror",
+   "level": 15,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Action Figure",
+   "level": 16,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Rocket Backpack",
+   "level": 20,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Barbarian Puppet",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Vial",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Archer Puppet",
+   "level": 17,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Invisibility Vial",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Eternal Tome",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Life Gem",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Seeking Shield",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Royal Gem",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Earthquake Boots",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Hog Rider Puppet",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Vampstache",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Haste Vial",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Giant Arrow",
+   "level": 9,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Healer Puppet",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Gem",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Healing Tome",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Henchmen Puppet",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Dark Orb",
+   "level": 17,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Metal Pants",
+   "level": 5,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Noble Iron",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Fire Heart",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Stun Blaster",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Flame Blower",
+   "level": 1,
+   "maxLevel": 18,
    "village": "home"
   }
  ],
