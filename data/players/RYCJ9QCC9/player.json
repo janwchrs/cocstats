@@ -576,7 +576,6 @@
    }
   }
  ],
- "heroEquipment": [],
  "troops": [
   {
    "name": "Barbarian",
@@ -779,6 +778,7 @@
    "village": "home"
   }
  ],
+ "heroEquipment": [],
  "spells": [
   {
    "name": "Lightning Spell",
@@ -794,7 +794,7 @@
   },
   {
    "name": "Rage Spell",
-   "level": 3,
+   "level": 4,
    "maxLevel": 7,
    "village": "home"
   }

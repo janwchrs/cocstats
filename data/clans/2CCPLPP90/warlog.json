@@ -1,6 +1,39 @@
 [
  {
   "result": "lose",
+  "endTime": "20261126T130055.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2CCPLPP90",
+   "name": "Clash of Ants",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/1Pd-huhZl7FMT9QEGOmKkkB8SNHTLVxmchRuD49lgCE.png"
+   },
+   "clanLevel": 3,
+   "attacks": 10,
+   "stars": 21,
+   "destructionPercentage": 77.9,
+   "expEarned": 138
+  },
+  "opponent": {
+   "tag": "#2JLY2G0G0",
+   "name": "СердечЬники",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/aKKbqRjY10eSI_SM6fBtnHlaKV8ckLTVIpTwvpNXNzc.png"
+   },
+   "clanLevel": 9,
+   "stars": 26,
+   "destructionPercentage": 91.3
+  }
+ },
+ {
+  "result": "lose",
   "endTime": "20261118T175528.000Z",
   "teamSize": 10,
   "attacksPerMember": 2,

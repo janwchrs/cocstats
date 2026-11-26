@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23789,
+ "clanBuilderBasePoints": 23790,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -28,7 +28,7 @@
  "warWinStreak": 0,
  "warWins": 1,
  "warTies": 0,
- "warLosses": 6,
+ "warLosses": 7,
  "isWarLogPublic": true,
  "warLeague": {
   "id": 48000011,
@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 30,
+   "trophies": 44,
    "builderBaseTrophies": 3728,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 305,
+   "trophies": 325,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 171,
+   "trophies": 209,
    "builderBaseTrophies": 3271,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -323,7 +323,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 355,
+   "trophies": 363,
    "builderBaseTrophies": 2787,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -376,8 +376,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 86,
-   "builderBaseTrophies": 3414,
+   "trophies": 98,
+   "builderBaseTrophies": 3417,
    "clanRank": 7,
    "previousClanRank": 7,
    "donations": 51,
@@ -465,7 +465,7 @@
    "name": "NotMansonG",
    "role": "member",
    "townHallLevel": 17,
-   "expLevel": 203,
+   "expLevel": 204,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 213,
+   "trophies": 253,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 9,
