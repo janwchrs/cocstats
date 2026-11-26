@@ -2,13 +2,13 @@
  "tag": "#RYCJ9QCC9",
  "name": "DonJaw",
  "townHallLevel": 8,
- "expLevel": 33,
+ "expLevel": 34,
  "trophies": 160,
  "bestTrophies": 303,
  "warStars": 0,
  "attackWins": 0,
  "defenseWins": 0,
- "builderHallLevel": 4,
+ "builderHallLevel": 5,
  "builderBaseTrophies": 1000,
  "bestBuilderBaseTrophies": 1045,
  "role": "member",
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 152,
+   "value": 155,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 152",
+   "completionInfo": "Total obstacles removed: 155",
    "village": "home"
   },
   {
@@ -91,19 +91,19 @@
   {
    "name": "Gold Grab",
    "stars": 2,
-   "value": 19432507,
+   "value": 19622507,
    "target": 100000000,
    "info": "Steal 100000000 Gold",
-   "completionInfo": "Total Gold looted: 19432507",
+   "completionInfo": "Total Gold looted: 19622507",
    "village": "home"
   },
   {
    "name": "Elixir Escapade",
    "stars": 2,
-   "value": 18363662,
+   "value": 18563435,
    "target": 100000000,
    "info": "Steal 100000000 elixir",
-   "completionInfo": "Total Elixir looted: 18363662",
+   "completionInfo": "Total Elixir looted: 18563435",
    "village": "home"
   },
   {
@@ -190,10 +190,10 @@
   {
    "name": "Heroic Heist",
    "stars": 1,
-   "value": 32975,
+   "value": 35475,
    "target": 250000,
    "info": "Steal 250000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 32975",
+   "completionInfo": "Total Dark Elixir looted: 35475",
    "village": "home"
   },
   {
@@ -270,11 +270,11 @@
   },
   {
    "name": "Master Engineering",
-   "stars": 1,
-   "value": 4,
-   "target": 5,
-   "info": "Upgrade Builder Hall to level 5",
-   "completionInfo": "Current Builder Hall level: 4",
+   "stars": 2,
+   "value": 5,
+   "target": 8,
+   "info": "Upgrade Builder Hall to level 8",
+   "completionInfo": "Current Builder Hall level: 5",
    "village": "builderBase"
   },
   {
@@ -361,10 +361,10 @@
   {
    "name": "Well Seasoned",
    "stars": 1,
-   "value": 9070,
+   "value": 9520,
    "target": 15000,
    "info": "Earn 15000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 9070",
+   "completionInfo": "Total Season Challenges points: 9520",
    "village": "home"
   },
   {
@@ -576,6 +576,26 @@
    }
   }
  ],
+ "heroEquipment": [
+  {
+   "name": "Barbarian Puppet",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Vial",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Earthquake Boots",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  }
+ ],
  "troops": [
   {
    "name": "Barbarian",
@@ -773,12 +793,25 @@
  "heroes": [
   {
    "name": "Barbarian King",
-   "level": 8,
+   "level": 9,
    "maxLevel": 115,
+   "equipment": [
+    {
+     "name": "Earthquake Boots",
+     "level": 1,
+     "maxLevel": 18,
+     "village": "home"
+    },
+    {
+     "name": "Rage Vial",
+     "level": 1,
+     "maxLevel": 18,
+     "village": "home"
+    }
+   ],
    "village": "home"
   }
  ],
- "heroEquipment": [],
  "spells": [
   {
    "name": "Lightning Spell",
@@ -796,6 +829,12 @@
    "name": "Rage Spell",
    "level": 4,
    "maxLevel": 7,
+   "village": "home"
+  },
+  {
+   "name": "Poison Spell",
+   "level": 1,
+   "maxLevel": 13,
    "village": "home"
   }
  ]

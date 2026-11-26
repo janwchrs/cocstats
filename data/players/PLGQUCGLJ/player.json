@@ -139,37 +139,37 @@
   {
    "name": "Wall Buster",
    "stars": 3,
-   "value": 58997,
+   "value": 59169,
    "target": 2000,
    "info": "Destroy 2000 Walls in Multiplayer battles",
-   "completionInfo": "Total Walls destroyed: 58997",
+   "completionInfo": "Total Walls destroyed: 59169",
    "village": "home"
   },
   {
    "name": "Humiliator",
    "stars": 3,
-   "value": 2746,
+   "value": 2750,
    "target": 2000,
    "info": "Destroy 2000 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 2746",
+   "completionInfo": "Total Town Halls destroyed: 2750",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 3,
-   "value": 16768,
+   "value": 16788,
    "target": 2500,
    "info": "Destroy 2500 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 16768",
+   "completionInfo": "Total Builder's Huts destroyed: 16788",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 2,
-   "value": 4282,
+   "value": 4286,
    "target": 5000,
    "info": "Win 5000 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 4282",
+   "completionInfo": "Total multiplayer battles won: 4286",
    "village": "home"
   },
   {
@@ -193,19 +193,19 @@
   {
    "name": "Mortar Mauler",
    "stars": 3,
-   "value": 13836,
+   "value": 13850,
    "target": 5000,
    "info": "Destroy 5000 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 13836",
+   "completionInfo": "Total Mortars destroyed: 13850",
    "village": "home"
   },
   {
    "name": "Heroic Heist",
    "stars": 3,
-   "value": 25044103,
+   "value": 25098029,
    "target": 1000000,
    "info": "Steal 1000000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 25044103",
+   "completionInfo": "Total Dark Elixir looted: 25098029",
    "village": "home"
   },
   {
@@ -220,19 +220,19 @@
   {
    "name": "X-Bow Exterminator",
    "stars": 3,
-   "value": 10030,
+   "value": 10044,
    "target": 2500,
    "info": "Destroy 2500 X-Bows in Multiplayer battles",
-   "completionInfo": "Total X-Bows destroyed: 10030",
+   "completionInfo": "Total X-Bows destroyed: 10044",
    "village": "home"
   },
   {
    "name": "Firefighter",
    "stars": 3,
-   "value": 6513,
+   "value": 6523,
    "target": 5000,
    "info": "Destroy 5000 Inferno Towers in Multiplayer battles",
-   "completionInfo": "Total Inferno Towers destroyed: 6513",
+   "completionInfo": "Total Inferno Towers destroyed: 6523",
    "village": "home"
   },
   {
@@ -256,10 +256,10 @@
   {
    "name": "Anti-Artillery",
    "stars": 3,
-   "value": 2560,
+   "value": 2564,
    "target": 2000,
    "info": "Destroy 2000 Eagle or Inferno Artilleries in Multiplayer battles",
-   "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 2560",
+   "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 2564",
    "village": "home"
   },
   {
@@ -373,37 +373,37 @@
   {
    "name": "Well Seasoned",
    "stars": 3,
-   "value": 151880,
+   "value": 152330,
    "target": 50000,
    "info": "Earn 50000 points in Season Challenges",
-   "completionInfo": "Total Season Challenges points: 151880",
+   "completionInfo": "Total Season Challenges points: 152330",
    "village": "home"
   },
   {
    "name": "Shattered and Scattered",
    "stars": 2,
-   "value": 3247,
+   "value": 3254,
    "target": 4000,
    "info": "Destroy 4000 Scattershots in Multiplayer battles",
-   "completionInfo": "Total Scattershots destroyed: 3247",
+   "completionInfo": "Total Scattershots destroyed: 3254",
    "village": "home"
   },
   {
    "name": "Not So Easy This Time",
    "stars": 2,
-   "value": 1895,
+   "value": 1899,
    "target": 2000,
    "info": "Destroy 2000 weaponized Town Halls in Multiplayer battles",
-   "completionInfo": "Weaponized Town Halls destroyed: 1895",
+   "completionInfo": "Weaponized Town Halls destroyed: 1899",
    "village": "home"
   },
   {
    "name": "Bust This!",
    "stars": 3,
-   "value": 5828,
+   "value": 5848,
    "target": 2500,
    "info": "Destroy 2500 weaponized Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total weaponized Builder's Huts destroyed: 5828",
+   "completionInfo": "Total weaponized Builder's Huts destroyed: 5848",
    "village": "home"
   },
   {
@@ -445,19 +445,19 @@
   {
    "name": "Counterspell",
    "stars": 2,
-   "value": 1521,
+   "value": 1529,
    "target": 4000,
    "info": "Destroy 4000 Spell Towers in Multiplayer Battles",
-   "completionInfo": "Total Spell Towers Destroyed: 1521",
+   "completionInfo": "Total Spell Towers Destroyed: 1529",
    "village": "home"
   },
   {
    "name": "Monolith Masher",
    "stars": 2,
-   "value": 720,
+   "value": 724,
    "target": 2000,
    "info": "Destroy 2000 Monoliths in Multiplayer Battles",
-   "completionInfo": "Total Monoliths Destroyed: 720",
+   "completionInfo": "Total Monoliths Destroyed: 724",
    "village": "home"
   },
   {
@@ -481,55 +481,55 @@
   {
    "name": "Multi-Archer Tower Terminator",
    "stars": 1,
-   "value": 402,
+   "value": 406,
    "target": 500,
    "info": "Destroy 500 Multi-Archer Towers in Multiplayer Battles",
-   "completionInfo": "Total Multi-Archer Towers Destroyed: 402",
+   "completionInfo": "Total Multi-Archer Towers Destroyed: 406",
    "village": "home"
   },
   {
    "name": "Ricochet Cannon Crusher",
    "stars": 1,
-   "value": 460,
+   "value": 464,
    "target": 500,
    "info": "Destroy 500 Ricochet Cannons in Multiplayer Battles",
-   "completionInfo": "Total Ricochet Cannons Destroyed: 460",
+   "completionInfo": "Total Ricochet Cannons Destroyed: 464",
    "village": "home"
   },
   {
    "name": "Firespitter Finisher",
    "stars": 1,
-   "value": 85,
+   "value": 87,
    "target": 400,
    "info": "Destroy 400 Firespitters in Multiplayer Battles",
-   "completionInfo": "Total Firespitters Destroyed: 85",
+   "completionInfo": "Total Firespitters Destroyed: 87",
    "village": "home"
   },
   {
    "name": "Multi-Gear Tower Trampler",
    "stars": 1,
-   "value": 45,
+   "value": 46,
    "target": 200,
    "info": "Destroy 200 Multi-Gear Towers in Multiplayer Battles",
-   "completionInfo": "Total Multi-Gear Towers Destroyed: 45",
+   "completionInfo": "Total Multi-Gear Towers Destroyed: 46",
    "village": "home"
   },
   {
    "name": "Crafting Connoisseur",
    "stars": 1,
-   "value": 12,
+   "value": 13,
    "target": 25,
    "info": "Upgrade Crafted Defenses 25 times",
-   "completionInfo": "Total Crafted Defense upgrades: 12",
+   "completionInfo": "Total Crafted Defense upgrades: 13",
    "village": "home"
   },
   {
    "name": "Crafter’s Nightmare",
    "stars": 2,
-   "value": 251,
+   "value": 253,
    "target": 2000,
    "info": "Destroy 2000 Crafted Defenses in Multiplayer Battles",
-   "completionInfo": "Total Crafted Defenses Destroyed: 251",
+   "completionInfo": "Total Crafted Defenses Destroyed: 253",
    "village": "home"
   },
   {
@@ -591,7 +591,7 @@
  "troops": [
   {
    "name": "Barbarian",
-   "level": 11,
+   "level": 12,
    "maxLevel": 14,
    "village": "home"
   },

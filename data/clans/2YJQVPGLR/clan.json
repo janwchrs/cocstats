@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 91100,
- "clanBuilderBasePoints": 34502,
+ "clanBuilderBasePoints": 34442,
  "clanCapitalPoints": 2597,
  "capitalLeague": {
   "id": 85000012,
@@ -117,7 +117,7 @@
    "builderBaseTrophies": 4186,
    "clanRank": 2,
    "previousClanRank": 2,
-   "donations": 1723,
+   "donations": 1778,
    "donationsReceived": 867,
    "playerHouse": {
     "elements": [
@@ -219,8 +219,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 429,
-   "builderBaseTrophies": 3246,
+   "trophies": 624,
+   "builderBaseTrophies": 3122,
    "clanRank": 4,
    "previousClanRank": 4,
    "donations": 0,
@@ -246,8 +246,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000026,
-    "name": "Steel League III"
+    "id": 44000025,
+    "name": "Iron League I"
    }
   },
   {
@@ -272,8 +272,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 172,
-   "builderBaseTrophies": 3178,
+   "trophies": 260,
+   "builderBaseTrophies": 3056,
    "clanRank": 5,
    "previousClanRank": 5,
    "donations": 340,
@@ -325,7 +325,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 81,
+   "trophies": 112,
    "builderBaseTrophies": 3068,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -485,12 +485,12 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 254,
+   "trophies": 297,
    "builderBaseTrophies": 3499,
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 724,
-   "donationsReceived": 3335,
+   "donationsReceived": 3390,
    "playerHouse": {
     "elements": [
      {
@@ -892,7 +892,7 @@
    "name": "[4k]Notuto",
    "role": "member",
    "townHallLevel": 17,
-   "expLevel": 190,
+   "expLevel": 191,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -910,7 +910,7 @@
     }
    },
    "trophies": 59,
-   "builderBaseTrophies": 2996,
+   "builderBaseTrophies": 2997,
    "clanRank": 17,
    "previousClanRank": 17,
    "donations": 0,
@@ -1705,7 +1705,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/7AbbZbiV6whmfa6CZtqt6Ml4NgFH1B-UqCxc59ziqfk.png"
     }
    },
-   "trophies": 482,
+   "trophies": 509,
    "builderBaseTrophies": 2814,
    "clanRank": 32,
    "previousClanRank": 32,

@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23790,
+ "clanBuilderBasePoints": 23795,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 44,
+   "trophies": 84,
    "builderBaseTrophies": 3728,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 494,
+   "trophies": 513,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 325,
+   "trophies": 380,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -376,7 +376,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 98,
+   "trophies": 123,
    "builderBaseTrophies": 3417,
    "clanRank": 7,
    "previousClanRank": 7,
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 253,
+   "trophies": 387,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -730,7 +730,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 8,
-   "expLevel": 33,
+   "expLevel": 34,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -783,7 +783,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 26,
+   "expLevel": 27,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -801,7 +801,7 @@
     }
    },
    "trophies": 11,
-   "builderBaseTrophies": 324,
+   "builderBaseTrophies": 362,
    "clanRank": 15,
    "previousClanRank": 15,
    "donations": 6,
