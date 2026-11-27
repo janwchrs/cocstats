@@ -139,37 +139,37 @@
   {
    "name": "Wall Buster",
    "stars": 3,
-   "value": 60115,
+   "value": 60200,
    "target": 2000,
    "info": "Destroy 2000 Walls in Multiplayer battles",
-   "completionInfo": "Total Walls destroyed: 60115",
+   "completionInfo": "Total Walls destroyed: 60200",
    "village": "home"
   },
   {
    "name": "Humiliator",
    "stars": 3,
-   "value": 2767,
+   "value": 2768,
    "target": 2000,
    "info": "Destroy 2000 Town Halls in Multiplayer battles",
-   "completionInfo": "Total Town Halls destroyed: 2767",
+   "completionInfo": "Total Town Halls destroyed: 2768",
    "village": "home"
   },
   {
    "name": "Union Buster",
    "stars": 3,
-   "value": 16875,
+   "value": 16880,
    "target": 2500,
    "info": "Destroy 2500 Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total Builder's Huts destroyed: 16875",
+   "completionInfo": "Total Builder's Huts destroyed: 16880",
    "village": "home"
   },
   {
    "name": "Conqueror",
    "stars": 2,
-   "value": 4305,
+   "value": 4307,
    "target": 5000,
    "info": "Win 5000 Multiplayer battles",
-   "completionInfo": "Total multiplayer battles won: 4305",
+   "completionInfo": "Total multiplayer battles won: 4307",
    "village": "home"
   },
   {
@@ -193,19 +193,19 @@
   {
    "name": "Mortar Mauler",
    "stars": 3,
-   "value": 13922,
+   "value": 13930,
    "target": 5000,
    "info": "Destroy 5000 Mortars in Multiplayer battles",
-   "completionInfo": "Total Mortars destroyed: 13922",
+   "completionInfo": "Total Mortars destroyed: 13930",
    "village": "home"
   },
   {
    "name": "Heroic Heist",
    "stars": 3,
-   "value": 25285445,
+   "value": 25301637,
    "target": 1000000,
    "info": "Steal 1000000 Dark Elixir",
-   "completionInfo": "Total Dark Elixir looted: 25285445",
+   "completionInfo": "Total Dark Elixir looted: 25301637",
    "village": "home"
   },
   {
@@ -220,19 +220,19 @@
   {
    "name": "X-Bow Exterminator",
    "stars": 3,
-   "value": 10114,
+   "value": 10120,
    "target": 2500,
    "info": "Destroy 2500 X-Bows in Multiplayer battles",
-   "completionInfo": "Total X-Bows destroyed: 10114",
+   "completionInfo": "Total X-Bows destroyed: 10120",
    "village": "home"
   },
   {
    "name": "Firefighter",
    "stars": 3,
-   "value": 6574,
+   "value": 6577,
    "target": 5000,
    "info": "Destroy 5000 Inferno Towers in Multiplayer battles",
-   "completionInfo": "Total Inferno Towers destroyed: 6574",
+   "completionInfo": "Total Inferno Towers destroyed: 6577",
    "village": "home"
   },
   {
@@ -256,10 +256,10 @@
   {
    "name": "Anti-Artillery",
    "stars": 3,
-   "value": 2582,
+   "value": 2583,
    "target": 2000,
    "info": "Destroy 2000 Eagle or Inferno Artilleries in Multiplayer battles",
-   "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 2582",
+   "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 2583",
    "village": "home"
   },
   {
@@ -382,28 +382,28 @@
   {
    "name": "Shattered and Scattered",
    "stars": 2,
-   "value": 3288,
+   "value": 3290,
    "target": 4000,
    "info": "Destroy 4000 Scattershots in Multiplayer battles",
-   "completionInfo": "Total Scattershots destroyed: 3288",
+   "completionInfo": "Total Scattershots destroyed: 3290",
    "village": "home"
   },
   {
    "name": "Not So Easy This Time",
    "stars": 2,
-   "value": 1916,
+   "value": 1917,
    "target": 2000,
    "info": "Destroy 2000 weaponized Town Halls in Multiplayer battles",
-   "completionInfo": "Weaponized Town Halls destroyed: 1916",
+   "completionInfo": "Weaponized Town Halls destroyed: 1917",
    "village": "home"
   },
   {
    "name": "Bust This!",
    "stars": 3,
-   "value": 5922,
+   "value": 5923,
    "target": 2500,
    "info": "Destroy 2500 weaponized Builder's Huts in Multiplayer battles",
-   "completionInfo": "Total weaponized Builder's Huts destroyed: 5922",
+   "completionInfo": "Total weaponized Builder's Huts destroyed: 5923",
    "village": "home"
   },
   {
@@ -445,19 +445,19 @@
   {
    "name": "Counterspell",
    "stars": 2,
-   "value": 1565,
+   "value": 1567,
    "target": 4000,
    "info": "Destroy 4000 Spell Towers in Multiplayer Battles",
-   "completionInfo": "Total Spell Towers Destroyed: 1565",
+   "completionInfo": "Total Spell Towers Destroyed: 1567",
    "village": "home"
   },
   {
    "name": "Monolith Masher",
    "stars": 2,
-   "value": 742,
+   "value": 743,
    "target": 2000,
    "info": "Destroy 2000 Monoliths in Multiplayer Battles",
-   "completionInfo": "Total Monoliths Destroyed: 742",
+   "completionInfo": "Total Monoliths Destroyed: 743",
    "village": "home"
   },
   {
@@ -526,10 +526,10 @@
   {
    "name": "Crafter’s Nightmare",
    "stars": 2,
-   "value": 270,
+   "value": 271,
    "target": 2000,
    "info": "Destroy 2000 Crafted Defenses in Multiplayer Battles",
-   "completionInfo": "Total Crafted Defenses Destroyed: 270",
+   "completionInfo": "Total Crafted Defenses Destroyed: 271",
    "village": "home"
   },
   {
@@ -586,206 +586,6 @@
     "small": "https://api-assets.clashofclans.com/labels/64/u-VKK5y0hj0U8B1xdawjxNcXciv-fwMK3VqEBWCn1oM.png",
     "medium": "https://api-assets.clashofclans.com/labels/128/u-VKK5y0hj0U8B1xdawjxNcXciv-fwMK3VqEBWCn1oM.png"
    }
-  }
- ],
- "heroEquipment": [
-  {
-   "name": "Giant Gauntlet",
-   "level": 20,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Spiky Ball",
-   "level": 23,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Frozen Arrow",
-   "level": 20,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Heroic Torch",
-   "level": 15,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Fireball",
-   "level": 15,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Snake Bracelet",
-   "level": 17,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Dark Crown",
-   "level": 16,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Magic Mirror",
-   "level": 15,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Action Figure",
-   "level": 16,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Rocket Backpack",
-   "level": 20,
-   "maxLevel": 27,
-   "village": "home"
-  },
-  {
-   "name": "Barbarian Puppet",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Rage Vial",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Archer Puppet",
-   "level": 17,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Invisibility Vial",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Eternal Tome",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Life Gem",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Seeking Shield",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Royal Gem",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Earthquake Boots",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Hog Rider Puppet",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Vampstache",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Haste Vial",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Giant Arrow",
-   "level": 9,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Healer Puppet",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Rage Gem",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Healing Tome",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Henchmen Puppet",
-   "level": 14,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Dark Orb",
-   "level": 17,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Metal Pants",
-   "level": 5,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Noble Iron",
-   "level": 2,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Fire Heart",
-   "level": 18,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Stun Blaster",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Flame Blower",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
   }
  ],
  "troops": [
@@ -929,7 +729,7 @@
   },
   {
    "name": "Raged Barbarian",
-   "level": 18,
+   "level": 19,
    "maxLevel": 20,
    "village": "builderBase"
   },
@@ -1222,6 +1022,12 @@
    "village": "home"
   },
   {
+   "name": "Balloon Squad",
+   "level": 1,
+   "maxLevel": 3,
+   "village": "home"
+  },
+  {
    "name": "L.A.S.S.I",
    "level": 6,
    "maxLevel": 15,
@@ -1277,7 +1083,7 @@
   },
   {
    "name": "Angry Jelly",
-   "level": 3,
+   "level": 4,
    "maxLevel": 15,
    "village": "home"
   }
@@ -1413,6 +1219,206 @@
      "village": "home"
     }
    ],
+   "village": "home"
+  }
+ ],
+ "heroEquipment": [
+  {
+   "name": "Giant Gauntlet",
+   "level": 20,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Spiky Ball",
+   "level": 23,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Frozen Arrow",
+   "level": 20,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Heroic Torch",
+   "level": 15,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Fireball",
+   "level": 15,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Snake Bracelet",
+   "level": 17,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Dark Crown",
+   "level": 16,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Magic Mirror",
+   "level": 15,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Action Figure",
+   "level": 16,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Rocket Backpack",
+   "level": 20,
+   "maxLevel": 27,
+   "village": "home"
+  },
+  {
+   "name": "Barbarian Puppet",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Vial",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Archer Puppet",
+   "level": 17,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Invisibility Vial",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Eternal Tome",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Life Gem",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Seeking Shield",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Royal Gem",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Earthquake Boots",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Hog Rider Puppet",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Vampstache",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Haste Vial",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Giant Arrow",
+   "level": 9,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Healer Puppet",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Gem",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Healing Tome",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Henchmen Puppet",
+   "level": 14,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Dark Orb",
+   "level": 17,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Metal Pants",
+   "level": 5,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Noble Iron",
+   "level": 2,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Fire Heart",
+   "level": 18,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Stun Blaster",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Flame Blower",
+   "level": 1,
+   "maxLevel": 18,
    "village": "home"
   }
  ],

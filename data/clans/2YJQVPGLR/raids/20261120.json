@@ -8,120 +8,6 @@
  "enemyDistrictsDestroyed": 26,
  "offensiveReward": 173,
  "defensiveReward": 226,
- "members": [
-  {
-   "tag": "#89VRV2PP",
-   "name": "Nudeler",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 23381
-  },
-  {
-   "tag": "#R2CGJJLJ",
-   "name": "Iris",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 25868
-  },
-  {
-   "tag": "#Q0R92PVC",
-   "name": "kessmack",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 28179
-  },
-  {
-   "tag": "#R9YRLGGV",
-   "name": "William Wallace",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 17986
-  },
-  {
-   "tag": "#L9PVP880Y",
-   "name": "Nemo",
-   "attacks": 5,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 20963
-  },
-  {
-   "tag": "#GG9VVRUJ0",
-   "name": "LordGünther",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 34351
-  },
-  {
-   "tag": "#GYJ0LULJP",
-   "name": "Emilie",
-   "attacks": 5,
-   "attackLimit": 5,
-   "bonusAttackLimit": 0,
-   "capitalResourcesLooted": 14595
-  },
-  {
-   "tag": "#98VUCPJ9V",
-   "name": "Mr. T",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 23736
-  },
-  {
-   "tag": "#GJPY9CYC",
-   "name": "jv2703",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 16211
-  },
-  {
-   "tag": "#G22P88JVG",
-   "name": "Jay",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 22947
-  },
-  {
-   "tag": "#8Y2LUYJPU",
-   "name": "MaDs",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 24957
-  },
-  {
-   "tag": "#Q9PGY90L8",
-   "name": "Louis",
-   "attacks": 4,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 19453
-  },
-  {
-   "tag": "#QJLYV2R0Y",
-   "name": "Nemo",
-   "attacks": 5,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 10603
-  },
-  {
-   "tag": "#GQRJVGRQY",
-   "name": "Pizza-Bär",
-   "attacks": 6,
-   "attackLimit": 5,
-   "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 25750
-  }
- ],
  "attackLog": [
   {
    "defender": {
@@ -145,41 +31,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 13508,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GG9VVRUJ0",
-        "name": "LordGünther"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#R9YRLGGV",
-        "name": "William Wallace"
-       },
-       "destructionPercent": 54,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#R9YRLGGV",
-        "name": "William Wallace"
-       },
-       "destructionPercent": 53,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#R9YRLGGV",
-        "name": "William Wallace"
-       },
-       "destructionPercent": 25,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 13508
     },
     {
      "id": 70000001,
@@ -188,33 +40,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11496,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R9YRLGGV",
-        "name": "William Wallace"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#R9YRLGGV",
-        "name": "William Wallace"
-       },
-       "destructionPercent": 69,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#R9YRLGGV",
-        "name": "William Wallace"
-       },
-       "destructionPercent": 42,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11496
     },
     {
      "id": 70000002,
@@ -223,25 +49,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 10535,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#Q0R92PVC",
-        "name": "kessmack"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#Q0R92PVC",
-        "name": "kessmack"
-       },
-       "destructionPercent": 63,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 10535
     },
     {
      "id": 70000003,
@@ -250,41 +58,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11820,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#98VUCPJ9V",
-        "name": "Mr. T"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#98VUCPJ9V",
-        "name": "Mr. T"
-       },
-       "destructionPercent": 91,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#98VUCPJ9V",
-        "name": "Mr. T"
-       },
-       "destructionPercent": 43,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#QJLYV2R0Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 0,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11820
     },
     {
      "id": 70000004,
@@ -293,33 +67,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11939,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#QJLYV2R0Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#L9PVP880Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 75,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#L9PVP880Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 41,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11939
     },
     {
      "id": 70000005,
@@ -328,33 +76,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11408,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#L9PVP880Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#QJLYV2R0Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 61,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#L9PVP880Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 34,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11408
     },
     {
      "id": 70000006,
@@ -363,41 +85,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11916,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#98VUCPJ9V",
-        "name": "Mr. T"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#98VUCPJ9V",
-        "name": "Mr. T"
-       },
-       "destructionPercent": 82,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#98VUCPJ9V",
-        "name": "Mr. T"
-       },
-       "destructionPercent": 40,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#QJLYV2R0Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 0,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11916
     },
     {
      "id": 70000007,
@@ -406,33 +94,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11789,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#QJLYV2R0Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#L9PVP880Y",
-        "name": "Nemo"
-       },
-       "destructionPercent": 79,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#Q9PGY90L8",
-        "name": "Louis"
-       },
-       "destructionPercent": 29,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11789
     },
     {
      "id": 70000008,
@@ -441,25 +103,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11613,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#Q9PGY90L8",
-        "name": "Louis"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#Q9PGY90L8",
-        "name": "Louis"
-       },
-       "destructionPercent": 32,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11613
     }
    ]
   },
@@ -485,49 +129,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 5,
-     "totalLooted": 14072,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8Y2LUYJPU",
-        "name": "MaDs"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#G22P88JVG",
-        "name": "Jay"
-       },
-       "destructionPercent": 96,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#G22P88JVG",
-        "name": "Jay"
-       },
-       "destructionPercent": 62,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#G22P88JVG",
-        "name": "Jay"
-       },
-       "destructionPercent": 49,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#GJPY9CYC",
-        "name": "jv2703"
-       },
-       "destructionPercent": 21,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 14072
     },
     {
      "id": 70000001,
@@ -536,33 +138,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 12057,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#G22P88JVG",
-        "name": "Jay"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#G22P88JVG",
-        "name": "Jay"
-       },
-       "destructionPercent": 93,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#G22P88JVG",
-        "name": "Jay"
-       },
-       "destructionPercent": 39,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 12057
     },
     {
      "id": 70000002,
@@ -571,41 +147,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 10591,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GQRJVGRQY",
-        "name": "Pizza-Bär"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GYJ0LULJP",
-        "name": "Emilie"
-       },
-       "destructionPercent": 95,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#GYJ0LULJP",
-        "name": "Emilie"
-       },
-       "destructionPercent": 56,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#GYJ0LULJP",
-        "name": "Emilie"
-       },
-       "destructionPercent": 30,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 10591
     },
     {
      "id": 70000003,
@@ -614,25 +156,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11044,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GQRJVGRQY",
-        "name": "Pizza-Bär"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GG9VVRUJ0",
-        "name": "LordGünther"
-       },
-       "destructionPercent": 55,
-       "stars": 2
-      }
-     ]
+     "totalLooted": 11044
     },
     {
      "id": 70000004,
@@ -641,25 +165,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 10934,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#Q0R92PVC",
-        "name": "kessmack"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#Q0R92PVC",
-        "name": "kessmack"
-       },
-       "destructionPercent": 72,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 10934
     },
     {
      "id": 70000005,
@@ -668,41 +174,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11418,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GQRJVGRQY",
-        "name": "Pizza-Bär"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GQRJVGRQY",
-        "name": "Pizza-Bär"
-       },
-       "destructionPercent": 96,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#GYJ0LULJP",
-        "name": "Emilie"
-       },
-       "destructionPercent": 53,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#GYJ0LULJP",
-        "name": "Emilie"
-       },
-       "destructionPercent": 30,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11418
     },
     {
      "id": 70000006,
@@ -711,25 +183,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 10343,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GG9VVRUJ0",
-        "name": "LordGünther"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GG9VVRUJ0",
-        "name": "LordGünther"
-       },
-       "destructionPercent": 42,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 10343
     },
     {
      "id": 70000007,
@@ -738,25 +192,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11235,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GG9VVRUJ0",
-        "name": "LordGünther"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GG9VVRUJ0",
-        "name": "LordGünther"
-       },
-       "destructionPercent": 40,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 11235
     },
     {
      "id": 70000008,
@@ -765,25 +201,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11517,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GQRJVGRQY",
-        "name": "Pizza-Bär"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#Q9PGY90L8",
-        "name": "Louis"
-       },
-       "destructionPercent": 35,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11517
     }
    ]
   },
@@ -809,25 +227,7 @@
      "destructionPercent": 47,
      "stars": 0,
      "attackCount": 2,
-     "totalLooted": 6710,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#Q0R92PVC",
-        "name": "kessmack"
-       },
-       "destructionPercent": 47,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#Q0R92PVC",
-        "name": "kessmack"
-       },
-       "destructionPercent": 24,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 6710
     },
     {
      "id": 70000001,
@@ -836,33 +236,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11754,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#89VRV2PP",
-        "name": "Nudeler"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#89VRV2PP",
-        "name": "Nudeler"
-       },
-       "destructionPercent": 70,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#89VRV2PP",
-        "name": "Nudeler"
-       },
-       "destructionPercent": 45,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11754
     },
     {
      "id": 70000002,
@@ -871,25 +245,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 10130,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R2CGJJLJ",
-        "name": "Iris"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#R2CGJJLJ",
-        "name": "Iris"
-       },
-       "destructionPercent": 27,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 10130
     },
     {
      "id": 70000003,
@@ -898,33 +254,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11571,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R2CGJJLJ",
-        "name": "Iris"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GQRJVGRQY",
-        "name": "Pizza-Bär"
-       },
-       "destructionPercent": 79,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#GJPY9CYC",
-        "name": "jv2703"
-       },
-       "destructionPercent": 36,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11571
     },
     {
      "id": 70000004,
@@ -933,33 +263,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 12293,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8Y2LUYJPU",
-        "name": "MaDs"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8Y2LUYJPU",
-        "name": "MaDs"
-       },
-       "destructionPercent": 71,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#8Y2LUYJPU",
-        "name": "MaDs"
-       },
-       "destructionPercent": 47,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 12293
     },
     {
      "id": 70000005,
@@ -968,33 +272,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11627,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#89VRV2PP",
-        "name": "Nudeler"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#89VRV2PP",
-        "name": "Nudeler"
-       },
-       "destructionPercent": 72,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#89VRV2PP",
-        "name": "Nudeler"
-       },
-       "destructionPercent": 24,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11627
     },
     {
      "id": 70000006,
@@ -1003,41 +281,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11931,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#GJPY9CYC",
-        "name": "jv2703"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GJPY9CYC",
-        "name": "jv2703"
-       },
-       "destructionPercent": 86,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#GJPY9CYC",
-        "name": "jv2703"
-       },
-       "destructionPercent": 60,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#GJPY9CYC",
-        "name": "jv2703"
-       },
-       "destructionPercent": 34,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11931
     },
     {
      "id": 70000007,
@@ -1046,33 +290,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 12197,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R2CGJJLJ",
-        "name": "Iris"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#R2CGJJLJ",
-        "name": "Iris"
-       },
-       "destructionPercent": 94,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#R2CGJJLJ",
-        "name": "Iris"
-       },
-       "destructionPercent": 53,
-       "stars": 2
-      }
-     ]
+     "totalLooted": 12197
     },
     {
      "id": 70000008,
@@ -1081,25 +299,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11532,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8Y2LUYJPU",
-        "name": "MaDs"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8Y2LUYJPU",
-        "name": "MaDs"
-       },
-       "destructionPercent": 63,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 11532
     }
    ]
   }
@@ -1127,41 +327,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 13424,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#LQQ8RC8G",
-        "name": "WARSHOCK"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#LQQ8RC8G",
-        "name": "WARSHOCK"
-       },
-       "destructionPercent": 79,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#LQQ8RC8G",
-        "name": "WARSHOCK"
-       },
-       "destructionPercent": 70,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#LQQ8RC8G",
-        "name": "WARSHOCK"
-       },
-       "destructionPercent": 64,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 13424
     },
     {
      "id": 70000001,
@@ -1170,41 +336,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11403,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#PR9R8Y09P",
-        "name": "tHe bEaSt"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#PR9R8Y09P",
-        "name": "tHe bEaSt"
-       },
-       "destructionPercent": 69,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#PR9R8Y09P",
-        "name": "tHe bEaSt"
-       },
-       "destructionPercent": 45,
-       "stars": 0
-      },
-      {
-       "attacker": {
-        "tag": "#PR9R8Y09P",
-        "name": "tHe bEaSt"
-       },
-       "destructionPercent": 33,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11403
     },
     {
      "id": 70000002,
@@ -1213,33 +345,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 10283,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8JV2U9CUC",
-        "name": "january"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#PR9R8Y09P",
-        "name": "tHe bEaSt"
-       },
-       "destructionPercent": 53,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#PR9R8Y09P",
-        "name": "tHe bEaSt"
-       },
-       "destructionPercent": 28,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 10283
     },
     {
      "id": 70000003,
@@ -1248,33 +354,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11211,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8JV2U9CUC",
-        "name": "january"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8JV2U9CUC",
-        "name": "january"
-       },
-       "destructionPercent": 90,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#8JV2U9CUC",
-        "name": "january"
-       },
-       "destructionPercent": 48,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11211
     },
     {
      "id": 70000004,
@@ -1283,25 +363,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 10985,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#RL8CRV9G",
-        "name": "camphalfblood"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#RL8CRV9G",
-        "name": "camphalfblood"
-       },
-       "destructionPercent": 60,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 10985
     },
     {
      "id": 70000005,
@@ -1310,41 +372,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11718,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#LQQ8RC8G",
-        "name": "WARSHOCK"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#G0GG0VL92",
-        "name": "dark king"
-       },
-       "destructionPercent": 96,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#8JV2U9CUC",
-        "name": "january"
-       },
-       "destructionPercent": 62,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#8JV2U9CUC",
-        "name": "january"
-       },
-       "destructionPercent": 44,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11718
     },
     {
      "id": 70000006,
@@ -1353,33 +381,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 10895,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#88JL0CYUJ",
-        "name": "darkroma"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#88JL0CYUJ",
-        "name": "darkroma"
-       },
-       "destructionPercent": 75,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#88JL0CYUJ",
-        "name": "darkroma"
-       },
-       "destructionPercent": 32,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 10895
     },
     {
      "id": 70000007,
@@ -1388,25 +390,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11377,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#RL8CRV9G",
-        "name": "camphalfblood"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#RL8CRV9G",
-        "name": "camphalfblood"
-       },
-       "destructionPercent": 61,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 11377
     },
     {
      "id": 70000008,
@@ -1415,33 +399,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 12020,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#RL8CRV9G",
-        "name": "camphalfblood"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#RL8CRV9G",
-        "name": "camphalfblood"
-       },
-       "destructionPercent": 93,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#88JL0CYUJ",
-        "name": "darkroma"
-       },
-       "destructionPercent": 51,
-       "stars": 2
-      }
-     ]
+     "totalLooted": 12020
     }
    ]
   },
@@ -1467,33 +425,7 @@
      "destructionPercent": 98,
      "stars": 2,
      "attackCount": 3,
-     "totalLooted": 12670,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#R08QGJGV2",
-        "name": "purna"
-       },
-       "destructionPercent": 98,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#R08QGJGV2",
-        "name": "purna"
-       },
-       "destructionPercent": 79,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#R08QGJGV2",
-        "name": "purna"
-       },
-       "destructionPercent": 61,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 12670
     },
     {
      "id": 70000001,
@@ -1502,33 +434,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11595,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#PR8VLLVYG",
-        "name": "Godzilla"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8UYU9282L",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 74,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#8UYU9282L",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 42,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11595
     },
     {
      "id": 70000002,
@@ -1537,25 +443,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 10085,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#YUGUPLQCG",
-        "name": "Baadsha"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#YUGUPLQCG",
-        "name": "Baadsha"
-       },
-       "destructionPercent": 45,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 10085
     },
     {
      "id": 70000003,
@@ -1564,33 +452,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11088,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#YRLU00L82",
-        "name": "saurabh"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#YRLU00L82",
-        "name": "saurabh"
-       },
-       "destructionPercent": 74,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#YRLU00L82",
-        "name": "saurabh"
-       },
-       "destructionPercent": 51,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 11088
     },
     {
      "id": 70000004,
@@ -1599,25 +461,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 2,
-     "totalLooted": 11066,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#YRLU00L82",
-        "name": "saurabh"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#YRLU00L82",
-        "name": "saurabh"
-       },
-       "destructionPercent": 52,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 11066
     },
     {
      "id": 70000005,
@@ -1626,41 +470,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 4,
-     "totalLooted": 11628,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#92Q20Q092",
-        "name": "choco"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#92Q20Q092",
-        "name": "choco"
-       },
-       "destructionPercent": 84,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#92Q20Q092",
-        "name": "choco"
-       },
-       "destructionPercent": 75,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#92Q20Q092",
-        "name": "choco"
-       },
-       "destructionPercent": 58,
-       "stars": 2
-      }
-     ]
+     "totalLooted": 11628
     },
     {
      "id": 70000006,
@@ -1669,33 +479,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11051,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8UYU9282L",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#GVU8JVQJ9",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 52,
-       "stars": 1
-      },
-      {
-       "attacker": {
-        "tag": "#GVU8JVQJ9",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 35,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11051
     },
     {
      "id": 70000007,
@@ -1704,33 +488,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11590,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8UYU9282L",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8UYU9282L",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 70,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#GVU8JVQJ9",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 41,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11590
     },
     {
      "id": 70000008,
@@ -1739,33 +497,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11822,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#PR8VLLVYG",
-        "name": "Godzilla"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8UYU9282L",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 82,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#GVU8JVQJ9",
-        "name": "SUKHENDU"
-       },
-       "destructionPercent": 44,
-       "stars": 0
-      }
-     ]
+     "totalLooted": 11822
     }
    ]
   },
@@ -1854,33 +586,7 @@
      "destructionPercent": 100,
      "stars": 3,
      "attackCount": 3,
-     "totalLooted": 11770,
-     "attacks": [
-      {
-       "attacker": {
-        "tag": "#8L8RJUVCR",
-        "name": "Mehzabin"
-       },
-       "destructionPercent": 100,
-       "stars": 3
-      },
-      {
-       "attacker": {
-        "tag": "#8L8RJUVCR",
-        "name": "Mehzabin"
-       },
-       "destructionPercent": 78,
-       "stars": 2
-      },
-      {
-       "attacker": {
-        "tag": "#8L8RJUVCR",
-        "name": "Mehzabin"
-       },
-       "destructionPercent": 48,
-       "stars": 1
-      }
-     ]
+     "totalLooted": 11770
     },
     {
      "id": 70000008,

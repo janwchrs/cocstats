@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23811,
+ "clanBuilderBasePoints": 23821,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -58,11 +58,11 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 84,
+   "trophies": 208,
    "builderBaseTrophies": 3728,
    "clanRank": 1,
    "previousClanRank": 1,
-   "donations": 209,
+   "donations": 229,
    "donationsReceived": 321,
    "playerHouse": {
     "elements": [
@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 513,
+   "trophies": 528,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -588,7 +588,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
     }
    },
-   "trophies": 263,
+   "trophies": 282,
    "builderBaseTrophies": 2914,
    "clanRank": 11,
    "previousClanRank": 11,
@@ -695,7 +695,7 @@
     }
    },
    "trophies": 286,
-   "builderBaseTrophies": 2709,
+   "builderBaseTrophies": 2751,
    "clanRank": 13,
    "previousClanRank": 13,
    "donations": 656,
@@ -752,7 +752,7 @@
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 0,
-   "donationsReceived": 0,
+   "donationsReceived": 20,
    "playerHouse": {
     "elements": [
      {
@@ -783,7 +783,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 27,
+   "expLevel": 28,
    "league": {
     "id": 29000000,
     "name": "Unranked",

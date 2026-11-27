@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 91100,
- "clanBuilderBasePoints": 34442,
+ "clanBuilderBasePoints": 34454,
  "clanCapitalPoints": 2597,
  "capitalLeague": {
   "id": 85000012,
@@ -63,7 +63,7 @@
    "builderBaseTrophies": 3782,
    "clanRank": 1,
    "previousClanRank": 1,
-   "donations": 1606,
+   "donations": 1610,
    "donationsReceived": 1062,
    "playerHouse": {
     "elements": [
@@ -272,8 +272,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 283,
-   "builderBaseTrophies": 3056,
+   "trophies": 323,
+   "builderBaseTrophies": 3114,
    "clanRank": 5,
    "previousClanRank": 5,
    "donations": 340,
@@ -325,7 +325,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 112,
+   "trophies": 133,
    "builderBaseTrophies": 3068,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -485,12 +485,12 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 297,
+   "trophies": 313,
    "builderBaseTrophies": 3499,
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 724,
-   "donationsReceived": 3390,
+   "donationsReceived": 3483,
    "playerHouse": {
     "elements": [
      {
@@ -644,7 +644,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 347,
+   "trophies": 362,
    "builderBaseTrophies": 3315,
    "clanRank": 12,
    "previousClanRank": 12,
@@ -697,7 +697,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 139,
+   "trophies": 152,
    "builderBaseTrophies": 3705,
    "clanRank": 13,
    "previousClanRank": 13,
@@ -860,7 +860,7 @@
    "builderBaseTrophies": 3090,
    "clanRank": 16,
    "previousClanRank": 16,
-   "donations": 739,
+   "donations": 828,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [
@@ -1933,7 +1933,7 @@
    "name": "Emilie",
    "role": "member",
    "townHallLevel": 16,
-   "expLevel": 171,
+   "expLevel": 172,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -2058,7 +2058,7 @@
     }
    },
    "trophies": 0,
-   "builderBaseTrophies": 4197,
+   "builderBaseTrophies": 4195,
    "clanRank": 39,
    "previousClanRank": 39,
    "donations": 484,
