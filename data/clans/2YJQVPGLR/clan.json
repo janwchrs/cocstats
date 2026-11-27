@@ -17,7 +17,7 @@
  },
  "clanLevel": 19,
  "clanPoints": 91100,
- "clanBuilderBasePoints": 34454,
+ "clanBuilderBasePoints": 34433,
  "clanCapitalPoints": 2597,
  "capitalLeague": {
   "id": 85000012,
@@ -25,8 +25,8 @@
  },
  "requiredTrophies": 3000,
  "warFrequency": "moreThanOncePerWeek",
- "warWinStreak": 0,
- "warWins": 96,
+ "warWinStreak": 1,
+ "warWins": 97,
  "warTies": 7,
  "warLosses": 82,
  "isWarLogPublic": true,
@@ -117,7 +117,7 @@
    "builderBaseTrophies": 4186,
    "clanRank": 2,
    "previousClanRank": 2,
-   "donations": 1778,
+   "donations": 1866,
    "donationsReceived": 867,
    "playerHouse": {
     "elements": [
@@ -272,8 +272,8 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 323,
-   "builderBaseTrophies": 3114,
+   "trophies": 339,
+   "builderBaseTrophies": 2989,
    "clanRank": 5,
    "previousClanRank": 5,
    "donations": 340,
@@ -299,8 +299,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000025,
-    "name": "Iron League I"
+    "id": 44000024,
+    "name": "Iron League II"
    }
   },
   {
@@ -485,12 +485,12 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 313,
+   "trophies": 353,
    "builderBaseTrophies": 3499,
    "clanRank": 9,
    "previousClanRank": 9,
    "donations": 724,
-   "donationsReceived": 3483,
+   "donationsReceived": 3571,
    "playerHouse": {
     "elements": [
      {
@@ -538,7 +538,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 149,
+   "trophies": 161,
    "builderBaseTrophies": 2856,
    "clanRank": 10,
    "previousClanRank": 10,
@@ -750,7 +750,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 60,
+   "trophies": 90,
    "builderBaseTrophies": 3331,
    "clanRank": 14,
    "previousClanRank": 14,
@@ -1068,7 +1068,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iTWXPUUFQy0uEb7NDpMTyzGMFOJvlC4SLAqlHYgC8do.png"
     }
    },
-   "trophies": 470,
+   "trophies": 563,
    "builderBaseTrophies": 4711,
    "clanRank": 20,
    "previousClanRank": 20,
@@ -1264,7 +1264,7 @@
    "name": "boss",
    "role": "member",
    "townHallLevel": 16,
-   "expLevel": 82,
+   "expLevel": 83,
    "league": {
     "id": 29000000,
     "name": "Unranked",

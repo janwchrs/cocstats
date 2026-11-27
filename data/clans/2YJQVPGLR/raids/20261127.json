@@ -2,10 +2,10 @@
  "state": "ongoing",
  "startTime": "20261127T070000.000Z",
  "endTime": "20261130T070000.000Z",
- "capitalTotalLoot": 187203,
- "raidsCompleted": 1,
- "totalAttacks": 42,
- "enemyDistrictsDestroyed": 17,
+ "capitalTotalLoot": 201179,
+ "raidsCompleted": 2,
+ "totalAttacks": 48,
+ "enemyDistrictsDestroyed": 18,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
@@ -58,6 +58,14 @@
    "capitalResourcesLooted": 25400
   },
   {
+   "tag": "#G9VRCRULP",
+   "name": "PizzaMine1134",
+   "attacks": 4,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 7190
+  },
+  {
    "tag": "#QJLYV2R0Y",
    "name": "Nemo",
    "attacks": 6,
@@ -68,10 +76,10 @@
   {
    "tag": "#GQRJVGRQY",
    "name": "Pizza-Bär",
-   "attacks": 1,
+   "attacks": 3,
    "attackLimit": 5,
    "bonusAttackLimit": 1,
-   "capitalResourcesLooted": 1195
+   "capitalResourcesLooted": 7981
   }
  ],
  "attackLog": [
@@ -378,18 +386,68 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/ZoBy3ZhpXm9kt6ZCvfPxAlEO9izTmidhA2FvE5LwivU.png"
     }
    },
-   "attackCount": 20,
+   "attackCount": 26,
    "districtCount": 9,
-   "districtsDestroyed": 8,
+   "districtsDestroyed": 9,
    "districts": [
     {
      "id": 70000000,
      "name": "Capital Peak",
      "districtHallLevel": 10,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 6,
+     "totalLooted": 13976,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#GQRJVGRQY",
+        "name": "Pizza-Bär"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#GQRJVGRQY",
+        "name": "Pizza-Bär"
+       },
+       "destructionPercent": 92,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#G9VRCRULP",
+        "name": "PizzaMine1134"
+       },
+       "destructionPercent": 38,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#G9VRCRULP",
+        "name": "PizzaMine1134"
+       },
+       "destructionPercent": 30,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#G9VRCRULP",
+        "name": "PizzaMine1134"
+       },
+       "destructionPercent": 20,
+       "stars": 0
+      },
+      {
+       "attacker": {
+        "tag": "#G9VRCRULP",
+        "name": "PizzaMine1134"
+       },
+       "destructionPercent": 10,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000001,
@@ -640,7 +698,252 @@
      ]
     }
    ]
+  },
+  {
+   "defender": {
+    "tag": "#2L0YRC2JL",
+    "name": "⚡⭐TuArMy⭐⚡",
+    "level": 23,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png"
+    }
+   },
+   "attackCount": 0,
+   "districtCount": 9,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 10,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000003,
+     "name": "Balloon Lagoon",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000004,
+     "name": "Builder's Workshop",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000005,
+     "name": "Dragon Cliffs",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000006,
+     "name": "Golem Quarry",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000007,
+     "name": "Skeleton Park",
+     "districtHallLevel": 4,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000008,
+     "name": "Goblin Mines",
+     "districtHallLevel": 4,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    }
+   ]
   }
  ],
- "defenseLog": []
+ "defenseLog": [
+  {
+   "attacker": {
+    "tag": "#298LVJ8L0",
+    "name": "☠️",
+    "level": 22,
+    "badgeUrls": {
+     "small": "https://api-assets.clashofclans.com/badges/70/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png",
+     "large": "https://api-assets.clashofclans.com/badges/512/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png",
+     "medium": "https://api-assets.clashofclans.com/badges/200/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png"
+    }
+   },
+   "attackCount": 5,
+   "districtCount": 9,
+   "districtsDestroyed": 0,
+   "districts": [
+    {
+     "id": 70000000,
+     "name": "Capital Peak",
+     "districtHallLevel": 10,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000001,
+     "name": "Barbarian Camp",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000002,
+     "name": "Wizard Valley",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000003,
+     "name": "Balloon Lagoon",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000004,
+     "name": "Builder's Workshop",
+     "districtHallLevel": 5,
+     "destructionPercent": 81,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 8500,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QRJP0Y2GR",
+        "name": "francesco ☠️"
+       },
+       "destructionPercent": 81,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#QRJP0Y2GR",
+        "name": "francesco ☠️"
+       },
+       "destructionPercent": 45,
+       "stars": 0
+      }
+     ]
+    },
+    {
+     "id": 70000005,
+     "name": "Dragon Cliffs",
+     "districtHallLevel": 5,
+     "destructionPercent": 0,
+     "stars": 0,
+     "attackCount": 0,
+     "totalLooted": 0
+    },
+    {
+     "id": 70000006,
+     "name": "Golem Quarry",
+     "districtHallLevel": 5,
+     "destructionPercent": 36,
+     "stars": 1,
+     "attackCount": 1,
+     "totalLooted": 2410,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QRJP0Y2GR",
+        "name": "francesco ☠️"
+       },
+       "destructionPercent": 36,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000007,
+     "name": "Skeleton Park",
+     "districtHallLevel": 4,
+     "destructionPercent": 32,
+     "stars": 1,
+     "attackCount": 1,
+     "totalLooted": 2270,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QRJP0Y2GR",
+        "name": "francesco ☠️"
+       },
+       "destructionPercent": 32,
+       "stars": 1
+      }
+     ]
+    },
+    {
+     "id": 70000008,
+     "name": "Goblin Mines",
+     "districtHallLevel": 4,
+     "destructionPercent": 33,
+     "stars": 0,
+     "attackCount": 1,
+     "totalLooted": 3980,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#QRJP0Y2GR",
+        "name": "francesco ☠️"
+       },
+       "destructionPercent": 33,
+       "stars": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }

@@ -1,5 +1,38 @@
 [
  {
+  "result": "win",
+  "endTime": "20261127T204406.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "battleModifier": "none",
+  "clan": {
+   "tag": "#2YJQVPGLR",
+   "name": "Gesundheit",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/x74JCmNYjX8xFQI5ZYnEGDp3bTUUfHROqFS56Wx6YjE.png"
+   },
+   "clanLevel": 19,
+   "attacks": 9,
+   "stars": 13,
+   "destructionPercentage": 93.4,
+   "expEarned": 156
+  },
+  "opponent": {
+   "tag": "#2RQLGRRV2",
+   "name": "ts61",
+   "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/-D6fTeMZxurtcGwL5JGSYe7ZSVGtj5PZG7TBtMBJRP4.png"
+   },
+   "clanLevel": 8,
+   "stars": 6,
+   "destructionPercentage": 53.2
+  }
+ },
+ {
   "result": "lose",
   "endTime": "20261122T194236.000Z",
   "teamSize": 5,

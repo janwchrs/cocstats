@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23821,
+ "clanBuilderBasePoints": 23844,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -111,7 +111,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
     }
    },
-   "trophies": 528,
+   "trophies": 543,
    "builderBaseTrophies": 4626,
    "clanRank": 2,
    "previousClanRank": 2,
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 395,
+   "trophies": 447,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 237,
+   "trophies": 261,
    "builderBaseTrophies": 3271,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -323,7 +323,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 363,
+   "trophies": 390,
    "builderBaseTrophies": 2787,
    "clanRank": 6,
    "previousClanRank": 6,
@@ -376,7 +376,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
     }
    },
-   "trophies": 123,
+   "trophies": 148,
    "builderBaseTrophies": 3417,
    "clanRank": 7,
    "previousClanRank": 7,
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 398,
+   "trophies": 466,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -677,7 +677,7 @@
    "name": "xTheDenny",
    "role": "leader",
    "townHallLevel": 14,
-   "expLevel": 139,
+   "expLevel": 140,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -730,7 +730,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 8,
-   "expLevel": 34,
+   "expLevel": 35,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -801,7 +801,7 @@
     }
    },
    "trophies": 11,
-   "builderBaseTrophies": 362,
+   "builderBaseTrophies": 556,
    "clanRank": 15,
    "previousClanRank": 15,
    "donations": 6,
@@ -827,8 +827,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000003,
-    "name": "Wood League II"
+    "id": 44000005,
+    "name": "Clay League V"
    }
   },
   {
