@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23795,
+ "clanBuilderBasePoints": 23811,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -164,7 +164,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
     }
    },
-   "trophies": 380,
+   "trophies": 395,
    "builderBaseTrophies": 3000,
    "clanRank": 3,
    "previousClanRank": 3,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 209,
+   "trophies": 237,
    "builderBaseTrophies": 3271,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -482,7 +482,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png"
     }
    },
-   "trophies": 387,
+   "trophies": 398,
    "builderBaseTrophies": 3738,
    "clanRank": 9,
    "previousClanRank": 9,
@@ -748,7 +748,7 @@
     }
    },
    "trophies": 160,
-   "builderBaseTrophies": 1000,
+   "builderBaseTrophies": 1138,
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 0,
@@ -774,8 +774,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000010,
-    "name": "Stone League V"
+    "id": 44000011,
+    "name": "Stone League IV"
    }
   },
   {

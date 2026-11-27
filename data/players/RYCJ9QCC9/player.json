@@ -9,8 +9,8 @@
  "attackWins": 0,
  "defenseWins": 0,
  "builderHallLevel": 5,
- "builderBaseTrophies": 1000,
- "bestBuilderBaseTrophies": 1045,
+ "builderBaseTrophies": 1138,
+ "bestBuilderBaseTrophies": 1165,
  "role": "member",
  "warPreference": "in",
  "donations": 0,
@@ -35,8 +35,8 @@
   }
  },
  "builderBaseLeague": {
-  "id": 44000010,
-  "name": "Stone League V"
+  "id": 44000011,
+  "name": "Stone League IV"
  },
  "currentLeagueGroupTag": "#98JUC8L",
  "currentLeagueSeasonId": 1795410000,
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 155,
+   "value": 156,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 155",
+   "completionInfo": "Total obstacles removed: 156",
    "village": "home"
   },
   {
@@ -289,19 +289,19 @@
   {
    "name": "Un-Build It",
    "stars": 1,
-   "value": 40,
+   "value": 46,
    "target": 100,
    "info": "Destroy 100 Builder Halls in Builder Battles",
-   "completionInfo": "Total Builder Halls destroyed: 40",
+   "completionInfo": "Total Builder Halls destroyed: 46",
    "village": "builderBase"
   },
   {
    "name": "Champion Builder",
    "stars": 2,
-   "value": 1045,
+   "value": 1165,
    "target": 3000,
    "info": "Achieve a total of 3000 trophies in Builder Battles",
-   "completionInfo": "Builder Trophy record: 1045",
+   "completionInfo": "Builder Trophy record: 1165",
    "village": "builderBase"
   },
   {
@@ -576,26 +576,6 @@
    }
   }
  ],
- "heroEquipment": [
-  {
-   "name": "Barbarian Puppet",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Rage Vial",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Earthquake Boots",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  }
- ],
  "troops": [
   {
    "name": "Barbarian",
@@ -812,6 +792,26 @@
    "village": "home"
   }
  ],
+ "heroEquipment": [
+  {
+   "name": "Barbarian Puppet",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Vial",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Earthquake Boots",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  }
+ ],
  "spells": [
   {
    "name": "Lightning Spell",
@@ -821,7 +821,7 @@
   },
   {
    "name": "Healing Spell",
-   "level": 1,
+   "level": 2,
    "maxLevel": 13,
    "village": "home"
   },
