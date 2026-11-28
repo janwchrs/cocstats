@@ -58,7 +58,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
     }
    },
-   "trophies": 208,
+   "trophies": 225,
    "builderBaseTrophies": 3728,
    "clanRank": 1,
    "previousClanRank": 1,
@@ -217,7 +217,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
     }
    },
-   "trophies": 261,
+   "trophies": 274,
    "builderBaseTrophies": 3271,
    "clanRank": 4,
    "previousClanRank": 4,
@@ -752,7 +752,7 @@
    "clanRank": 14,
    "previousClanRank": 14,
    "donations": 0,
-   "donationsReceived": 20,
+   "donationsReceived": 40,
    "playerHouse": {
     "elements": [
      {
@@ -1047,8 +1047,8 @@
    "tag": "#R000LP9C8",
    "name": "jockersss",
    "role": "member",
-   "townHallLevel": 7,
-   "expLevel": 27,
+   "townHallLevel": 8,
+   "expLevel": 29,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -1069,7 +1069,7 @@
    "builderBaseTrophies": 40,
    "clanRank": 20,
    "previousClanRank": 20,
-   "donations": 27,
+   "donations": 47,
    "donationsReceived": 0,
    "playerHouse": {
     "elements": [

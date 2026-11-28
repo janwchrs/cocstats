@@ -14,7 +14,7 @@
  "role": "member",
  "warPreference": "in",
  "donations": 0,
- "donationsReceived": 20,
+ "donationsReceived": 40,
  "clanCapitalContributions": 100,
  "clan": {
   "tag": "#2CCPLPP90",
@@ -73,10 +73,10 @@
   {
    "name": "Nice and Tidy",
    "stars": 2,
-   "value": 158,
+   "value": 159,
    "target": 500,
    "info": "Remove 500 obstacles (trees, rocks, bushes)",
-   "completionInfo": "Total obstacles removed: 158",
+   "completionInfo": "Total obstacles removed: 159",
    "village": "home"
   },
   {
@@ -576,6 +576,26 @@
    }
   }
  ],
+ "heroEquipment": [
+  {
+   "name": "Earthquake Boots",
+   "level": 7,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Barbarian Puppet",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  },
+  {
+   "name": "Rage Vial",
+   "level": 1,
+   "maxLevel": 18,
+   "village": "home"
+  }
+ ],
  "troops": [
   {
    "name": "Barbarian",
@@ -778,7 +798,7 @@
    "equipment": [
     {
      "name": "Earthquake Boots",
-     "level": 1,
+     "level": 7,
      "maxLevel": 18,
      "village": "home"
     },
@@ -796,26 +816,6 @@
    "level": 1,
    "maxLevel": 35,
    "village": "builderBase"
-  }
- ],
- "heroEquipment": [
-  {
-   "name": "Barbarian Puppet",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Rage Vial",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
-  },
-  {
-   "name": "Earthquake Boots",
-   "level": 1,
-   "maxLevel": 18,
-   "village": "home"
   }
  ],
  "spells": [

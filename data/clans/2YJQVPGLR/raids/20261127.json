@@ -810,9 +810,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png"
     }
    },
-   "attackCount": 5,
+   "attackCount": 8,
    "districtCount": 9,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 1,
    "districts": [
     {
      "id": 70000000,
@@ -911,9 +911,17 @@
      "districtHallLevel": 4,
      "destructionPercent": 32,
      "stars": 1,
-     "attackCount": 1,
+     "attackCount": 2,
      "totalLooted": 2270,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#982GC0VQ",
+        "name": "leo823"
+       },
+       "destructionPercent": 32,
+       "stars": 1
+      },
       {
        "attacker": {
         "tag": "#QRJP0Y2GR",
@@ -928,11 +936,27 @@
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 33,
-     "stars": 0,
-     "attackCount": 1,
-     "totalLooted": 3980,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11852,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#982GC0VQ",
+        "name": "leo823"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#982GC0VQ",
+        "name": "leo823"
+       },
+       "destructionPercent": 83,
+       "stars": 2
+      },
       {
        "attacker": {
         "tag": "#QRJP0Y2GR",
