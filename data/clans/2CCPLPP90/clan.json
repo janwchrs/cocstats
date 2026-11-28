@@ -17,7 +17,7 @@
  },
  "clanLevel": 3,
  "clanPoints": 38050,
- "clanBuilderBasePoints": 23844,
+ "clanBuilderBasePoints": 23857,
  "clanCapitalPoints": 425,
  "capitalLeague": {
   "id": 85000002,
@@ -571,7 +571,7 @@
    "name": "Niels2612",
    "role": "member",
    "townHallLevel": 17,
-   "expLevel": 165,
+   "expLevel": 166,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -694,7 +694,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
     }
    },
-   "trophies": 286,
+   "trophies": 302,
    "builderBaseTrophies": 2751,
    "clanRank": 13,
    "previousClanRank": 13,
@@ -730,7 +730,7 @@
    "name": "DonJaw",
    "role": "member",
    "townHallLevel": 8,
-   "expLevel": 35,
+   "expLevel": 36,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -747,7 +747,7 @@
      "large": "https://api-assets.clashofclans.com/leaguetiers/326/CmM-Tihn6ojPGJstmTK_HC-QairrpYLyRhdKhQjkacQ.png"
     }
    },
-   "trophies": 160,
+   "trophies": 240,
    "builderBaseTrophies": 1138,
    "clanRank": 14,
    "previousClanRank": 14,
@@ -783,7 +783,7 @@
    "name": "Pscxll",
    "role": "member",
    "townHallLevel": 7,
-   "expLevel": 28,
+   "expLevel": 29,
    "league": {
     "id": 29000000,
     "name": "Unranked",
@@ -801,7 +801,7 @@
     }
    },
    "trophies": 11,
-   "builderBaseTrophies": 556,
+   "builderBaseTrophies": 662,
    "clanRank": 15,
    "previousClanRank": 15,
    "donations": 6,
@@ -827,8 +827,8 @@
     ]
    },
    "builderBaseLeague": {
-    "id": 44000005,
-    "name": "Clay League V"
+    "id": 44000006,
+    "name": "Clay League IV"
    }
   },
   {

@@ -2,13 +2,21 @@
  "state": "ongoing",
  "startTime": "20261127T070000.000Z",
  "endTime": "20261130T070000.000Z",
- "capitalTotalLoot": 201179,
+ "capitalTotalLoot": 231286,
  "raidsCompleted": 2,
- "totalAttacks": 48,
- "enemyDistrictsDestroyed": 18,
+ "totalAttacks": 55,
+ "enemyDistrictsDestroyed": 20,
  "offensiveReward": 0,
  "defensiveReward": 0,
  "members": [
+  {
+   "tag": "#89VRV2PP",
+   "name": "Nudeler",
+   "attacks": 6,
+   "attackLimit": 5,
+   "bonusAttackLimit": 1,
+   "capitalResourcesLooted": 23832
+  },
   {
    "tag": "#LP2YP8QQQ",
    "name": "Kriegerjojo01",
@@ -24,6 +32,14 @@
    "attackLimit": 5,
    "bonusAttackLimit": 1,
    "capitalResourcesLooted": 31153
+  },
+  {
+   "tag": "#LPUL0CQJQ",
+   "name": "[4k]Notuto",
+   "attacks": 1,
+   "attackLimit": 5,
+   "bonusAttackLimit": 0,
+   "capitalResourcesLooted": 6275
   },
   {
    "tag": "#R9YRLGGV",
@@ -710,9 +726,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/ynh-7mjSMnxzLV4yg04gr6Kl4EINsGrH32AohjB9oRE.png"
     }
    },
-   "attackCount": 0,
+   "attackCount": 7,
    "districtCount": 9,
-   "districtsDestroyed": 0,
+   "districtsDestroyed": 2,
    "districts": [
     {
      "id": 70000000,
@@ -772,28 +788,90 @@
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 59,
+     "stars": 2,
+     "attackCount": 1,
+     "totalLooted": 6275,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#LPUL0CQJQ",
+        "name": "[4k]Notuto"
+       },
+       "destructionPercent": 59,
+       "stars": 2
+      }
+     ]
     },
     {
      "id": 70000007,
      "name": "Skeleton Park",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11724,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 91,
+       "stars": 2
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 36,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000008,
      "name": "Goblin Mines",
      "districtHallLevel": 4,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 12108,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 93,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#89VRV2PP",
+        "name": "Nudeler"
+       },
+       "destructionPercent": 42,
+       "stars": 0
+      }
+     ]
     }
    ]
   }
@@ -810,9 +888,9 @@
      "medium": "https://api-assets.clashofclans.com/badges/200/1SHgkm0hNV7V3RZTIydaptFRFFS9oGpmu3nz0fkJdDk.png"
     }
    },
-   "attackCount": 8,
+   "attackCount": 16,
    "districtCount": 9,
-   "districtsDestroyed": 1,
+   "districtsDestroyed": 4,
    "districts": [
     {
      "id": 70000000,
@@ -827,10 +905,20 @@
      "id": 70000001,
      "name": "Barbarian Camp",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
+     "destructionPercent": 37,
      "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "attackCount": 1,
+     "totalLooted": 1735,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8CCPCC8J",
+        "name": "lampobianco"
+       },
+       "destructionPercent": 37,
+       "stars": 0
+      }
+     ]
     },
     {
      "id": 70000002,
@@ -845,20 +933,54 @@
      "id": 70000003,
      "name": "Balloon Lagoon",
      "districtHallLevel": 5,
-     "destructionPercent": 0,
-     "stars": 0,
-     "attackCount": 0,
-     "totalLooted": 0
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 10987,
+     "attacks": [
+      {
+       "attacker": {
+        "tag": "#8CCPCC8J",
+        "name": "lampobianco"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8CCPCC8J",
+        "name": "lampobianco"
+       },
+       "destructionPercent": 66,
+       "stars": 1
+      },
+      {
+       "attacker": {
+        "tag": "#8CCPCC8J",
+        "name": "lampobianco"
+       },
+       "destructionPercent": 52,
+       "stars": 1
+      }
+     ]
     },
     {
      "id": 70000004,
      "name": "Builder's Workshop",
      "districtHallLevel": 5,
-     "destructionPercent": 81,
-     "stars": 2,
-     "attackCount": 2,
-     "totalLooted": 8500,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 3,
+     "totalLooted": 11450,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#28GVURVRG",
+        "name": "Destroyer_25"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
       {
        "attacker": {
         "tag": "#QRJP0Y2GR",
@@ -890,11 +1012,19 @@
      "id": 70000006,
      "name": "Golem Quarry",
      "districtHallLevel": 5,
-     "destructionPercent": 36,
-     "stars": 1,
-     "attackCount": 1,
-     "totalLooted": 2410,
+     "destructionPercent": 84,
+     "stars": 2,
+     "attackCount": 2,
+     "totalLooted": 8275,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#28GVURVRG",
+        "name": "Destroyer_25"
+       },
+       "destructionPercent": 84,
+       "stars": 2
+      },
       {
        "attacker": {
         "tag": "#QRJP0Y2GR",
@@ -909,11 +1039,27 @@
      "id": 70000007,
      "name": "Skeleton Park",
      "districtHallLevel": 4,
-     "destructionPercent": 32,
-     "stars": 1,
-     "attackCount": 2,
-     "totalLooted": 2270,
+     "destructionPercent": 100,
+     "stars": 3,
+     "attackCount": 4,
+     "totalLooted": 11923,
      "attacks": [
+      {
+       "attacker": {
+        "tag": "#8CCPCC8J",
+        "name": "lampobianco"
+       },
+       "destructionPercent": 100,
+       "stars": 3
+      },
+      {
+       "attacker": {
+        "tag": "#8CCPCC8J",
+        "name": "lampobianco"
+       },
+       "destructionPercent": 73,
+       "stars": 2
+      },
       {
        "attacker": {
         "tag": "#982GC0VQ",
